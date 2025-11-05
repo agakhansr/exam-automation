@@ -1,0 +1,228 @@
+[
+  {
+    "id": 1,
+    "question": "Azərbaycan Respublikasının Prezidenti \"Azərbaycan Respublikasının Mülki Müdafiəsi haqqında Əsasnamənin təsdiq edilməsi barədə 73 saylı fərmanı nə vaxt imzalamışdır?",
+    "options": [
+      "1993-cü il iyulun 31-də",
+      "1992-ci il iyulun 31-də",
+      "1995-ci il iyulun 31-də",
+      "1994-cü il iyulun 31-də",
+      "1991-ci il iyulun 31-də"
+    ],
+    "answer": "1992-ci il iyulun 31-də"
+  },
+  {
+    "id": 2,
+    "question": "Dinc və ya müharibə dövrlərində fövqəladə hadisələrdən müdafiə olunma qaydalarının və vasitələrinin əhaliyə öyrədilməsi kimlərin vəzifəsinə daxildir?",
+    "options": [
+      "Post patrul xidmətinin.",
+      "Yolları mühafizə xidmətinin;",
+      "Bakı nəqliyyat agentliyinin;",
+      "Yanğından mühafizə xidmətinin;",
+      "Dövlətin;"
+    ],
+    "answer": "Dövlətin;"
+  },
+  {
+    "id": 3,
+    "question": "Tibb xidmət generalı fransız Corc Sant-Pol Parisdə \"Cenevrə Regionu Assosiasiyası\" təşkilatını neçənci ildə yaradır?",
+    "options": [
+      "1921-ci ilin mayında",
+      "1931-ci ilin mayında",
+      "1991-ci ilin mayında",
+      "1933-cü ilin mayında",
+      "1932-ci ilin mayında"
+    ],
+    "answer": "1931-ci ilin mayında"
+  },
+  {
+    "id": 4,
+    "question": "Ali məktəblərin əyani, qiyabi şöbələrinin bütün tələbələrinə öyrədilməsi məcburi olan fənn hansıdır və tədris planlarına xüsusi fənn kimi daxil edilir?",
+    "options": [
+      "Riyaziyyat fənni",
+      "Kimya fənni",
+      "Politologiya fənni",
+      "Mülki müdafiə fənni",
+      "Azərbaycan tarixi fənni"
+    ],
+    "answer": "Mülki müdafiə fənni"
+  },
+  {
+    "id": 5,
+    "question": "Beynəlxalq MM günü hansı tarixdə qeyd olunur?",
+    "options": ["1 aprel;", "1iyul.", "1 mart;", "1iyun;", "1 may;"],
+    "answer": "1 mart;"
+  },
+  {
+    "id": 6,
+    "question": "Ərazi prinsipi nə deməkdir?",
+    "options": [
+      "Ayrı –ayrı bölgələrdə təşkil edilməsi;",
+      "Obyektlərdə təşkil edilməsi;",
+      "Şəhərlərdə təşkil edilməsi;",
+      "Kənd yerlərində təşkil edilməsi;",
+      "MM tədbirlərinin respublikanın bütün ərazisində təşkil edilməsi;"
+    ],
+    "answer": "MM tədbirlərinin respublikanın bütün ərazisində təşkil edilməsi;"
+  },
+  {
+    "id": 7,
+    "question": "Respublikada \"Mülki müdafiə\"nin fəaliyyətinin təşkilinə nəzarət və tam məsuliyyət borcu olan, kimlərə həvalə edilmişdir?",
+    "options": [
+      "Dövlət Təhlükəsizliyi Xidməti.",
+      "Fövqəladə Hallar Nazirliyi;",
+      "Müdafiə Nazirliyi;",
+      "Daxili İşlər Nazirliyi;",
+      "Azərbaycan Rspublikasının Baş naziri;"
+    ],
+    "answer": "Fövqəladə Hallar Nazirliyi;"
+  },
+  {
+    "id": 8,
+    "question": "Əhaliyə mülki müdafiə tədbirlərinin öyrədilməsini təşkil etmək, əhalini fərdi və kollektiv mühafizə vasitələri ilə təmin etmək kimlərə həvalə olunur?",
+    "options": [
+      "Dövlət hakimiyyət orqanlarına;",
+      "Obyekt rəhbərlərinə;",
+      "Polis rəisinə;",
+      "Rayonun icra hakimiyyətinə;",
+      "İdarə və təşkilatlara;"
+    ],
+    "answer": "İdarə və təşkilatlara;"
+  },
+  {
+    "id": 9,
+    "question": "Mülki müdafiə üçün kadrların hazırlanmasını təşkil etmək və həyata keçirmək hansı nazirlik həyata keçirir?",
+    "options": [
+      "Fövqəladə Hallar Nazirliyi;",
+      "Müdafiə Nazirliyi;",
+      "Daxili İşlər Nazirliyi;",
+      "Dövlət Təhlükəsizliyi Xidməti.",
+      "Maliyyə Nazirliyi;"
+    ],
+    "answer": "Fövqəladə Hallar Nazirliyi;"
+  },
+  {
+    "id": 10,
+    "question": "Fövqəladə hadisələrdən zərər çəkmiş əhalinin sosial müdafiəsi üçün lazımi tədbirlər həyata keçirmək kimin səlahiyyətinə daxildir?",
+    "options": [
+      "Müdafiə Nazirliyi;",
+      "Dövlət Təhlükəsizliyi Xidməti.",
+      "Daxili İşlər Nazirliyi;",
+      "Maliyyə Nazirliyi",
+      "Dövlətin;"
+    ],
+    "answer": "Dövlətin;"
+  },
+  {
+    "id": 11,
+    "question": "Fövqəladə hadisələrin nəticələrinin aradan qaldırılması üçün maddi və maliyyə vəsaitləri ehtiyatı yaratmaq kimlərin vəzifəsinə daxildir?",
+    "options": [
+      "Dövlət Təhlükəsizliyi Xidməti.",
+      "Maliyyə Nazirliyi.",
+      "Dövlətin.",
+      "Daxili İşlər Nazirliyi.",
+      "Müdafiə Nazirliyi."
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Sülh dövründəki FH-lar hansılardır?",
+    "options": [
+      "silahların tətbiqi, sənaye, ekoloji, hərbi;",
+      "təbii, texnogen,ekoloji;",
+      "adi qırğın silahların tətbiqi, su basma, kosmik təhkükələr, nəqliyyat;",
+      "hidrosferin vəziyyətinə dəyişməsi, nüvə silahının tətbiqi, yer sürüşməsi;",
+      "kiməvi silahın tətbiqi, təbii, bakterioloji silahın tətbiqi, texnoloji;"
+    ],
+    "answer": "adi qırğın silahların tətbiqi, su basma, kosmik təhkükələr, nəqliyyat;"
+  },
+  {
+    "id": 13,
+    "question": "Məişət xarakterli fövqəladə hadisələri hansılardır?",
+    "options": [
+      "Zəhərlənmə, zəlzələ",
+      "Elektrik cərəyanın təsirindən qəza, sunami",
+      "Qaz partlaması, yanğın, qazdan boğulma, zəhərlənmə",
+      "İlan sancması, əqrəb sancması, qaz partlaması, yanğın",
+      "Suda batma-boğulma, vulkan püsgürməsi"
+    ],
+    "answer": "Qaz partlaması, yanğın, qazdan boğulma, zəhərlənmə"
+  },
+  {
+    "id": 14,
+    "question": "Vulkanik zəlzələlər nədən əmələ gəlir?",
+    "options": [
+      "Vulkan püskürməsindən",
+      "Yeraltı nüvə partlayışından",
+      "Yeraltı qazların partlamasından",
+      "Yealtı parçalanmalardan",
+      "Yeraltı çatlardan"
+    ],
+    "answer": "Vulkan püskürməsindən"
+  },
+  {
+    "id": 15,
+    "question": "Sellər növlərinə görə hansılardır?",
+    "options": [
+      "Dolu yağan zaman baş verən sellər; Turbulentli sellər, strukturlu sellər.",
+      "Qarın əriməsi və payız selləri; Yeraltı daşqınlar və yerüstü sellər;",
+      "Turbulentli sellər, strukturu olmayan sellər.",
+      "Dolu yağan zaman baş verən sellər; Qarın əriməsi və payız selləri;",
+      "Yeraltı daşqınlar və yerüstü sellər; Turbulentli sellər."
+    ],
+    "answer": "Dolu yağan zaman baş verən sellər; Turbulentli sellər, strukturlu sellər."
+  },
+  {
+    "id": 16,
+    "question": "Zəlzələnin insanlara təsiri necə olur?",
+    "options": [
+      "Ölümlə və psixoloji sarsıntı ilə nəticələnir;",
+      "Ərazidə təhlükələr yaranması ilə nəticələnir ;",
+      "Vulkan qazlarından insanların xəbərdar edilməsi ilə nəticələnir;",
+      "Çaylarda göllərin əmələ gəlməsi ilə nəticələnir;",
+      "Binaların, qurğuların əyilməməsi ilə nəticələnir;"
+    ],
+    "answer": "Ölümlə və psixoloji sarsıntı ilə nəticələnir;"
+  },
+  {
+    "id": 17,
+    "question": "Zəlzələnin gücü (zəlzələ enerjisinin intensivliyi) hansı cədvəl üzrə ölçülür?",
+    "options": [
+      "11 ballıq Merkali cədvəli ilə",
+      "7 ballıq Merkali cədvəli ilə",
+      "14 ballıq Merkali cədvəli ilə",
+      "16 ballıq Merkali cədvəli ilə",
+      "12 ballıq Merkali cədvəli ilə"
+    ],
+    "answer": "11 ballıq Merkali cədvəli ilə"
+  },
+  {
+    "id": 18,
+    "question": "Zəlzələnin gücü hansı şkala ilə ölçülür?",
+    "options": [
+      "11 ballıq rixter şkalası ilə",
+      "9 ballıq rixter şkalası ilə",
+      "16 ballıq rixter şkalası ilə",
+      "7 ballıq rixter şkalası ilə"
+    ],
+    "answer": "11 ballıq rixter şkalası ilə"
+  },
+  {
+    "id": 19,
+    "question": "Ekoloji xarakterli FH necə təsnif olunur?",
+    "options": [
+      "Ərazidə partlayışın baş verməsi, sənaye müəssisələrinin qəzaya uğraması, azon dəliyi;",
+      "Bitki örtüyünün yolxucu xəstəliyə tutulması, meşələrin yanması və məişət qəzaları;",
+      "Gəmiricilərin geniş əraziyə yayılması, kimyəvi zəhərlənmə;",
+      "Hidrosferin, atmosferin, biosferin, yerin tərkibinin dəyişməsi ilə;",
+      "Meşələrin, dənizlərin bioloji təsirə məruz qalması, yanması, göllərin qurumaması ilə."
+    ],
+    "answer": "Hidrosferin, atmosferin, biosferin, yerin tərkibinin dəyişməsi ilə;"
+  },
+  {
+    "id": 20,
+    "question": "Ölkəmizin bütün ərazisinə yayılan qrip epidemiyası miqyasına görə hansı növ fövqəladə haldır?",
+    "options": ["lokal", "yerli", "qlobal", "Milli", "regional"],
+    "answer": "qlobal"
+  }
+]

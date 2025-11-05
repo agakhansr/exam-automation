@@ -1,0 +1,568 @@
+[
+  {
+    "id": 1,
+    "question": "Azərbaycan Respublikasının Prezidenti \"Azərbaycan Respublikasının Mülki Müdafiəsi haqqında Əsasnamənin təsdiq edilməsi barədə 73 saylı fərmanı nə vaxt imzalamışdır?",
+    "options": [
+      "1993-cü il iyulun 31-də",
+      "1992-ci il iyulun 31-də",
+      "1995-ci il iyulun 31-də",
+      "1994-cü il iyulun 31-də",
+      "1991-ci il iyulun 31-də"
+    ],
+    "answer": "1992-ci il iyulun 31-də"
+  },
+  {
+    "id": 2,
+    "question": "Dinc və ya müharibə dövrlərində fövqəladə hadisələrdən müdafiə olunma qaydalarının və vasitələrinin əhaliyə öyrədilməsi kimlərin vəzifəsinə daxildir?",
+    "options": [
+      "Post patrul xidmətinin.",
+      "Yolları mühafizə xidmətinin;",
+      "Bakı nəqliyyat agentliyinin;",
+      "Yanğından mühafizə xidmətinin;",
+      "Dövlətin;"
+    ],
+    "answer": "Dövlətin;"
+  },
+  {
+    "id": 3,
+    "question": "Tibb xidmət generalı fransız Corc Sant-Pol Parisdə \"Cenevrə Regionu Assosiasiyası\" təşkilatını neçənci ildə yaradır?",
+    "options": [
+      "1921-ci ilin mayında",
+      "1931-ci ilin mayında",
+      "1991-ci ilin mayında",
+      "1933-cü ilin mayında",
+      "1932-ci ilin mayında"
+    ],
+    "answer": "1931-ci ilin mayında"
+  },
+  {
+    "id": 4,
+    "question": "Ali məktəblərin əyani, qiyabi şöbələrinin bütün tələbələrinə öyrədilməsi məcburi olan fənn hansıdır və tədris planlarına xüsusi fənn kimi daxil edilir?",
+    "options": [
+      "Riyaziyyat fənni",
+      "Kimya fənni",
+      "Politologiya fənni",
+      "Mülki müdafiə fənni",
+      "Azərbaycan tarixi fənni"
+    ],
+    "answer": "Mülki müdafiə fənni"
+  },
+  {
+    "id": 5,
+    "question": "Beynəlxalq MM günü hansı tarixdə qeyd olunur?",
+    "options": ["1 aprel", "1 iyul", "1 mart", "1 iyun", "1 may"],
+    "answer": "1 mart"
+  },
+  {
+    "id": 6,
+    "question": "Ərazi prinsipi nə deməkdir?",
+    "options": [
+      "Ayrı –ayrı bölgələrdə təşkil edilməsi",
+      "Obyektlərdə təşkil edilməsi",
+      "Şəhərlərdə təşkil edilməsi",
+      "Kənd yerlərində təşkil edilməsi",
+      "MM tədbirlərinin respublikanın bütün ərazisində təşkil edilməsi"
+    ],
+    "answer": "MM tədbirlərinin respublikanın bütün ərazisində təşkil edilməsi"
+  },
+  {
+    "id": 7,
+    "question": "Respublikada \"Mülki müdafiə\"nin fəaliyyətinin təşkilinə nəzarət və tam məsuliyyət borcu olan, kimlərə həvalə edilmişdir?",
+    "options": [
+      "Dövlət Təhlükəsizliyi Xidməti",
+      "Fövqəladə Hallar Nazirliyi",
+      "Müdafiə Nazirliyi",
+      "Daxili İşlər Nazirliyi",
+      "Azərbaycan Respublikasının Baş naziri"
+    ],
+    "answer": "Fövqəladə Hallar Nazirliyi"
+  },
+  {
+    "id": 8,
+    "question": "Əhaliyə mülki müdafiə tədbirlərinin öyrədilməsini təşkil etmək, əhalini fərdi və kollektiv mühafizə vasitələri ilə təmin etmək kimlərə həvalə olunur?",
+    "options": [
+      "Dövlət hakimiyyət orqanlarına",
+      "Obyekt rəhbərlərinə",
+      "Polis rəisinə",
+      "Rayonun icra hakimiyyətinə",
+      "İdarə və təşkilatlara"
+    ],
+    "answer": "İdarə və təşkilatlara"
+  },
+  {
+    "id": 9,
+    "question": "Mülki müdafiə üçün kadrların hazırlanmasını təşkil etmək və həyata keçirmək hansı nazirlik həyata keçirir?",
+    "options": [
+      "Fövqəladə Hallar Nazirliyi",
+      "Müdafiə Nazirliyi",
+      "Daxili İşlər Nazirliyi",
+      "Dövlət Təhlükəsizliyi Xidməti",
+      "Maliyyə Nazirliyi"
+    ],
+    "answer": "Fövqəladə Hallar Nazirliyi"
+  },
+  {
+    "id": 10,
+    "question": "Fövqəladə hadisələrdən zərər çəkmiş əhalinin sosial müdafiəsi üçün lazımi tədbirlər həyata keçirmək kimin səlahiyyətinə daxildir?",
+    "options": [
+      "Müdafiə Nazirliyi",
+      "Dövlət Təhlükəsizliyi Xidməti",
+      "Daxili İşlər Nazirliyi",
+      "Maliyyə Nazirliyi",
+      "Dövlətin"
+    ],
+    "answer": "Dövlətin"
+  },
+  {
+    "id": 11,
+    "question": "Fövqəladə hadisələrin nəticələrinin aradan qaldırılması üçün maddi və maliyyə vəsaitləri ehtiyatı yaratmaq kimlərin vəzifəsinə daxildir?",
+    "options": [
+      "Dövlət Təhlükəsizliyi Xidməti",
+      "Maliyyə Nazirliyi",
+      "Dövlətin",
+      "Daxili İşlər Nazirliyi",
+      "Müdafiə Nazirliyi"
+    ],
+    "answer": "Dövlətin"
+  },
+  {
+    "id": 12,
+    "question": "Sülh dövründəki FH-lar hansılardır?",
+    "options": [
+      "silahların tətbiqi, sənaye, ekoloji, hərbi",
+      "təbii, texnogen, ekoloji",
+      "adi qırğın silahların tətbiqi, su basma, kosmik təhlükələr, nəqliyyat",
+      "hidrosferin vəziyyətinə dəyişməsi, nüvə silahının tətbiqi, yer sürüşməsi",
+      "kimyəvi silahın tətbiqi, təbii, bakterioloji silahın tətbiqi, texnoloji"
+    ],
+    "answer": "təbii, texnogen, ekoloji"
+  },
+  {
+    "id": 13,
+    "question": "Məişət xarakterli fövqəladə hadisələri hansılardır?",
+    "options": [
+      "Zəhərlənmə, zəlzələ",
+      "Elektrik cərəyanın təsirindən qəza, sunami",
+      "Qaz partlaması, yanğın, qazdan boğulma, zəhərlənmə",
+      "İlan sancması, əqrəb sancması, qaz partlaması, yanğın",
+      "Suda batma-boğulma, vulkan püskürməsi"
+    ],
+    "answer": "Qaz partlaması, yanğın, qazdan boğulma, zəhərlənmə"
+  },
+  {
+    "id": 14,
+    "question": "Vulkanik zəlzələlər nədən əmələ gəlir?",
+    "options": [
+      "Vulkan püskürməsindən",
+      "Yeraltı nüvə partlayışından",
+      "Yeraltı qazların partlamasından",
+      "Yeraltı parçalanmalardan",
+      "Yeraltı çatlardan"
+    ],
+    "answer": "Vulkan püskürməsindən"
+  },
+  {
+    "id": 15,
+    "question": "Sellər növlərinə görə hansılardır?",
+    "options": [
+      "Dolu yağan zaman baş verən sellər",
+      "Turbulentli sellər, strukturlu sellər",
+      "Qarın əriməsi və payız selləri",
+      "Yeraltı daşqınlar və yerüstü sellər",
+      "Turbulentli sellər, strukturu olmayan sellər"
+    ],
+    "answer": "Turbulentli sellər, strukturu olmayan sellər"
+  },
+  {
+    "id": 16,
+    "question": "Zəlzələnin insanlara təsiri necə olur?",
+    "options": [
+      "Ölümlə və psixoloji sarsıntı ilə nəticələnir",
+      "Ərazidə təhlükələr yaranması ilə nəticələnir",
+      "Vulkan qazlarından insanların xəbərdar edilməsi ilə nəticələnir",
+      "Çaylarda göllərin əmələ gəlməsi ilə nəticələnir",
+      "Binaların, qurğuların əyilməməsi ilə nəticələnir"
+    ],
+    "answer": "Ölümlə və psixoloji sarsıntı ilə nəticələnir"
+  },
+  {
+    "id": 17,
+    "question": "Zəlzələnin gücü (zəlzələ enerjisinin intensivliyi) hansı cədvəl üzrə ölçülür?",
+    "options": [
+      "11 ballıq Merkali cədvəli ilə",
+      "7 ballıq Merkali cədvəli ilə",
+      "14 ballıq Merkali cədvəli ilə",
+      "16 ballıq Merkali cədvəli ilə",
+      "12 ballıq Merkali cədvəli ilə"
+    ],
+    "answer": "12 ballıq Merkali cədvəli ilə"
+  },
+  {
+    "id": 18,
+    "question": "Zəlzələnin gücü hansı şkala ilə ölçülür?",
+    "options": [
+      "11 ballıq Rixter şkalası ilə",
+      "9 ballıq Rixter şkalası ilə",
+      "16 ballıq Rixter şkalası ilə",
+      "7 ballıq Rixter şkalası ilə",
+      "14 ballıq Rixter şkalası ilə"
+    ],
+    "answer": "9 ballıq Rixter şkalası ilə"
+  },
+  {
+    "id": 19,
+    "question": "Ekoloji xarakterli FH necə təsnif olunur?",
+    "options": [
+      "Ərazidə partlayışın baş verməsi, sənaye müəssisələrinin qəzaya uğraması, ozon dəliyi",
+      "Bitki örtüyünün yolxucu xəstəliyə tutulması, meşələrin yanması və məişət qəzaları",
+      "Gəmiricilərin geniş əraziyə yayılması, kimyəvi zəhərlənmə",
+      "Hidrosferin, atmosferin, biosferin, yerin tərkibinin dəyişməsi ilə",
+      "Meşələrin, dənizlərin bioloji təsirə məruz qalması, yanması, göllərin quruması ilə"
+    ],
+    "answer": "Hidrosferin, atmosferin, biosferin, yerin tərkibinin dəyişməsi ilə"
+  },
+  {
+    "id": 20,
+    "question": "Ölkəmizin bütün ərazisinə yayılan qrip epidemiyası miqyasına görə hansı növ fövqəladə haldır?",
+    "options": ["lokal", "yerli", "qlobal", "Milli", "regional"],
+    "answer": "Milli"
+  },
+  {
+    "id": 21,
+    "question": "Siyasi xarakterli FH-lar hansılardır?",
+    "options": [
+      "Millətlərarası münaqişələr, narkotik maddə ticarəti, mütəşəkkil cinayətkarlıq, dövlət böhranı və s.",
+      "Ərazi, qohumluq və yaş həddi əlamətləri üzrə",
+      "Şəhərlərdə səs-küyün yol verilən hədd səviyyəsindən xeyli yüksək olması",
+      "Şəhər üzərində temperatur inversiyası yaranması",
+      "Peşə, dini və mülkiyyət əlaməti üzrə"
+    ],
+    "answer": "Millətlərarası münaqişələr, narkotik maddə ticarəti, mütəşəkkil cinayətkarlıq, dövlət böhranı və s."
+  },
+  {
+    "id": 22,
+    "question": "Fövqladə hallar nəyə deyilir?",
+    "options": [
+      "Kütləvi qırğın silahlarının tətbiqi zamanı yaranmış vəziyyətə deyilir;",
+      "Sənaye və texnogen qəzaları zamanı yaranan zədəocaqlarına deyilir.",
+      "Təbii fəlakətlər nəticəsində yaranmış vəziyyətə deyilir;",
+      "İnsan tələfatına, insanların səhhətinə və ya ətraf mühitə ziyan vurulmasına, əhəmiyyətli maddi itkilərə və səbəb ola biləcək və ya\nsəbəb olmuş hərbi əməliyyatlar, qəza, təbii və ya digər fəlakət nəticəsində baş verən hadisədir.",
+      "Güclü yanğınlar nəticəsində yaranmış vəziyyətə deyilir;"
+    ],
+    "answer": "İnsan tələfatına, insanların səhhətinə və ya ətraf mühitə ziyan vurulmasına, əhəmiyyətli maddi itkilərə və səbəb ola biləcək və ya\nsəbəb olmuş hərbi əməliyyatlar, qəza, təbii və ya digər fəlakət nəticəsində baş verən hadisədir."
+  },
+  {
+    "id": 23,
+    "question": "Təbii fəlakətlər nəticəsində nə baş verir?",
+    "options": [
+      "Onun nəticəsində xeryli əhalinin və təsərrüfat (iqtisadiyyat) obyektlərinin normal fəaliyyəti dayanıqlı olur, insanların zədələnməsi baş\nverir;",
+      "Onun nəticəsində əhalinin və təsərrüfat obyektlərinin normal həyat fəaliyyəti pozulur, maddi sərvətlər məhv olunur;",
+      "Onun nəticəsində təsərrüfat obyektləri sabit fəaliyyət göstərir və insanlar zədələnir;",
+      "Onun nəticəsində maddi sərvətlərə ziyan dəymir və insanların normal həyat fəaliyyəti davam edir;",
+      "Onun nəticəsində əhalinin fərdi surətdə köçürülməsi və insanların məhv olması baş verir."
+    ],
+    "answer": "Onun nəticəsində əhalinin və təsərrüfat obyektlərinin normal həyat fəaliyyəti pozulur, maddi sərvətlər məhv olunur;"
+  },
+  {
+    "id": 24,
+    "question": "Münaqişəli fövqəladə hadisələr hansılardır?",
+    "options": [
+      "miqyaslı tətillər, kütləvi iğtişaşlar",
+      "siyasi dözümlük, yanğınların törədilməsi",
+      "terrorizm, tugyan edən cinayətkarlıq, hərbi toqquşmalar, ekstremist siyasi mübarizə, milli və dini zəmində münaqişələr",
+      "siyasi narazılıqlar, sosial durğunluq",
+      "ekoloji mübarizə, sosial ədalət"
+    ],
+    "answer": "terrorizm, tugyan edən cinayətkarlıq, hərbi toqquşmalar, ekstremist siyasi mübarizə, milli və dini zəmində münaqişələr"
+  },
+  {
+    "id": 25,
+    "question": "Münaqişəsiz FH-ə hansı variant uyğun deyil?",
+    "options": [
+      "təbii, ekoloji, texnogen xarakterli",
+      "hərbi toqquşmalar, millətlərarası münaqişələr, terrorizm",
+      "hidroloji, meteoroloji, aqrometeoroloji",
+      "epidemiya, sosial partlayış, enzootiya",
+      "geoloji, geofiziki, təbii"
+    ],
+    "answer": "hərbi toqquşmalar, millətlərarası münaqişələr, terrorizm"
+  },
+  {
+    "id": 26,
+    "question": "Münaqişəsiz fövqəladə hadisələri hansılardır?",
+    "options": [
+      "Terrorizm, qəzalar, dini zəmində münaqişə",
+      "Münaqişələr, subasmalar, tuğyan edən cinayətkarlıq",
+      "Kölgə iqtisadiyyatı, məişət xarakterli hadisələr",
+      "Təbii, texnogen, ekolojı",
+      "Terrorizm, narkotik maddə ticarəti"
+    ],
+    "answer": "Təbii, texnogen, ekolojı"
+  },
+  {
+    "id": 27,
+    "question": "Sosial-siyasi xarakterli fövqəladə hadisələrə hansılar aiddir?",
+    "options": [
+      "Sosial yardımların gecikdirilməsi və ya verilməməsi;",
+      "Sosial –mədəni, siyasi xarakterli;",
+      "Əhalinin banklarda qalan əmanətin verilməməsi;",
+      "İqtisadi böhranların sosial həyata təsirinin kəskinləşməsi və s.",
+      "İqtisadi qanunların düzgün tədbiq edilməməsi;"
+    ],
+    "answer": "Sosial –mədəni, siyasi xarakterli;"
+  },
+  {
+    "id": 28,
+    "question": "Təbii hadisələr baş verdiyi zaman nəyə səbəb olur?",
+    "options": [
+      "Külli miqdarda maddi vəsaitlərin məhvi, insanların xəsarəti və həlak olması ilə nəticələnən hadisələrə.",
+      "Kimyəvi silahın tətbiqi zamanı, təbiətdəki yanğınlara gətirib çıxaran təbiətin yaratdığı fövqəladə hadisələrdir.",
+      "Adi qırğın silahlarının törətdiyi dağıntılara səbəb olan fövqəladə hadisələrə.",
+      "Nüvə silahından istifadə zamanı partlayışların və yanğınların baş verməsinə, su qovşaqlarında, bəndlərdə, qaz borularında qəzaların\nəmələ gəlməsinə səbəb olmuş təbiətin yaratdığı fövqəladə hadisələrdir.",
+      "Bakterioloji silahdan istifadə zamanı heyvanların infeksion xəstəliklərə tutulmasına gətirib çıxardan təbiətin yaratdığı fövqəladə\nhadisələrə."
+    ],
+    "answer": "Külli miqdarda maddi vəsaitlərin məhvi, insanların xəsarəti və həlak olması ilə nəticələnən hadisələrə."
+  },
+  {
+    "id": 29,
+    "question": "Daşqınlar baş verirdikdə hansı fəsadlar törədir",
+    "options": [
+      "Böyük miqyaslı göy qurşağı əmələ gələ bilər",
+      "Yüngül zədələnmələr əmələ gələ bilər",
+      "kimyəvi zəhərlənmələr nəticəsində fəsadlar əmələ gələ bilər",
+      "qurğular,avadanlıqlar sıradan çıxır, əkin sahələri və maddi sərvətlər məhv olur",
+      "Yüksək və radiasiya əmələ gəlir"
+    ],
+    "answer": "qurğular,avadanlıqlar sıradan çıxır, əkin sahələri və maddi sərvətlər məhv olur"
+  },
+  {
+    "id": 30,
+    "question": "Quraqlıq hansı səbəbdən əmələ gəlir?",
+
+    "options": [
+      "Güclü qar yağması səbəbindən.",
+      "İntensiv yağıntıların yağmaması səbəbindən.",
+      "Havanın yüksək hərarətinin və rütubətinin aşağı səviyyəsi, uzun müddətli yağışın yağmaması nəticəsində.",
+      "Anormal istilərin baş verməsi səbəbindən.",
+      "Fəsillərin dəyişməsi səbəbindən."
+    ],
+    "answer": "Havanın yüksək hərarətinin və rütubətinin aşağı səviyyəsi, uzun müddətli yağışın yağmaması nəticəsində."
+  },
+  {
+    "id": 31,
+    "question": "Zəlzələnin maksimal təsir qüvvəsi Merkali cədvəlinə əsasən neçə baldır?",
+    "options": ["13", "12", "14", "11", "10"],
+    "answer": "12"
+  },
+  {
+    "id": 32,
+    "question": "Sosial xarakterli FH necə baş verə bilər?",
+    "options": [
+      "insanlarin işə müinasibəti dəyişir, nümayışa çıxır, iqtisadi tələblər irəli sürüldüldükdə;",
+      "istehsal yüksəlmir, durğunluq baş verir, yaşayış həddi qane etməyəndə.",
+      "əhalinin istehsal gücü tükənir, istehsal yüksəlmir və təminat artmayanda;",
+      "insanlar arası münasibətlərdə psixoloji gərginlik yaranır, istehsal rejimi pozulduqda istehsaldan gələn gəlir işçilər arasında düzgün bölünməlidir;",
+      "əhalinin istehsal gücü tükənir, insanlar arası münasibətlərdə qayda-qanunlara riayət edilmədikdə;"
+    ],
+    "answer": "insanlarin işə müinasibəti dəyişir, nümayışa çıxır, iqtisadi tələblər irəli sürüldüldükdə;"
+  },
+  {
+    "id": 33,
+    "question": "Ekoloji xarakterli FH necə baş verir?",
+    "options": [
+      "Ərazidə suyun, dənizlərin, bitki örtüyünün, meşələrin məhv olması;",
+      "Ərazidə suyun, sənayemüəssisələrinin qəzaya uğraması, azon dəliyi;",
+      "Meşələrin, dənizlərin bioloji təsirə məruz qalması, yanması, göllərin quruması ilə.",
+      "Bitki örtüyünün məhv olması, meşələrin yanması və məişət qəzaları;",
+      "Sənaye müəssisələrinin qəzaya uğraması, kimyəvi zəhərlənmə;"
+    ],
+    "answer": "Hidrosferin, atmosferin, biosferin, yerin tərkibinin dəyişməsi ilə"
+  },
+  {
+    "id": 34,
+    "question": "Subasma əsasən nə ilə nəticələnir?",
+    "options": [
+      "Dağıdıcı dalğanın nəticəsində istehsalat obyektlərində baş vermiş partlayışlar.",
+      "Kənd təsərrufatının fəaliyyətinin pozulması və məhsulun məhvi ilə.",
+      "Kənd ərazilərində əhalinin həyat fəaliyyətinin pozulması, faunanın və floranın məhvi.",
+      "Məhsulun, xalq təsərrufatı obyektlərinin məhvi, şəhərlərdə sənaye obyektlərində partlayışlar.",
+      "Yerli yanğınların əmələ gəlməsi, iqlimin dəyişməsi."
+    ],
+    "answer": "Kənd ərazilərində əhalinin həyat fəaliyyətinin pozulması, faunanın və floranın məhvi."
+  },
+  {
+    "id": 35,
+    "question": "γ - şüaları üçün udulan dozanın olçü vahidi nədir?",
+    "options": [
+      "Rad, zibert və rentgen",
+      "Rentgen/saat, mr/s",
+      "Zibert, bэr, qrey",
+      "Rentgen/saat, rad/sm2",
+      "Qrey, rentgen və rad"
+    ],
+    "answer": "Qrey, rentgen və rad"
+  },
+  {
+    "id": 36,
+    "question": "Radioaktiv zəhərlənmə zonaların yaranmasında küləyin sürəti nəyə təsir edir?",
+    "options": [
+      "Zonanın zəhərlənmə həcminə,",
+      "Ümumiyyətlə təsir etmir;",
+      "Zonanın daxilinə;",
+      "Zonanın ölçülərinə və zəhərlənmə səviyyəsinə;",
+      "Zonanın formasına və tərkibinə;"
+    ],
+    "answer": "Zonanın ölçülərinə və zəhərlənmə səviyyəsinə;"
+  },
+  {
+    "id": 37,
+    "question": "Elektromaqnit impulsundan mühafizə nəyə əsaslanır?",
+    "options": [
+      "Radioaprotektorların mühafizə sisteminə",
+      "Mühafizəçilərin qoruyucu avtomat tərtibatına",
+      "İdarəetmə məntəqəsinin quruluşuna",
+      "Mobil sistemlərin quruluşuna",
+      "Avtomatik sistemlərin yerlə əlaqəsinə"
+    ],
+    "answer": "İdarəetmə məntəqəsinin quruluşuna"
+  },
+  {
+    "id": 38,
+    "question": "Nüfuzedici radiasiya əsasən nəyə təsir edir?",
+    "options": [
+      "Heyvan və insan orqanizminə",
+      "İnsanlarla birlikdə tikintilərə",
+      "Canlıların işlətdiyi ehtiyaclara və silaha",
+      "Su ilə birlikdə meşələrə",
+      "Üzvi əridicilərə və dağlara"
+    ],
+    "answer": "Heyvan və insan orqanizminə"
+  },
+  {
+    "id": 39,
+    "question": "Nüfuzedici radiasiya, qamma şüalanma da nəzərə alınmaqla ətraf mühitə neçə saniyə təsir göstərir?",
+    "options": [
+      "8-10 saniyə",
+      "6-7 saniyə",
+      "9-12 saniyə",
+      "5-10 saniyə",
+      "10-15 saniyə"
+    ],
+    "answer": "10-15 saniyə"
+  },
+  {
+    "id": 40,
+    "question": "Yerüstü partlayış zamanı nüvə yükünün gücündən asılı olaraq işıq şüalanmasının təsir müddəti nə qədərdir?",
+    "options": [
+      "10-30 dəq",
+      "8-10 dəq",
+      "21-24 san",
+      "10-20 saniyə",
+      "25-35 san"
+    ],
+    "answer": "10-20 saniyə"
+  },
+  {
+    "id": 41,
+    "question": "Hansı radioaktiv hissəcik ən yüksək nüfuz dərəcəsinə malikdir və çox təhlükəlidir?",
+    "options": ["betta", "proton axını", "qamma", "zetta"],
+    "answer": "qamma"
+  },
+  {
+    "id": 42,
+    "question": "Nüfuzedici radiasiya zamanı ətrafa hansı şüalar yayılır?",
+    "options": [
+      "alfa və Betta şüaları neytron seli",
+      "A və B şüalları elektron seli",
+      "Qamma şüaları və neytronlar seli",
+      "Qamma beta şüaları elektron seli",
+      "Alfa və qamma şüalları elektron seli"
+    ],
+    "answer": "Qamma şüaları və neytronlar seli"
+  },
+  {
+    "id": 43,
+    "question": "İşıq impulsunun ölçü vahidi olaraq nə qəbul edilmişdir?",
+    "options": [
+      "kc/sm², R/saat",
+      "kc/m³ və ya kal/sm³",
+      "KC/m² və ya kal/sm²",
+      "kkal/sm",
+      "kc/m"
+    ],
+    "answer": "KC/m² və ya kal/sm²"
+  },
+  {
+    "id": 44,
+    "question": "Zərbə dalğasının təsiri nədən ibarətdir?",
+    "options": [
+      "Kimyəvi silahının zəhərlədiyi ərazidən;",
+      "Kimyəvi silahının tədbiq növündən;",
+      "Nüvə partlayışının hipomərkəzindən.",
+      "Partlayış mərkəzindən hər tərəfə çox yüksək sürətlə yayılan çox güclü sıxılmış hava(torpaq,su) qatından;",
+      "Nüvə partlayışı epimərkəzindən;"
+    ],
+    "answer": "Partlayış mərkəzindən hər tərəfə çox yüksək sürətlə yayılan çox güclü sıxılmış hava(torpaq,su) qatından;"
+  },
+  {
+    "id": 45,
+    "question": "Zərbə dalğasının zədələyici təsirini xarakterizə edən əsas parametrlər hansılardır?",
+    "options": [
+      "hər cür zərərli təsirdən",
+      "silahın tətbiqi məqsədindən",
+      "elektromaqnit impulsundan",
+      "nüvə silahını hədəfə çatdırmaqdan",
+      "izafi təzyiq, dalğanın sürət təzyiqi və izafi təzyiqin təsir müddətidir"
+    ],
+    "answer": "izafi təzyiq, dalğanın sürət təzyiqi və izafi təzyiqin təsir müddətidir"
+  },
+  {
+    "id": 46,
+    "question": "FH-da hansı dağıntı dərəcələri mövcüddür?",
+    "options": [
+      "Ağır, xüsusən ağır, daha zəif;",
+      "Çox güclü, orta ağırlıqlı, katastrofik;",
+      "Əvəzolunmaz, böhranlı, az;",
+      "Tam, çox zəif, çox güclü;",
+      "Tam, güclü, orta, zəif;"
+    ],
+    "answer": "Tam, güclü, orta, zəif;"
+  },
+  {
+    "id": 47,
+    "question": "Nüvə partlayışı zamanı tam dağıntı zonasında küçələrdə hansı uçqunlar əmələ gəlir ?",
+    "options": [
+      "istehsalat və yaşayış binaları hissə-hissə dağılır",
+      "istehsalat və yaşayış binaları tamamilə dağılır, küçələrdə uçqunlar əmələ gəlir, sığınacaqların çıxış yolları uçqunlarla tutulur.",
+      "küçələrdə ayrı-ayrı uçqunlar əmələ gəlir",
+      "küçələrdə tək-tək uçqunlar yaranır",
+      "küçələrin müxtəlif yerlərində uçqunlar yarana bilər"
+    ],
+    "answer": "istehsalat və yaşayış binaları tamamilə dağılır, küçələrdə uçqunlar əmələ gəlir, sığınacaqların çıxış yolları uçqunlarla tutulur."
+  },
+  {
+    "id": 48,
+    "question": "Beynəlxaq sistemdə hər kloqrama düşən udulan dozanın vahidi olaraq nə qəbul edilmişdir?",
+    "options": ["rentgen/san", "Bekkerel", "C/kq", "Qrey", "rentgen/saat"],
+    "answer": "Qrey"
+  },
+  {
+    "id": 49,
+    "question": "Radiasiya səviyyəsi nədir?",
+    "options": [
+      "2m hündürlükdən olan dozanın səviyyəsidir;",
+      "0,5m hündürlükdə ölçülən radiasiya səviyyəsidir;",
+      "γ – şüaların buraxdığı şüanın miqdarı ilə ölçülən radiasiya gücüdür.",
+      "Partlayış reaksiyasına qoşulmayan nüvə tutumunun hissələri və protonlar;",
+      "Radiaktiv zəhərlənmiş zonada 0,7-1m hündürlükdə olan şüalanma səviyyəsidir;"
+    ],
+    "answer": "Radiaktiv zəhərlənmiş zonada 0,7-1m hündürlükdə olan şüalanma səviyyəsidir;"
+  },
+  {
+    "id": 50,
+    "question": "Hansı radioaktiv hissəcik ən az nüfuz etmə dərəcəsinə malikdir, lakin çox təhlükəlidir?",
+    "options": ["proton axını", "zetta", "rad", "qamma", "alfa"],
+
+    "answer": "alfa"
+  }
+]
