@@ -364,7 +364,7 @@
       "insanlar arası münasibətlərdə psixoloji gərginlik yaranır, istehsal rejimi pozulduqda istehsaldan gələn gəlir işçilər arasında düzgün bölünməlidir;",
       "əhalinin istehsal gücü tükənir, insanlar arası münasibətlərdə qayda-qanunlara riayət edilmədikdə;"
     ],
-    "answer": "insanlarin işə müinasibəti dəyişir, nümayışa çıxır, iqtisadi tələblər irəli sürüldüldükdə;"
+    "answer": "əhalinin istehsal gücü tükənir, insanlar arası münasibətlərdə qayda-qanunlara riayət edilmədikdə;"
   },
   {
     "id": 33,
@@ -564,5 +564,2003 @@
     "options": ["proton axını", "zetta", "rad", "qamma", "alfa"],
 
     "answer": "alfa"
+  },
+  {
+    "id": 51,
+    "question": "Nüvə partlayışında tam dağılma zonası nə ilə xarakterizə olunur?",
+    "options": [
+      "30-50 kPa Həddində təzyiq , qismən yanğınlar və bina və tikililərin natamam dağılması (deformasiyalar və yerdəyişmələr)",
+      "50 kPa-dan artıq təzyiqdə yanğınlar baş vermir, istehsalat və yaşayış binaları tamamilə dağılır. Ona görə də dağıntılarda yanma yox, tüstülənmə müşahidə olunur",
+      "yüngül radiasiya ilə alovlanan binalar və obyektlər səpələnir və dağıntılarla örtülür, alov ultrabənövşəyi və infraqırmızı şüalarla sökülür (hər yerdə partlayışlar və tıxanmalar)",
+      "10-20 kPa-dan çox təzyiq, ərazidə müxtəlif yerlərdə yanğınlar, bina və tikililərin tamamilə məhv edilməsi",
+      "20-30 kPa həddində təzyiq, partlayış zonasında davamlı yanğınlar, bina və tikililərin qismən məhv edilməsi"
+    ],
+    "answer": "50 kPa-dan artıq təzyiqdə yanğınlar baş vermir, istehsalat və yaşayış binaları tamamilə dağılır. Ona görə də dağıntılarda yanma yox, tüstülənmə müşahidə olunur"
+  },
+  {
+    "id": 52,
+    "question": "Üçüncü dərəcəli yanıqda dəridə nə baş verir?",
+    "options": [
+      "Dərinin bütün hissəsinin göynəməsi",
+      "Dərinin bütün dərinliyi üzrə tam yanması",
+      "Dəridə bütün dərinliyində toxumalara təsirinin zəif olması",
+      "Dəridə suluqların deşilməsi",
+      "Dəridə qızartı və qaralmaların əmələ gəlməsi"
+    ],
+    "answer": "Dərinin bütün dərinliyi üzrə tam yanması"
+  },
+  {
+    "id": 53,
+    "question": "Havada 1ml tonluq nüvə partlayışı zamanı işıq impulsu nəticəsində bədənin açıq hissəsində neçə dərəcə yanıqlar baş verə bilər?",
+    "options": ["2", "4", "6", "5", "3"],
+    "answer": "3"
+  },
+  {
+    "id": 54,
+    "question": "\"Q\" radioaktiv zonası hansı rənglə rənglənir?",
+    "options": ["Qara", "Mavi", "Qonur", "Yaşıl", "Sarı"],
+    "answer": "Qara"
+  },
+  {
+    "id": 55,
+    "question": "İşıq şüalanmasının təsir müddəti nədən asılıdır?",
+    "options": [
+      "Nüvə yükünün gücündən",
+      "Partlayışın sayından",
+      "Partlayışın xarakterindən",
+      "Partlayışın dərəcəsindən",
+      "Nüvə yükünün relyefindən"
+    ],
+    "answer": "Nüvə yükünün gücündən"
+  },
+  {
+    "id": 56,
+    "question": "İzafi təzyiqin miqdarından asılı olaraq insanlar neçə növdə zədə alırlar?",
+    "options": ["6", "5", "2", "3", "4"],
+    "answer": "4"
+  },
+  {
+    "id": 57,
+    "question": "İkinci dərəcəli yanıq zamanı dəridə nə baş verir?",
+    "options": [
+      "Dəridə qaralma baş verir",
+      "Dəridə göynəmə baş verir",
+      "Dəridə yanıq əmələ gəlir",
+      "Dəridə suluqlar əmələ gəlir",
+      "Dəridə qızartı baş verir"
+    ],
+    "answer": "Dəridə suluqlar əmələ gəlir"
+  },
+  {
+    "id": 58,
+    "question": "Birinci dərəcəli yanıq zamanı dəridə nə baş verir?",
+    "options": ["Göyərmə", "Qızartı", "Bozarma", "Göynəmə", "Qaralma"],
+    "answer": "Qızartı"
+  },
+  {
+    "id": 59,
+    "question": "Ərazinin radioaktiv zəhərlənməsi hansı səviyyədən başlayır?",
+    "options": ["0,5 R/S", "1,5 R/S", "2 R/S", "2,5 R/S", "0,1 R/S"],
+    "answer": "0,5 R/S"
+  },
+  {
+    "id": 60,
+    "question": "Radioaktiv zəhərlənmənin dərəcəsi nədən asılıdır?",
+    "options": [
+      "Partlayışın gücündən, növündən, məsafədən, hava şəraitindən, yerin relyefindən",
+      "Yerin relyefindən, torpağın tərkibindən",
+      "Partlayışın növündən, əvvəlki vaxtdan",
+      "Partlayışdan əvvəlki vaxtdan, yerin relyefindən",
+      "Torpağın tərkibindən, hava şəraitindən"
+    ],
+    "answer": "Partlayışın gücündən, növündən, məsafədən, hava şəraitindən, yerin relyefindən"
+  },
+  {
+    "id": 61,
+    "question": "Vaxtın 7 dəfə artması radioaktiv zəhərlənməni neçə dəfə azaldır?",
+    "options": ["15 dəfə", "3 dəfə", "10 dəfə", "6 dəfə", "5 dəfə"],
+    "answer": "10 dəfə"
+  },
+  {
+    "id": 62,
+    "question": "Radioaktiv zəhərlənmə zonaları hansı həndəsi fiqur formasında olur?",
+    "options": ["Ellips", "Dairə", "Düzbucaq", "Kvadrat", "Üçbucaq"],
+    "answer": "Ellips"
+  },
+  {
+    "id": 63,
+    "question": "Nüvə zədələnmə ocağı hansı növ zədələnmə ocağına aiddir?",
+    "options": [
+      "Sadə",
+      "Mürəkkəb",
+      "Düzgün olmayan",
+      "Müxtəlif formalı",
+      "Qarışıq"
+    ],
+    "answer": "Qarışıq"
+  },
+  {
+    "id": 64,
+    "question": "Müharibə dövrü üçün birdəfəlik şüa dozası nə qədərdir?",
+    "options": [
+      "4 gündə 50 rentgen",
+      "4 gündə 60 rentgen",
+      "4 gündə 100 rentgen",
+      "4 gündə 70 rentgen",
+      "4 gündə 150 rentgen"
+    ],
+    "answer": "4 gündə 50 rentgen"
+  },
+  {
+    "id": 65,
+    "question": "İşıq şüalanmasının təsirini qatı duman, yağış və qar neçə dəfə zəiflədir?",
+    "options": ["55-70", "20-40", "40-50", "15-50", "10-20"],
+    "answer": "10-20"
+  },
+  {
+    "id": 66,
+    "question": "Nüvə zədələnmə ocağında elektromaqnit impulsu nəyə təsir göstərir?",
+    "options": [
+      "Binaları dağıdır və yanğın törədir",
+      "Əhatəli yanğınlarla bərabər heyvanları məhv edir",
+      "İdarə etmə və radio-elektron cihazlarını məhv edir",
+      "Tək-tək yanğınlarla bərabər insanları məhv edir",
+      "Daşğın, sürüşmə, sunami yaradır"
+    ],
+    "answer": "İdarə etmə və radio-elektron cihazlarını məhv edir"
+  },
+  {
+    "id": 67,
+    "question": "Radioaktiv zəhərlənmənin digər amillərdən fərqləndirən cəhət hansıdır?",
+    "options": [
+      "Çətin aşkar edilməsi ilə parçalanma",
+      "Radioaktiv maddələrin fasiləsiz parçalanması",
+      "Qeyri-sabit xarakterli parçalanma",
+      "Radioaktiv maddələrin rəngsiz, iysiz olması",
+      "Uzun müddət təsir göstərməsi"
+    ],
+    "answer": "Radioaktiv maddələrin fasiləsiz parçalanması"
+  },
+  {
+    "id": 68,
+    "question": "Bir milyon tonluq (q=1Mt) nüvə silahı partladıqda güclü dağılma zonası neçə km məsafəni əhatə edir?",
+    "options": ["6,5", "7", "4,6", "5,4", "4"],
+    "answer": "5,4"
+  },
+  {
+    "id": 69,
+    "question": "Bütün zəhərləyici maddələr orqanizmə təsirinin xarakterinə görə neçə qrupa ayrılır?",
+    "options": ["3", "5", "6", "4", "2"],
+    "answer": "2"
+  },
+  {
+    "id": 70,
+    "question": "Bir milyon tonluq (q=1Mt) nüvə silahı partladıqda zəif dağılma zonası neçə km məsafəni əhatə edir?",
+    "options": ["11 km", "10 km", "9 km", "12 km", "15 km"],
+    "answer": "11 km"
+  },
+  {
+    "id": 71,
+    "question": "Müasir qırğın silahları hansı vasitələrdən ibarətdir?",
+    "options": [
+      "Nəqliyyat vasitələrindən",
+      "Qatarlardan",
+      "Kütləvi və adi qırğın silahlarından",
+      "Təyyarələrdən",
+      "Gəmilərdən"
+    ],
+    "answer": "Kütləvi və adi qırğın silahlarından"
+  },
+  {
+    "id": 72,
+    "question": "Ərazinin radioaktiv zonasında “V” təhlükəli zonası hansı rənglə işarələnmişdir?",
+    "options": ["Mavi", "Qara", "Sarı", "Yaşıl", "Qonur"],
+    "answer": "Qonur"
+  },
+  {
+    "id": 73,
+    "question": "İşıq şüalanmasının təsirindən ərazi neçə zonaya bölünür?",
+    "options": ["3", "5", "2", "4", "1"],
+    "answer": "3"
+  },
+  {
+    "id": 74,
+    "question": "Bioloji silahın tətbiqi zamanı əraziyə nə yayılır?",
+    "options": [
+      "Kimyəvi vasitələr, rikketsilər",
+      "Bakteriya, virus, göbələk, mikrob və onlardan alınan zəhər toksinlər",
+      "Bakterial vasitələr, kimyəvi zəhərli maddələr",
+      "Travmatik xəstəlik",
+      "Radioaktiv vasitələr, göbələklər"
+    ],
+    "answer": "Bakteriya, virus, göbələk, mikrob və onlardan alınan zəhər toksinlər"
+  },
+  {
+    "id": 75,
+    "question": "Müxtəlif epidemiya xarakterli xəstəliklərin yayılması hansı vasitələrlə baş verir?",
+    "options": [
+      "Gəmilər, çöl heyvanları, arabalar, vəhşi heyvanlar",
+      "Avtomobillər, marallar, quduz itlər",
+      "Balıqlar, su itləri, qatarlar",
+      "Həşaratlar, gənələr və gəmiricilər",
+      "Arılar, velosipedlər, kərtənkələlər"
+    ],
+    "answer": "Həşaratlar, gənələr və gəmiricilər"
+  },
+  {
+    "id": 76,
+    "question": "Zəhərləyici maddələr fizioloji təsirinə görə neçə qrupa bölünür?",
+    "options": ["6", "7", "5", "3", "4"],
+    "answer": "7"
+  },
+  {
+    "id": 77,
+    "question": "Kimyəvi zədələnmə ocağında ərazidə qalma müddətinə görə zoman və zarin hansı maddələrə aiddir?",
+    "options": [
+      "Müddətsiz-naməlum",
+      "Davamsız-qısa müddətli",
+      "Davamı-uzunmüddətli",
+      "Müddətli-qeyrimüəyyən",
+      "Qeyrimüəyyən–naməlum"
+    ],
+    "answer": "Davamı-uzunmüddətli"
+  },
+  {
+    "id": 78,
+    "question": "Bunlardan hansı dəridə yara əmələ gətirən ZM-dir?",
+    "options": [
+      "Zoman, fosgen",
+      "Vx-qaz, zarin",
+      "Forgen, sianid turşusu",
+      "İprit, lüizit",
+      "Zarin, iprit"
+    ],
+    "answer": "İprit, lüizit"
+  },
+  {
+    "id": 79,
+    "question": "Bunlardan hansı güclü təsirli zəhərli maddədir (GTZM)?",
+    "options": ["Difosgen", "Xlor", "Zoman", "İprit", "Zarin"],
+    "answer": "Xlor"
+  },
+  {
+    "id": 80,
+    "question": "Ərazidə qalma müddətinə görə zəhərləyici maddələr neçə növ olur?",
+    "options": ["3", "5", "6", "4", "2"],
+    "answer": "2"
+  },
+  {
+    "id": 81,
+    "question": "Bakterioloji silahın təsirindən əmələ gələn xəstəliyin yayılmasının ən sadə üsulu hansıdır?",
+    "options": [
+      "Ətraf mühütdə heyvanların zəhərlənməsi",
+      "Xəstəliyin yayılmasının ən sadə və təsirli üsullarından biri havanın yoluxmasıdır",
+      "Ətraf mühütdə ağacların xəstəliyə yoluxması",
+      "Ətraf mühütdə tərəvəzin xəstəliyə yoluxması",
+      "Ətraf mühütdə binaların xəstəliyə yoluxması"
+    ],
+    "answer": "Xəstəliyin yayılmasının ən sadə və təsirli üsullarından biri havanın yoluxmasıdır"
+  },
+  {
+    "id": 82,
+    "question": "Bioloji silah kimi hansı vasitələr istifadə oluna bilər?",
+    "options": [
+      "Göbələklər və Bi-zet qazları",
+      "Mikroblar, zarin və zoman",
+      "Viruslar və sianid turşusu",
+      "Bakterioloji və kimyəvi vasitələr",
+      "Bakteriya, viruslar, göbələklər, rikketsiyalar"
+    ],
+    "answer": "Bakteriya, viruslar, göbələklər, rikketsiyalar"
+  },
+  {
+    "id": 83,
+    "question": "Psixokimyəvi təsirli ZM hansılardır?",
+    "options": [
+      "Zoman, Bi-zet, Si-es",
+      "Bi-zet (BZ), LSD (Lizerkin turşusunun törəmələri), Psilosibin, Tremorin, Meskain",
+      "Sianid turşusu, meskain, fosgen",
+      "Premorin, zarin, tremorin",
+      "Difosgen, xlorsian, psiloseben"
+    ],
+    "answer": "Bi-zet (BZ), LSD (Lizerkin turşusunun törəmələri), Psilosibin, Tremorin, Meskain"
+  },
+  {
+    "id": 84,
+    "question": "Gözyaşardıcı təsirli ZM hansıdır?",
+    "options": [
+      "Xlorasetofenon, brombenzilsianid, xlorpikrin",
+      "Tremorin, xlorsian",
+      "Bi-zet, meksin",
+      "Xlor, amonyak",
+      "Psilosibin, lüizit"
+    ],
+    "answer": "Xlorasetofenon, brombenzilsianid, xlorpikrin"
+  },
+  {
+    "id": 85,
+    "question": "Bakterioloji silahın ən qorxulu cəhəti nədir?",
+    "options": [
+      "Tez və effektli aşkar edilməsi",
+      "Təsirə məruz qalmanın gizli inkişaf dövrü",
+      "Müalicənin qeyri müəyyən effektliyi",
+      "Təsir ərazisinin gec aşkar edilməsi",
+      "Terroristin əlinə düşməsilə tədbiqi"
+    ],
+    "answer": "Terroristin əlinə düşməsilə tədbiqi"
+  },
+  {
+    "id": 86,
+    "question": "Kimyəvi silah tətbiq olunan ərazi neçə zonaya bölünür?",
+    "options": ["5", "4", "2", "3", "6"],
+    "answer": "2"
+  },
+  {
+    "id": 87,
+    "question": "Bakterioloji silahın təsirindən heyvanlar arasında hansı xəstəliklər yayıla bilər?",
+    "options": [
+      "Sibir xorası, vəba və travma",
+      "Quş qripi, zob, mədə xorası",
+      "Sibir xorası, dabbaq, şəkər xəstəliyi",
+      "Quş qripi, donuz qripi, sibir xorası, vəba",
+      "Donuz qripi, tif, konyuktiv"
+    ],
+    "answer": "Quş qripi, donuz qripi, sibir xorası, vəba"
+  },
+  {
+    "id": 88,
+    "question": "Bioloji zədələnmə ocağının yaranmasına hansı bakterioloji vasitələr səbəb ola bilər?",
+    "options": [
+      "Viruslar və sianit turşusu",
+      "Bakteriya, viruslar, göbələklər, mikroblar",
+      "Bakterioloji və kimyəvi vasitələr",
+      "Mikroblar, rikketsilər və zoman",
+      "Göbələklər və Bi-zat qazları"
+    ],
+    "answer": "Bakteriya, viruslar, göbələklər, mikroblar"
+  },
+  {
+    "id": 89,
+    "question": "Orqanizmə təsirinin xarakterinə, döyüş təyinatına və ərazidə zəhərlənmənin davamlılığına görə ZM necə təsnif olunur?",
+    "options": [
+      "Kimyəvi",
+      "Texnoloji",
+      "Toksikoloji və taktiki",
+      "Mexaniki",
+      "Təşkilati"
+    ],
+    "answer": "Toksikoloji və taktiki"
+  },
+  {
+    "id": 90,
+    "question": "Hansı Beynəlxalq protokol kimyəvi silahdan istifadəni qadağan edib?",
+    "options": [
+      "Moskva Protokolu 1925",
+      "Münxen Protokolu 1925",
+      "Paris Protokolu 1925",
+      "Jetomerskiy Protokolu 1925",
+      "1925 Cenevrə Protokolu"
+    ],
+    "answer": "1925 Cenevrə Protokolu"
+  },
+  {
+    "id": 91,
+    "question": "Fosgen və sianid turşusu təsir müddətinə görə hansı növə aiddir?",
+    "options": [
+      "Gec məhv olan",
+      "Tez məhv olan",
+      "Davamsız",
+      "Davamlı",
+      "Dözümlü"
+    ],
+    "answer": "Davamsız"
+  },
+  {
+    "id": 92,
+    "question": "Mülkü Müdafiə Sisteminə ümumi rəhbərlik kim edir?",
+    "options": [
+      "Fövqəladə Hallar Komissiyası",
+      "Azərbaycan Respublikasının Prezidenti",
+      "İcra Hakimiyyəti Başçısı",
+      "Fövqəladə Hallar Naziri",
+      "Azərbaycan Respublikasının Baş naziri"
+    ],
+    "answer": "Azərbaycan Respublikasının Prezidenti"
+  },
+  {
+    "id": 93,
+    "question": "Dövlət sisteminin fəaliyyətinin ikinci mərhələsi hansıdır?",
+    "options": [
+      "FH-ın başvermə səbəbini araşdırmaq",
+      "FH haqda əhalini xəbərdar etmək",
+      "FH-da fəaliyyətə başlamaq",
+      "FH-a hazır olmaq",
+      "FH-ı proqnozlaşdırmaq və qiymətləndirmək"
+    ],
+    "answer": "FH-da fəaliyyətə başlamaq"
+  },
+  {
+    "id": 94,
+    "question": "Dövlət sisteminin fəaliyyətinin birinci mərhələsi hansıdır?",
+    "options": [
+      "FH-ın baş vermə səbəbinin təyin edilməsi",
+      "FH-ın proqnozlaşdırılması",
+      "FH-da daimi hazırlıq",
+      "FH haqda əhalinin xəbərdar edilməsi",
+      "FH-ın qarşısının alınması"
+    ],
+    "answer": "FH-ın qarşısının alınması"
+  },
+  {
+    "id": 95,
+    "question": "Mülki müdafıənin Respublikamızda neçə əsas vəzifələri mövcuddur?",
+    "options": ["4", "7", "6", "3", "5"],
+    "answer": "5"
+  },
+  {
+    "id": 96,
+    "question": "Mülkü müdafiə sistemi bu gün hansı nazirlikdə təmsil olunur?",
+    "options": [
+      "Müdafiə Sənayesi Nazirliyində",
+      "Daxili işlər Nazirliyində",
+      "Fövqəladə Hallar Nazirliyində",
+      "Müdafiə Nazirliyində",
+      "İqtisadi İnkişaf Nazirliyində"
+    ],
+    "answer": "Fövqəladə Hallar Nazirliyində"
+  },
+  {
+    "id": 97,
+    "question": "Dövlət sisteminin neçə fəaliyyət mərhələləri var?",
+    "options": ["6", "4", "3", "5", "7"],
+    "answer": "3"
+  },
+  {
+    "id": 98,
+    "question": "Dövlət sisteminin gündəlik idarəetmə orqanı hansı nazirlikdir?",
+    "options": [
+      "Dövlət Təhlükəsizliyi Xidməti",
+      "Fövqəladə Hallar Nazirliyi",
+      "Yanğından Mühafizə xidməti",
+      "Daxili İşlər Nazirliyi",
+      "Maliyyə Nazirliyi"
+    ],
+    "answer": "Fövqəladə Hallar Nazirliyi"
+  },
+  {
+    "id": 99,
+    "question": "Dövlət sisteminin neçə vəsilələri (bölmələr) vardır?",
+    "options": ["3", "2", "5", "4", "6"],
+    "answer": "2"
+  },
+  {
+    "id": 100,
+    "question": "Naxçıvan Muxtar Respublikasında MM sisteminə cavabdeh kimdir?",
+    "options": [
+      "Naxçıvan MR-ın Ali məclisinin sədri",
+      "Naxçıvan MR-ın FH komissiyasının sədri",
+      "Naxçıvan MR-ın FHN-I",
+      "Naxçıvan MR-ın Baş Naziri",
+      "Naxçıvan MR-ın Baş Nazirinin müavini"
+    ],
+    "answer": "Naxçıvan MR-ın Baş Naziri"
+  },
+  {
+    "id": 101,
+    "question": "Rayonun mulki müdafiə xitmətinə aid deyil",
+    "options": [
+      "Yanğından mühafizə xidməti",
+      "Asayişi mühafizə xidməti",
+      "Sosial xidmət",
+      "Tibbi xidməti",
+      "Rabitə xidməti, ərzaq və paltarla təchizatı xidməti"
+    ],
+    "answer": "Sosial xidmət"
+  },
+  {
+    "id": 102,
+    "question": "Hərbiləşdirilməmiş mülci müdafiə xidmət dəstələri hansılardır?",
+    "options": [
+      "Kəşfıyyat, tibbi yardım, yanğısöndürmə, rabitə, radiasiya və kimyəvi nəzarət və s",
+      "Tibbi yardım, mühafizəçilər, daxili qoşunlar",
+      "Yanğınsöndürmə, hava və yol patrul xidməti",
+      "Kəşfiyyat, rabitə, astronomik xidməti",
+      "MM qoşun hissələri, yolları mühafizə xidməti"
+    ],
+    "answer": "Kəşfıyyat, tibbi yardım, yanğısöndürmə, rabitə, radiasiya və kimyəvi nəzarət və s"
+  },
+  {
+    "id": 103,
+    "question": "Mülki müdafiənin neçə əsas xidmətləri var?",
+    "options": ["14", "6", "8", "12", "10 və s"],
+    "answer": "10 və s"
+  },
+  {
+    "id": 104,
+    "question": "Maddi və texniki təminat qrupu neçə nəfərdən ibarətdir?",
+    "options": ["3-4", "2-4", "1-2", "4-5", "3-5"],
+    "answer": "1-2"
+  },
+  {
+    "id": 105,
+    "question": "Ərazi və sahə orqanları tərəfindən yaradılan hərbiləşdirilməmiş ümumi və xüsusi dəstələr kimin sərəncamına əsasən fəaliyyət göstərir?",
+    "options": [
+      "Daxili İşlər Nazirini sərəncamı ilə",
+      "Ərazi və sahə orqanın sərəncamı ilə",
+      "Fövqəladə Hallar Nazirinin sərəncamı ilə",
+      "Sanitar-gigiyena xidmətinin sərəncamı ilə",
+      "Kəşfiyyat xidmətinin sərəncamı ilə"
+    ],
+    "answer": "Ərazi və sahə orqanın sərəncamı ilə"
+  },
+  {
+    "id": 106,
+    "question": "Rayon mülki müdafiə dəstələri və xidmətləri haradan idarə olunur?",
+    "options": [
+      "İctimai asayişi mühafizə xidmətindən",
+      "Kimya və radiasiya nəzarəti postundan",
+      "Sığınacaq və daldalanacaqdan",
+      "Rayon mərkəzindəki komanda məntəqəsindən",
+      "Dəniz limanlarındakı məntəqədən"
+    ],
+    "answer": "Rayon mərkəzindəki komanda məntəqəsindən"
+  },
+  {
+    "id": 107,
+    "question": "Mülkü müdafiə sistemində nə məcburi deyil?",
+    "options": [
+      "55 yaşında kişiləri dəstələrə cəlb etmək",
+      "60 yaşında qadınları dəstələrə cəlb etmək",
+      "50 yaşında qadınlar dəstələrə cəlb etmək",
+      "əhalini fərdi və kollektiv müdafiə vasitələri ilə təmin etmək",
+      "18 yaşında uşaqları dəstələrə cəlb etmək"
+    ],
+    "answer": "60 yaşında qadınları dəstələrə cəlb etmək"
+  },
+  {
+    "id": 108,
+    "question": "Hərbiləşdirilməmiş MM qüvvələri təyinatına görə hansılardır?",
+    "options": [
+      "Yüksək hazırlıq dəstələri",
+      "Ümumi və xidməti dəstələr",
+      "Obyekt dəstələri",
+      "Ərazi qüvvələri",
+      "Gündəlik hazırlıqlar"
+    ],
+    "answer": "Ümumi və xidməti dəstələr"
+  },
+  {
+    "id": 109,
+    "question": "MM qərargah və xidmət dəstələrinə kim rəhbərlik edir?",
+    "options": [
+      "Xidmət rəisi",
+      "Icra nümayəndəsi",
+      "Qərargah rəisi",
+      "Rayonun icra başçısı",
+      "Bələdiyyənin sədri"
+    ],
+    "answer": "Rayonun icra başçısı"
+  },
+  {
+    "id": 110,
+    "question": "Rayon şöbələrinin, idarələrinin və digər təşkilatların işçilərindən nə təşkil olunur?",
+    "options": ["Dəstə", "Xidmət", "Komanda", "Qərargah", "Qrup"],
+    "answer": "Qərargah"
+  },
+  {
+    "id": 111,
+    "question": "Qərargaha, adətən, ştatda olan hansı işçi rəhbərlik edir?",
+    "options": [
+      "Qərargah rəisi",
+      "Komandirlər",
+      "Qrup rəisi",
+      "Xidmət rəisi",
+      "Dəstə rəisi"
+    ],
+    "answer": "Qərargah rəisi"
+  },
+  {
+    "id": 112,
+    "question": "Məqsədinə görə hərbiləşdirilməmiş MM dəstələri bir neçə qrupa bölünür. Hansı işlərə cəlb olunmurlar?",
+    "options": [
+      "əhalinin fövqəladə hallara hazırlanması",
+      "tibbi yardım",
+      "yanğınların lokallaşdırılması və söndürülməsi",
+      "radiasiya əleyhinə və kimyəvi əleyhinə tədbirlərin həyata keçirilməsi",
+      "kəşfiyyat"
+    ],
+    "answer": "əhalinin fövqəladə hallara hazırlanması"
+  },
+  {
+    "id": 113,
+    "question": "İctimai asayişi mühafizə xidmətinə kim rəhbərlik edir?",
+    "options": [
+      "Polis sahə müvəkkili",
+      "Rayon polis şöbəsinin rəisi",
+      "Inspektor",
+      "Rayonun icra başçısı",
+      "Rayon prokuroru"
+    ],
+    "answer": "Rayon polis şöbəsinin rəisi"
+  },
+  {
+    "id": 114,
+    "question": "Sığınacaqda hansı qaz tələb olunur?",
+    "options": ["karbon", "oksigen", "azot", "helium", "hidrogen"],
+    "answer": "oksigen"
+  },
+  {
+    "id": 115,
+    "question": "Şəhərdə teztikilən sığınacaqların konstruksiyaların tikintisi nə qədər vaxt aparır?",
+    "options": ["14 saat", "20 saat", "24 saat", "12 saat", "48 saat"],
+    "answer": "24 saat"
+  },
+  {
+    "id": 116,
+    "question": "Sığınacaqda uzanmaq üçün yerlər adambaşına neçə metr hesablanır?",
+    "options": [
+      "0,45 x 1,8 m",
+      "0,55 x 1,8 m",
+      "0,55 x 2m",
+      "0,5 x 1,8 m",
+      "0,55 x 1 m"
+    ],
+    "answer": "0,55 x 1,8 m"
+  },
+  {
+    "id": 117,
+    "question": "Bildiyiniz kimi, sığınacaqlarda iki və üç mərtəbəli taxtlar quraşdırılır. Adambaşına oturacaq üçün neçə metr hesablanır?",
+    "options": [
+      "0,5 x 0,45 m",
+      "0,45 x 0,4 m",
+      "0,45 x 0,45 m",
+      "0,4 x 0,4 m",
+      "0,5 x 0,5 m"
+    ],
+    "answer": "0,4 x 0,4 m"
+  },
+  {
+    "id": 118,
+    "question": "Sığınacaqlarda hər adama neçə litr su verilir?",
+    "options": [
+      "Sığınacaqlarda hər bir sığınacaqda olan şəxs üçün gündə işməli su 3 l, vanna otağı üçün isə gündə 5 l nisbətində təmin edilir",
+      "Sığınacaqlar hər bir sığınacaqda olan şəxs üçün gündə 10 l, vanna otağı üçün isə 5 l / gün nisbətində qablarda içməli su təchizatı təmin edir",
+      "Sığınacaqlar hər bir sığınacaqda olan şəxs üçün gündə 5 l, vanna otağı üçün isə 5 l / gün nisbətində qablarda içməli su təchizatı təmin edir",
+      "Sığınacaqlar hər bir sığınacaqda olan şəxs üçün gündə 6 l, vanna otağı üçün isə 3 l / gün nisbətində qablarda içməli su təchizatı təmin edir",
+      "Sığınacaqlar hər bir sığınacaqda olan şəxs üçün gündə 5 l, vanna otağı üçün isə 10 l / gün nisbətində qablarda içməli su təchizatı təmin edir"
+    ],
+    "answer": "Sığınacaqlarda hər bir sığınacaqda olan şəxs üçün gündə işməli su 3 l, vanna otağı üçün isə gündə 5 l nisbətində təmin edilir"
+  },
+  {
+    "id": 119,
+    "question": "Radiasiya əleyhinə daldalanacaqlarda tavanın hündürlüyü ən azı neçə metr olmalıdır?",
+    "options": ["1,5м", "1,9м", "1,4м", "1,3м", "1,6м"],
+    "answer": "1,9м"
+  },
+  {
+    "id": 120,
+    "question": "Sığnacaq nədir?",
+    "options": [
+      "Sığınacaqlar insanların qəzalardan, zəhərləyici və GTZM-dən, bakterial vasitələrdən ,yanğın məhsullarının, kütləvi qırğın və adi qırğın vasitələrinin zədələyici amillərinin təsirindən mühafizəni təmin edən hermetik mühəndis qurğusudur",
+      "Yanğın məhsüllarının təsirindən miihafızəsini təmin edə bilməyən sadə bir qurğudur",
+      "Yüksək mühafizə əmsalına malik olmayan mühəndis-tikintisidir",
+      "Sığnacaq-orada yerləşən əhalinin təbii fəlakətlərdən və kütləvi qırğın silahlarından mühafizə edə biməyən sənaye binasıdır",
+      "Orada yerləşən əhalini terrorizmdən mühafizə edən təbii bir vasitədir"
+    ],
+    "answer": "Sığınacaqlar insanların qəzalardan, zəhərləyici və GTZM-dən, bakterial vasitələrdən ,yanğın məhsullarının, kütləvi qırğın və adi qırğın vasitələrinin zədələyici amillərinin təsirindən mühafizəni təmin edən hermetik mühəndis qurğusudur"
+  },
+  {
+    "id": 121,
+    "question": "Hansı hadisə əhalinin fövqəladə hallardan qorunmasının əsas yolu deyil?",
+    "options": [
+      "Qoruyucu tikililərdə insanların yerləşdirilməsi",
+      "Böyük şəhərlərdən və təhlükəli ərazilərdən insanların şəhərətrafı təhlükəsiz ərazilərə təxliyəsi",
+      "Fərdi mühafizə vasitələrindən istifadə",
+      "Tibbi mühafizə vasitələrindən istifadə",
+      "Xəbərdarlıq"
+    ],
+    "answer": "Xəbərdarlıq"
+  },
+  {
+    "id": 122,
+    "question": "Teztikilən sığınacaqların tikilmə müddəti nə qədərdir?",
+    "options": [
+      "Şəhərlərdə 12 saat, kənddə 34 saat",
+      "Şəhərlərdə 48 saat, kənddə 24 saat",
+      "Şəhərlərdə 24 saat, kənddə 10 saat",
+      "Şəhərlərdə 10 saat, kənddə 24 saat",
+      "Şəhərlərdə 24 saat, kənddə 48 saat"
+    ],
+    "answer": "Şəhərlərdə 24 saat, kənddə 48 saat"
+  },
+  {
+    "id": 123,
+    "question": "Sığınacaqda toz əleyhinə süzgəclərin təyinatı nədir?",
+    "options": [
+      "Sığınacağa verilən havanı oksigen balonlarına doldurmaq",
+      "Sığınacağa verilən havanı karbon qazı ilə qarışdırmaq",
+      "Sığınacağa verilən havanı həşaratlardan təmizləmək",
+      "Sığınacağa verilən havanı bakterialoji vasitə ilə təmin etmək",
+      "Sığınacağa verilən havanı radioaktiv tozdan təmizləməkdir"
+    ],
+    "answer": "Sığınacağa verilən havanı radioaktiv tozdan təmizləməkdir"
+  },
+  {
+    "id": 124,
+    "question": "Sığnacaqda əsas təyinatlı otaqlar hansılardır?",
+    "options": [
+      "Dizel elektrik stansiyas otağı, su təchizatı sistemi",
+      "Adamlar yerləşən otaqlar, süzgəcli ventilyasiya otağı, sanitariya qovşağı",
+      "İradəetmə məntəqəsi, balonlar saxlanılan otaq, elektrik təchizatı otağı",
+      "Tibb məntəqəsi, ərzaq anbarı otağı, komendant məntəqəsi",
+      "Siğınma otağı, idarəetmə və tibb məntəqəsi"
+    ],
+    "answer": "Siğınma otağı, idarəetmə və tibb məntəqəsi"
+  },
+  {
+    "id": 125,
+    "question": "Tez tikilən sığınacaqda adamların sayı neçə nəfərədək nəzərdə tutulur?",
+    "options": [
+      "250-dən 400",
+      "150-dən 500",
+      "250-dən 300 nəfərədək",
+      "200-dən 300",
+      "50-dən 150"
+    ],
+    "answer": "50-dən 150"
+  },
+  {
+    "id": 126,
+    "question": "Radiasiya əleyhinə daldalanacağın əsas otaqları hansılardır?",
+    "options": [
+      "Drenaj suvarma stansiyası və dizel elektrik stansiyası otağı",
+      "Sanitariya qovşağı, tibb məntəqəsi, ventilyasiya otağı",
+      "Elektrik lövhəsi otağı, ərzaq anbarı, komendant otağı",
+      "Adamlar yerləşən otaqlar, tibb məntəqəsi, ana və uşaq otağı",
+      "Balonlar saxlanılan otaqlar, İdarəetmə məntəqəsi"
+    ],
+    "answer": "Adamlar yerləşən otaqlar, tibb məntəqəsi, ana və uşaq otağı"
+  },
+  {
+    "id": 127,
+    "question": "Zərbə dalğasından mühafizə vasitələri hansılardır?",
+    "options": [
+      "sığınacaqlar, sadə daldalanacaqlar, RƏD və uyğunlaşdırılmış zirzəmilər",
+      "texnikadan istifadə olunmaqla, dayaqlarda, xərəklərdə",
+      "yerin relyefin, bina və qurğuların üst mərtəbələri, bağlar, dağlar",
+      "ağacın arxasında, zirzəmilər, çardaqlar",
+      "ot tayasının arxasında, dayanacaqda, maşınlarda"
+    ],
+    "answer": "sığınacaqlar, sadə daldalanacaqlar, RƏD və uyğunlaşdırılmış zirzəmilər"
+  },
+  {
+    "id": 128,
+    "question": "Sadə daldalanacaq (SD) nədir?",
+    "options": [
+      "Müasir qırğın vasitələrindən insanları kütləvi şəkildə, qısa müddətdə mühafizə edən qurğudur",
+      "Beton plitələrdən mühafizə edən qurğudur",
+      "Uçan binaların qırıntılarından hazırlanan qurğudur",
+      "Monolit-betondan hazırlanan qurğudur",
+      "Hava nəqliyyatının yerləşdiyi qurğudur"
+    ],
+    "answer": "Müasir qırğın vasitələrindən insanları kütləvi şəkildə, qısa müddətdə mühafizə edən qurğudur"
+  },
+  {
+    "id": 129,
+    "question": "Təyinatına görə mühafizə qurğuları necə təsnif olunur?",
+    "options": [
+      "həcimindən asılıdır",
+      "xilasedicilər üçün",
+      "hər bir fərdin mühafizəsi",
+      "təsnif olunmur",
+      "idaretmə məntəqəsi və əhalinin mühafizəsi"
+    ],
+    "answer": "idaretmə məntəqəsi və əhalinin mühafizəsi"
+  },
+  {
+    "id": 130,
+    "question": "Yerləşməsinə görə mühafizə qurğuları necə təsnif olunur?",
+    "options": [
+      "hava nəqliyyat vasitələrində",
+      "bina ilə birgə tikilən 5-ci mərtəbə",
+      "bina ilə birgə tikilən, binadan ayrı tikilən",
+      "açıq meydançalar, yeralti-şaxtalar",
+      "yeralti tikilən, ayri tikilən yol qovşaqları"
+    ],
+    "answer": "bina ilə birgə tikilən, binadan ayrı tikilən"
+  },
+  {
+    "id": 131,
+    "question": "Sığınacaq və RƏD-də giriş qapısı necə olmalıdır?",
+    "options": [
+      "Açıq",
+      "Mühafizə olunmayan",
+      "Sadə mühafizə",
+      "Sadə herimetik",
+      "Hermetik-mühafizə"
+    ],
+    "answer": "Hermetik-mühafizə"
+  },
+  {
+    "id": 132,
+    "question": "Sığınacaqlar mühafizə xassələrinə görə neçə növə bölünür?",
+    "options": ["6", "3", "5", "4", "8"],
+    "answer": "3"
+  },
+  {
+    "id": 133,
+    "question": "Sığınacağın tutumu necə müəyyən edilir?",
+    "options": [
+      "müəyyənləşdirməyə ehtiyac yoxdur",
+      "Sığınacağın tutumu yatmaq üçün yerlərin cəmi ilə müəyyən edilir (ikinci pillələr)",
+      "Sığınacağın tutumu oturma və yatmaq üçün yerlərin cəmi ilə müəyyən edilir (ikinci və üçüncü pillələr)",
+      "Sığınacağın həcmi ilə",
+      "Sığınacaq tutumu birinci pillədə oturmaqla müəyyən edilir"
+    ],
+    "answer": "Sığınacağın tutumu oturma və yatmaq üçün yerlərin cəmi ilə müəyyən edilir (ikinci və üçüncü pillələr)"
+  },
+  {
+    "id": 134,
+    "question": "Regenerasiya vasitələrinin gücü onların iş müddətindən asılı olaraq hər adam üçün saatda nə qədər oksigen qazının udulması və karbon qazının xaric olunması normasına uyğundur?",
+    "options": [
+      "15 L oksigen, 10 L karbon qazı",
+      "30 L oksigen, 15 L karbon qazı",
+      "20 L oksigen, 25 L karbon qazı",
+      "25 L oksigen, 20 L karbon qazı",
+      "18 L oksigen, 28 L karbon"
+    ],
+    "answer": "25 L oksigen, 20 L karbon qazı"
+  },
+  {
+    "id": 135,
+    "question": "Hər bir insan nəfəs alarkən saatda nə qədər oksigen udur?",
+    "options": ["18 L", "25 L", "15 L", "12 L", "30 L"],
+    "answer": "25 L"
+  },
+  {
+    "id": 136,
+    "question": "Ventilyasiya sistemi sığınacaqda neçə rejimdə işləyə bilər?",
+    "options": [
+      "6 və ya daha artıq",
+      "5 və ya 6",
+      "2 və ya 3",
+      "4 və ya 5",
+      "3 və ya 4"
+    ],
+    "answer": "2 və ya 3"
+  },
+  {
+    "id": 137,
+    "question": "Mühafizə xassəsinə görə qurğular neçə yerə bölünür?",
+    "options": ["5", "6", "2", "3", "4"],
+    "answer": "3"
+  },
+  {
+    "id": 138,
+    "question": "Sığınacaqda havapaylayıcı tərtibat nə üçündür?",
+    "options": [
+      "təmiz havanı sığınacağın otaqlarından çıxarmaq üçün",
+      "təmiz havanı sığınacağın otaqlarına verməmək üçün",
+      "çirkli havanı sığınacaqda bir yerə toplamaq üçün",
+      "çirkli havanı sığınacaqdan çıxarmadan təmizləmək üçün",
+      "təmiz havanı sığınacağın otaqlarına vermək üçün"
+    ],
+    "answer": "təmiz havanı sığınacağın otaqlarına vermək üçün"
+  },
+  {
+    "id": 139,
+    "question": "Sığınacaqda otaqların hündürlüyü ən çoxu neçə metr olmalıdır?",
+    "options": ["3,5m", "3,9m", "3,8m", "3,9m", "3,7m"],
+    "answer": "3,5m"
+  },
+  {
+    "id": 140,
+    "question": "İki mərtəbəli taxtlar olduqda RƏD-in hündürlüyü ən azı nə qədər olmalıdır?",
+    "options": ["2m-4m", "2,5m-3m", "1,85m-1,9m", "2,2-2,4 m", "2,15m-3m"],
+    "answer": ""
+  },
+  {
+    "id": 141,
+    "question": "Kiçik həcmli sığınacaqda neçə nəfər insanların yerləşməsi nəzərdə tutulub?",
+    "options": ["50-150", "200-300", "100-200", "300-400", "150-600"],
+    "answer": "150-600"
+  },
+  {
+    "id": 142,
+    "question": "FH-da əhalini mühafizə etmək üçün neçə üsul var?",
+    "options": ["3", "2", "4", "6", "5"],
+    "answer": "3"
+  },
+  {
+    "id": 143,
+    "question": "Bunlardan hansı sığınacağın yardımcı təyinatlı otaqlarına aiddir?",
+    "options": [
+      "Adamlar yerləşən otaq",
+      "Ana və uşaq otağı",
+      "Süzgəcli ventilyasiya otağı",
+      "İdarəetmə məntəqəsi",
+      "Tibb məntəqəsi"
+    ],
+    "answer": "Süzgəcli ventilyasiya otağı"
+  },
+  {
+    "id": 144,
+    "question": "Üç mərtəbəli taxtlar qoyulduqda Radiasiya Əleyhinə Daldalanacada otağın hündürlüyü nə qədər olmalıdır?",
+    "options": ["2,8-3", "1,5-4", "3,5", "2,5-2,7", "2-3"],
+    "answer": "2,8-3"
+  },
+  {
+    "id": 145,
+    "question": "FH-da əhalinin mühafizə üsulları hansılardir?",
+    "options": [
+      "dəstələr yaratmaqla",
+      "siqnal verməklə",
+      "rabitə yaratmaqla",
+      "mühafizə qurğuları, fərdi mühafizə vasitələri, köçürmə tədbirləri",
+      "xəbardar etməklə"
+    ],
+    "answer": "mühafizə qurğuları, fərdi mühafizə vasitələri, köçürmə tədbirləri"
+  },
+  {
+    "id": 146,
+    "question": "Üç mərtəbəli taxtlar qoyulduqda RƏD-da otağın hündürlüyü nə qədər olmalıdır?",
+    "options": ["5", "4", "3", "6", "8"],
+    "answer": "5"
+  },
+  {
+    "id": 147,
+    "question": "Tibbi fərdi mühafizə vasitələri nə üçündür?",
+    "options": [
+      "fövqəladə hallar zamanı zədələnmiş adamların profilaktikası və onlara tibbi yardım göstərmək üçündür",
+      "insanlardan qan götürüb analiz etmək üçündür",
+      "fövqəladə hallar baş verdikdə epidemiyanın qarşısını almaq üçündür",
+      "sülh dövründə zədəli insanlara yardım göstərmək üçündür",
+      "köçürmə zamanı insanların hərarətini ölçmək üçündür"
+    ],
+    "answer": "fövqəladə hallar zamanı zədələnmiş adamların profilaktikası və onlara tibbi yardım göstərmək üçündür"
+  },
+  {
+    "id": 148,
+    "question": "Fərdi sarğı paketində neçə döşəkçə olur?",
+    "options": ["4", "5", "1", "2", "3"],
+    "answer": "2"
+  },
+  {
+    "id": 149,
+    "question": "Tibbi fərdi mühafizə vasitələri neçə növ vasitələrdən ibarətdir?",
+    "options": ["8", "6", "4", "5", "3"],
+    "answer": "3"
+  },
+  {
+    "id": 150,
+    "question": "Hansı mühafizə vasitələri tənəffüz üzvlərini qoruyur?",
+    "options": [
+      "Uşaq paltarları, qulaqcıqlar, eynəklər",
+      "Süzgəclər, RP patronları, Zepestoklar və ŞB-lər",
+      "Süzgəcli və təcridedici əleyhiqazlar, respiratorlar, sadə vasitələr",
+      "Ümumqoşun və yüngül xarakterli mühafizə dəstləri",
+      "Adi mühafizə qurğuları və dəstləri"
+    ],
+    "answer": "Süzgəcli və təcridedici əleyhiqazlar, respiratorlar, sadə vasitələr"
+  },
+  {
+    "id": 151,
+    "question": "QP-5 əleyhqazının üzlük hissəsini seçərkən ölçmə zamanı alınan kəmiyyət 71 sm –dən artıq olarsa neçənci ölçülü şlem-maska lazım olacaq?",
+    "options": ["4-cü", "3-cü", "2-ci", "5-ci", "6-cı"],
+    "answer": "4-cü"
+  },
+  {
+    "id": 152,
+    "question": "Piyada üsulla kimlər köçürülə bilər?",
+    "options": [
+      "yaşlı qadınlar",
+      "piyada gedə biləcək şəxslər",
+      "yataq xəstələri",
+      "az yaşlı uşaqlar",
+      "yaşlı kişilər"
+    ],
+    "answer": "piyada gedə biləcək şəxslər"
+  },
+  {
+    "id": 153,
+    "question": "QP-5 əleyhiqazı necə nömrələnir, düzgün nömrələnmə variantını göstərin?",
+    "options": ["0,1,2", "0,1,2,3,4", "1,2,3,4,5,6", "1,2,3,4,5", "1,2,3"],
+    "answer": "0,1,2,3,4"
+  },
+  {
+    "id": 154,
+    "question": "Əleyhqazlar nəyi mühafizə edir?",
+    "options": [
+      "tənəffüs orqanlarını, gözləri və üzü",
+      "əlləri və qolları",
+      "kürəyi və boyun hissəni",
+      "ayaqları və çənəni",
+      "bədənin dəri səthini"
+    ],
+    "answer": "tənəffüs orqanlarını, gözləri və üzü"
+  },
+  {
+    "id": 155,
+    "question": "QP-7V əleyhiqazının üzlük hissəsinə nə əlavə edilib?",
+    "options": [
+      "Diktofon",
+      "Qromofon",
+      "Danışıq və suiçmə tərtibatı",
+      "Səs gücləndirici",
+      "Maqnitafon"
+    ],
+    "answer": "Danışıq və suiçmə tərtibatı"
+  },
+  {
+    "id": 156,
+    "question": "Şəhərdən kənar zona nədir?",
+    "options": [
+      "Güclü dağıntı ərazi sərhədindən dövlət sərhədinə qədər olan ərazi",
+      "Şəhərin sərhədindən rayon sərhədinə qədər olan ərazi",
+      "Sürüşmə ərazisindən dəmiryolu qovşağına qədər olan ərazi",
+      "Katastrofik subasma ərazindən şəhərdən kənar zonaya qədər olan ərazi",
+      "Tam dağıntı zonası sərhədindən qəbul məntəqəsinədək olan ərazi"
+    ],
+    "answer": "Güclü dağıntı ərazi sərhədindən dövlət sərhədinə qədər olan ərazi"
+  },
+  {
+    "id": 157,
+    "question": "Fərdi mühafizə vasitələri hansılardır?",
+    "options": [
+      "ərzaq məhsullarının zərərsizləşdirilməsi",
+      "sığınacaqlar, sadə daldanacaqlar və respiratorlar",
+      "tənəffüs üzvlərini, dəri səthini və fərdi tibbi mühafizə vasitələri",
+      "binadan təxliyyə, nəqliyyat vasitələri ilə köçürmə",
+      "ərzaq məhsullarının mühafizəsi"
+    ],
+    "answer": "tənəffüs üzvlərini, dəri səthini və fərdi tibbi mühafizə vasitələri"
+  },
+  {
+    "id": 158,
+    "question": "QP-5 əleyhiqazı udub saxlaya bilmədiyi hansı qazdır?",
+    "options": [
+      "Propan qazını",
+      "Karbon qazını",
+      "Etilen qazını",
+      "Dəm qazını",
+      "Oksigen qazını"
+    ],
+    "answer": "Dəm qazını"
+  },
+  {
+    "id": 159,
+    "question": "Köçürmə vəsiqəsi neçə hissədən ibarət olur?",
+    "options": ["5", "4", "1", "2", "3"],
+    "answer": "3"
+  },
+  {
+    "id": 160,
+    "question": "Tibbi mühafizə vasitələri hansılardır?",
+    "options": [
+      "QP-5, sığınacaq, bakteriya əleyhinə zərf",
+      "Süzücü əleyhqaz, fərdi dozimetr, bint, yod",
+      "L-1 kostyumu, radiasiya əleyhinə zərf",
+      "Respirator, Yardımçı zərf, radioaktiv mühafizə zərfi",
+      "Fərdi dərman qutusu, kimya əleyhinə zərf, fərdi sarğı zərfi"
+    ],
+    "answer": "Fərdi dərman qutusu, kimya əleyhinə zərf, fərdi sarğı zərfi"
+  },
+  {
+    "id": 161,
+    "question": "Apteçkada şpiris-tyubik nə ilə doldurulur?",
+    "options": [
+      "2% promedol",
+      "1% promedol",
+      "Ağrıkəsici",
+      "3% promedol",
+      "Yanğına qarşı"
+    ],
+    "answer": "2% promedol"
+  },
+  {
+    "id": 162,
+    "question": "Spesifik və qeyri-spesifik profilaktika vasitələr hansı maddələrə aiddir?",
+    "options": [
+      "İonlaşdırıcı şüalanmanın təsir dərəcəsini zəiflədən maddələrə",
+      "Bakteriya əleyhinə maddələrə",
+      "Zəhər əleyhinə maddələrə",
+      "Qismən sanitariya təmizlənməsi üçün",
+      "Fosforlu-üzvi maddələrə"
+    ],
+    "answer": "Bakteriya əleyhinə maddələrə"
+  },
+  {
+    "id": 163,
+    "question": "Əhalinin köcürülməsi hansı prinsip üzrə aparılır?",
+    "options": [
+      "Ərazi-Istehsalat",
+      "Kompleks yanaşma",
+      "Fərdi yanaşma",
+      "Daimi hazırlıq",
+      "Qarşılıqlı əlaqə"
+    ],
+    "answer": "Ərazi-Istehsalat"
+  },
+  {
+    "id": 164,
+    "question": "Köçürülən əhali harada yerləşdirilir?",
+    "options": [
+      "Evlərdə, ictimai binalarda, çadırlarda və s.",
+      "Zəlzələ zamanı sığınacaqlarda və avtobuslarda",
+      "Yataqxanalarda, istifadəyə yararsız binalarda",
+      "Eskalatorlarda və yol keçidlərində",
+      "Açıq və yağmurlu havada, məktəblərdə"
+    ],
+    "answer": "Evlərdə, ictimai binalarda, çadırlarda və s."
+  },
+  {
+    "id": 165,
+    "question": "Piyada kalonların hərəkəti zamanı kimlər getməlidir?",
+    "options": [
+      "qadınlar",
+      "uşaqlar",
+      "yataq xəstələri",
+      "əsasən piyada gedə biləcək sağlam adamlar",
+      "qocalar"
+    ],
+    "answer": "əsasən piyada gedə biləcək sağlam adamlar"
+  },
+  {
+    "id": 166,
+    "question": "Köcürmə zamanı hansı məntəqələr yaradılır?",
+    "options": [
+      "yardımçı təyinatlı otaqlar və qocalar otağı",
+      "toplanış-köçürmə, aralıq köçürmə, qeydiyyat və qəbuletmə məntəqələri",
+      "yardımçı idarəetmə məntəqəsi",
+      "səyyar idarəetmə məntəqəsi və uşaqlı qadınlar otağı",
+      "əsas təyinatlı otaqlar"
+    ],
+    "answer": "toplanış-köçürmə, aralıq köçürmə, qeydiyyat və qəbuletmə məntəqələri"
+  },
+  {
+    "id": 167,
+    "question": "Köçürmə məntəqəsi harada yerləşdirilir?",
+    "options": [
+      "tibb məntəqəsində",
+      "Burada köçürülənlərin toplaşması, qeydiyyatı və ətraf zonalara göndərilməsi nəzərdə tutulan meydançalarında",
+      "zavodun rəhbər heyətinin binasında",
+      "kitabxana binasında",
+      "uşaq bağçası binasında"
+    ],
+    "answer": "Burada köçürülənlərin toplaşması, qeydiyyatı və ətraf zonalara göndərilməsi nəzərdə tutulan meydançalarında"
+  },
+  {
+    "id": 168,
+    "question": "Gecə hərəkət edən zaman əsasən nəyə nəzər yetirilməlidir?",
+    "options": [
+      "qismən köçürülmə işlərinə",
+      "tək-tək köçürmə məsələlərinə",
+      "texniki tədbirlərin yerinə yetirilməsi işlərinə",
+      "məhəllə-məhəllə köçürülməyə",
+      "sıradakı qonşuların geri qalmamasına, istirahət zamanı yatıb qalmamasına"
+    ],
+    "answer": "sıradakı qonşuların geri qalmamasına, istirahət zamanı yatıb qalmamasına"
+  },
+  {
+    "id": 169,
+    "question": "Tənəffüz üzvlərinin mühafizə vasitələri neçə növə bölünür?",
+    "options": ["3", "4", "6", "2", "5"],
+    "answer": "3"
+  },
+  {
+    "id": 170,
+    "question": "R-2d respiratoru kimlər üçün nəzərdə tutulub?",
+    "options": [
+      "işçilər üçün",
+      "sürücülər üçün",
+      "fəhlələr üçün",
+      "böyüklər üçün",
+      "uşaqlar üçün"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 171,
+    "question": "R-2d respiratoru neçə saat ərzində fasiləsiz mühafizəni təmin edir?",
+    "options": ["1", "3", "4", "5", "2"],
+    "answer": "3"
+  },
+  {
+    "id": 172,
+    "question": "Fərdi mühafizə vasitələri təsnif edildikdə neçə növə ayrılır?",
+    "options": ["3", "5", "6", "4", "2"],
+    "answer": ""
+  },
+  {
+    "id": 173,
+    "question": "QP-5 əleyhiqazında neçə bağlayıcı quraşdırılıb?",
+    "options": ["4", "5", "2", "1", "3"],
+    "answer": "3"
+  },
+  {
+    "id": 174,
+    "question": "Əleyhqazlar neçə növə ayrılır?",
+    "options": ["5", "1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "id": 175,
+    "question": "1-5 yaşdan yuxarı kiçik yaşlı uşaqlar üçün hansı əleyhqazlardan istifadə edilməlidir?",
+    "options": ["QP-7", "PDF-Ş", "QP-5", "DP-6", "PDF-7"],
+    "answer": "DP-6"
+  },
+  {
+    "id": 176,
+    "question": "Kiçik ölçülü süzücü-uducu və şlem-maska tipli üzlük hissə ilə hasnı əleyhqazlar komplektləşdirilir?",
+    "options": ["R-2", "QP-5, QP-5M", "R-D", "Kip-5", "PTM-1"],
+    "answer": "QP-5, QP-5M"
+  },
+  {
+    "id": 177,
+    "question": "QP-7V əleyhqazının üzlük hissəsinə nə əlavə edilib?",
+    "options": [
+      "Maqnitafon",
+      "Mikrofon",
+      "danışıq tərtibatı və ordu su qabı",
+      "Diktofon",
+      "Qromofon"
+    ],
+    "answer": "danışıq tərtibatı və ordu su qabı"
+  },
+  {
+    "id": 178,
+    "question": "QP-7 tipli əleyhqaz neçə növdə buraxılır?",
+    "options": ["1", "4", "2", "3", "5"],
+    "answer": "2"
+  },
+  {
+    "id": 179,
+    "question": "Respiratorlar hansılardır?",
+    "options": [
+      "İD-1, RU-67, DP-5V",
+      "ŞB-1, PDF-2,5, PDF-2D",
+      "R-2,R-2D",
+      "ŞB-1, QP-5, QP-5M",
+      "RU-67, QP-5, DP-22V"
+    ],
+    "answer": "R-2,R-2D"
+  },
+  {
+    "id": 180,
+    "question": "Yaranmış vəziyyətdən asılı olaraq əhalinin köçürülməsi hansı qaydada aparılır?",
+    "options": [
+      "qismən köçürmə",
+      "ümumi və qismən",
+      "məhəllə-məhəllə köçürmə",
+      "ailələrlə köçürmə",
+      "tək-tək köçürmə"
+    ],
+    "answer": "ümumi və qismən"
+  },
+  {
+    "id": 181,
+    "question": "Yerüstü kəşfiyyat neçə növə bölünür?",
+    "options": ["6", "5", "3", "2", "4"],
+    "answer": "2"
+  },
+  {
+    "id": 182,
+    "question": "Ətraf mühitin radiaktiv, kimyəvi, güclü təsirli və bakterial maddələrlə zəhərlənməsi barədə dövlət orqanlarına məlumat vermək hansı nəzarət şəbəkəsi həyata keçirir?",
+    "options": [
+      "Müşahidə və laboratoriya nəzarəti şəbəkəsi (MLNŞ)",
+      "Havadan kəşfiyyat",
+      "Ümumi kəşfiyyat",
+      "Radiasiya və kimya müşahidəsi postları (RKMP)",
+      "Xüsusi kəşfiyyat"
+    ],
+    "answer": "Müşahidə və laboratoriya nəzarəti şəbəkəsi (MLNŞ)"
+  },
+  {
+    "id": 183,
+    "question": "Kəşfiyyatın dəqiq təşkil edilməsi üçün kim tam məsuliyyət daşıyır?",
+    "options": [
+      "MM qərargahının rəisi",
+      "Bölmə rəisi",
+      "MM qərargahının müavini",
+      "MM qərargahının köçürmə üzrə müavini",
+      "MM qərargahının maddi-texniki xidmətinin rəisi"
+    ],
+    "answer": "MM qərargahının rəisi"
+  },
+  {
+    "id": 184,
+    "question": "Radiasiya və kimya müşahidə postları, mühəndis və epidemioloji kəşfiyyat qrupları, baytar və fitopatoloji manqalar hansı kəşfiyyat növünə aiddir?",
+    "options": [
+      "xüsusi kəşfiyyat",
+      "havadan kəşfiyyat",
+      "dənizdən kəşfiyyat",
+      "ümumi kəşfiyyat",
+      "yerüstü kəşfiyyat"
+    ],
+    "answer": "xüsusi kəşfiyyat"
+  },
+  {
+    "id": 185,
+    "question": "Yerinə yetirdiyi vəzifələrin xarakterinə görə, fövqəladə hallar baş vermiş sahələrdə yaranan vəziyyət barədə dərhal ilkin məlumatlar əldə etmək üçün hansı kəşfiyyat aparılır?",
+    "options": [
+      "ümumi kəşfiyyat",
+      "havadan kəşfiyyat",
+      "çaydan kəşfiyyat",
+      "xüsusi kəşfiyyat",
+      "yerüstü kəşfiyyat"
+    ],
+    "answer": "ümumi kəşfiyyat"
+  },
+  {
+    "id": 186,
+    "question": "Zədələnmə ocaqlarında, təbii fəlakət və qəza rayonlarında ümumi vəziyyəti tez aşkar etmək üçün hansı nəqliyyat vasitələrindən istifadə edilir?",
+    "options": [
+      "sürətli gəmilər və katerlərdən",
+      "yerüstü nəqliyyat vasitələrindən",
+      "fərdi avtomobillərdən",
+      "yeraitı nəqliyyat vasitələrindən",
+      "təyyarələr və helikopterlərdən"
+    ],
+    "answer": "təyyarələr və helikopterlərdən"
+  },
+  {
+    "id": 187,
+    "question": "Zədələnmə ocaqlarında, təbii fəlakət və qəza rayonlarında ümumi vəziyyəti tez aşkar etmək üçün hansı kəşfiyyat növündən istifadə edilir?",
+    "options": [
+      "Yerüstü kəşfiyyat",
+      "Xüsusi kəşfiyyat",
+      "Havadan kəşfiyyat",
+      "Ümumi kəşfiyyat",
+      "Dənizdən kəşfiyyat"
+    ],
+    "answer": "Havadan kəşfiyyat"
+  },
+  {
+    "id": 188,
+    "question": "Obektlərdə hansı kəşfiyyat qrupları yaradılır?",
+    "options": [
+      "Meteroloji kəşfiyyat",
+      "Radiasiya,kimyəvi, mühəndis və yanğın kəşfiyyatı",
+      "Kinoloji kəşfiyyat",
+      "Hidrodinamik kəşfiyyat",
+      "Akustik kəşfiyyat"
+    ],
+    "answer": "Radiasiya,kimyəvi, mühəndis və yanğın kəşfiyyatı"
+  },
+  {
+    "id": 189,
+    "question": "Radiasiya şəraiti nə zaman yaranır?",
+    "options": [
+      "Kimyəvi silahın tətbiqi ilə",
+      "Zəlzələnin baş verməsilə",
+      "Bakterioloji silahın tətbiqi ilə",
+      "Texnikanın sıradan çıxması ilə",
+      "AES-da qəza və nüvə silahının tətbiqi"
+    ],
+    "answer": "AES-da qəza və nüvə silahının tətbiqi"
+  },
+  {
+    "id": 190,
+    "question": "Ən dəqiq, daha dolğun kəşfiyyat növü hansı sayılır?",
+    "options": [
+      "Dənizdən (çaydan) kəşfiyyat",
+      "Ümumi kəşfiyyat",
+      "Havadan kəşfiyyat",
+      "Yerüstü kəşfiyyat",
+      "Xüsusi kəşfiyyat"
+    ],
+    "answer": "Yerüstü kəşfiyyat"
+  },
+  {
+    "id": 191,
+    "question": "Sülh dövründə MM kəşfiyyatının əsas vəzifələrindən biri hansılardır?",
+    "options": [
+      "İşlədilmiş silahın növü, zərbənin nə vaxt və haraya endirildiyi, nüvə partlayışının gücü və koordinatlarını müəyyən etmək",
+      "Ətraf mühitdə havanın, suyun, torpağın, maldarlıq və bitkiçilik məhsullarının radiaktiv, kimyəvi, bakterial maddələrlə çirklənməsinə vaxtaşırı müşahidə və laboratoriya nəzarəti aparmaq",
+      "Zədələnmə ocağının hüdudlarını müəyyənləşdirmək",
+      "Yanğın yerlərini, onların yayılma istiqamətini təyin etmək",
+      "Xilasetmə və digər işlər aparılan rayonlarda zədələnmə şəraitinin necə dəyişdiyinə nəzarət etmək"
+    ],
+    "answer": "Ətraf mühitdə havanın, suyun, torpağın, maldarlıq və bitkiçilik məhsullarının radiaktiv, kimyəvi, bakterial maddələrlə çirklənməsinə vaxtaşırı müşahidə və laboratoriya nəzarəti aparmaq"
+  },
+  {
+    "id": 192,
+    "question": "Kimyəvi və yanğın şəraiti hansı üsullara əsasən qiymətləndirilir?",
+    "options": [
+      "Riyazi üsulla",
+      "Təcrübə üsulu ilə",
+      "Proqramlaşdırma üsulu ilə",
+      "müşahidə üsullarına əsasən",
+      "Proqnozlaşdırma və kəşfiyyat məlumatları"
+    ],
+    "answer": "Proqnozlaşdırma və kəşfiyyat məlumatları"
+  },
+  {
+    "id": 193,
+    "question": "Hədd nişanları radiasiyasının hansı səviyyəsindən qoyula bilər?",
+    "options": ["4 r/saat", "5 r/saat", "1 r/saat", "0,5 r/saat", "10 r/saat"],
+    "answer": "0,5 r/saat"
+  },
+  {
+    "id": 194,
+    "question": "Zəhərlənməni proqnozlaşdırmaq üçün ilkin məlumat hansılardır?",
+    "options": [
+      "Nüvə partlayışının koordinatları, küləyin istiqaməti",
+      "Orta küləyin istiqaməti və sürəti",
+      "Observasiya və karantin sənədləri",
+      "Nüvə partlayışının vaxtı, növü və gücü, küləyin sürəti",
+      "Partlayışın növü və gücü, havanın şaqulu hərəkəti"
+    ],
+    "answer": "Nüvə partlayışının vaxtı, növü və gücü, küləyin sürəti"
+  },
+  {
+    "id": 195,
+    "question": "Soyuq havada zəhərləyici maddələri müəyyən edərkən indikator borucuqlarını qızdırmaq,habelə ampulaların donunu açmaq üçün nədən istifadə olunur?",
+    "options": [
+      "Tüstü əleyhinə süzgəclərdən",
+      "Nasosun dəstəyindən",
+      "Qoruyucu qalpaqlardan",
+      "İndikatorun borucuqlarından",
+      "Qızdırıcıdan"
+    ],
+    "answer": "Qızdırıcıdan"
+  },
+  {
+    "id": 196,
+    "question": "QKK cihazında nasos neçə hissədən ibarətdir?",
+    "options": ["3", "4", "5", "2", "6"],
+    "answer": "4"
+  },
+  {
+    "id": 197,
+    "question": "Bir qızmızı haşiyəli və qırmızı nöqtəli indiqator borucuqları nə üçündür?",
+    "options": [
+      "Ümum zəhərləyici maddələri aşkar etmək",
+      "Boğucu təsirli maddələri aşkar etmək",
+      "Maddələr mübadiləsini pozan zəhərləyici maddələri aşkar etmək",
+      "Yara əmələ gətirən maddələri aşkar etmək",
+      "Sinif ifliedici ZM aşkar etmək və qatılığını ölçmək"
+    ],
+    "answer": "Sinif ifliedici ZM aşkar etmək və qatılığını ölçmək"
+  },
+  {
+    "id": 198,
+    "question": "1 sarı haşiyəli indiqator borucuqları nə üçündür?",
+    "options": [
+      "Maddələr mübadiləsini pozan zəhərləyici maddələri aşkar etmək",
+      "Sinif ifliedici zəhərləyici maddələri aşkar etmək",
+      "Boğucu təsirli maddələri aşkar etmək",
+      "Ümum zəhərləyici maddələri aşkar etmək",
+      "Dəridə yaraçıxaran zəhərləyici maddələri aşkar etmək"
+    ],
+    "answer": "Dəridə yaraçıxaran zəhərləyici maddələri aşkar etmək"
+  },
+  {
+    "id": 199,
+    "question": "Dozimetrik cihazların sxemində çevrilən siqnalların xarakterinə görə qurğular neçə qrupa ayrıla bilər?",
+    "options": ["3", "6", "4", "2", "5"],
+    "answer": "2"
+  },
+  {
+    "id": 200,
+    "question": "İD-1 komplektin saz işləmə müddəti ən azı neçə saatdır?",
+    "options": [
+      "5000 saat",
+      "1000 saat",
+      "4000 saat",
+      "3000 saat",
+      "2000 saat"
+    ],
+    "answer": "5000 saat"
+  },
+  {
+    "id": 201,
+    "question": "Nasos ucluğu qıfının daxili səthini davamlı zəhərləyici maddələrlə çirklənmədən qorumaq, habelə torpağın və dənəvər maddələrin nümunələrini (problarını) yerləşdirmək üçün nədən istifadə edilir?",
+    "options": [
+      "Tüstü əleyhinə süzgəclərdən",
+      "Kasetlərdən",
+      "Qoruyucu qalpaqlardan",
+      "Radiaktiv zərrəciklərdən",
+      "İndikator borucuqlarından"
+    ],
+    "answer": "Qoruyucu qalpaqlardan"
+  },
+  {
+    "id": 202,
+    "question": "İndikator borucuqlarından istifadə etmək üçün öncə hansı əməliyyat aparılır?",
+    "options": [
+      "Onlar qızdırılır",
+      "Onların başları nasosda kəsilir",
+      "Onlar kimyəvi yoxlanılır",
+      "Onlar soyudulur",
+      "Onlar fiziki yoxlanır"
+    ],
+    "answer": "Onların başları nasosda kəsilir"
+  },
+  {
+    "id": 203,
+    "question": "Nasosun nişanlanmış baş hissəsi nə üçündür?",
+    "options": [
+      "Patronları deşmək",
+      "İndikator borucuqlarını kəsmək və onlardan havanı keçirmək",
+      "İndikator borucuqlarını rəngləmək",
+      "Ampulaları lehimləmək",
+      "Qızdırıcı saxlamaq"
+    ],
+    "answer": "İndikator borucuqlarını kəsmək və onlardan havanı keçirmək"
+  },
+  {
+    "id": 204,
+    "question": "Təyinatına, vericisinin tipinə, ölçülən şüalanmanın növünə və cihazın sxeminin çevirdiyi elektrik siqnallarının xarakterinə görə bütün cihazlar neçə qrupa ayrılır?",
+    "options": [
+      "Dozimetrlər, protektorlar, Merkali şkalası",
+      "İndiqatorlar, rentgeınmetrlər, radiometrlər, dozimetrlər",
+      "Barometrlər, termometrlər, VPXR",
+      "Bofort şkalası, rengenmetr-radiometrlər",
+      "Radiometrlər, Rixter şkalası, psixometrlər"
+    ],
+    "answer": "İndiqatorlar, rentgeınmetrlər, radiometrlər, dozimetrlər"
+  },
+  {
+    "id": 205,
+    "question": "Üç yaşıl həlqəli indikator borucuqları nə üçündür?",
+    "options": [
+      "Fosgen, sianid turşusu və xlorsianı ölçmək",
+      "Si-Esi qazlarını aşkarlamaq",
+      "Zarin və zomanı tapıb ölçmək",
+      "İpriti və lyuziti aşkarlayıb ölçmək üçündür",
+      "Bi-zeti konsentrasiyasını ölçmək"
+    ],
+    "answer": "Fosgen, sianid turşusu və xlorsianı ölçmək"
+  },
+  {
+    "id": 206,
+    "question": "İD-1 fərdi dozimetrlər komplekti kimlər üçün nəzərdə tutulub?",
+    "options": [
+      "Kəşfiyatçılar və şəxsi heyətlərə",
+      "Rəhbər və idarəedici şəxslər",
+      "Manqa və qrup heyəti üçün",
+      "Radiasiya kəşfiyyat dəstələri və şəxsi heyət",
+      "İdarəedici şəxslər və şəxsi heyət"
+    ],
+    "answer": "Rəhbər və idarəedici şəxslər"
+  },
+  {
+    "id": 207,
+    "question": "Fərdi dozimetrlər yüklənməyə nə vaxt qoyurlar?",
+    "options": [
+      "Paylanmazdan 5 saat əvvəl",
+      "Paylanmağa əmr alınandan 3 saat sonar",
+      "Paylanan günü və saatı",
+      "Paylanmazdan 1 saat əvvəl",
+      "Paylanmağa 1 gün qalmış"
+    ],
+    "answer": "Paylanmazdan 1 saat əvvəl"
+  },
+  {
+    "id": 208,
+    "question": "Rentgenmetrlər hansı ionlaşdırıcı şüaları olçürlər?",
+    "options": ["proton", "α", "β", "γ", "n"],
+    "answer": "γ"
+  },
+  {
+    "id": 209,
+    "question": "Təyinatına görə dozimetrik cihazlar neçə növə bölünürlər?",
+    "options": ["4", "6", "2", "3", "1"],
+    "answer": "4"
+  },
+  {
+    "id": 210,
+    "question": "0,2 R/s-a çatanda bu barədə səs və işıq siqnalları verilməsini təmin edən cihaz hansıdır?",
+    "options": ["DP-5V", "DP-64", "İMD-21", "DP-5A", "DP-22V"],
+    "answer": "DP-64"
+  },
+  {
+    "id": 211,
+    "question": "DP-64 cihazı indikator-siqnalizatoru neçə R/s-a çatanda bu barədə səs və işıq siqnalları verilməsini təmin edir?",
+    "options": ["0,5 R/s", "0,4 R/s", "0,2 R/s", "0,6 R/s", "0,1 R/s"],
+    "answer": ""
+  },
+  {
+    "id": 212,
+    "question": "QKK cihazında şüşə borucuqlarının adı nədir?",
+    "options": [
+      "İndikator",
+      "kondensat",
+      "luminofor",
+      "Saxlama cihazı",
+      "fotoluminoforlar"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 213,
+    "question": "Aşağıdakılardan hansı MM xəbərdarlıq siqnalı deyil?",
+    "options": [
+      "Hava həyacanı sovuşdu",
+      "Hava həyacanı",
+      "Təbii fəlakət həyacanı",
+      "Radiasiya təhlükəsi, kimyəvi həyacan",
+      "Hamının diqqətinə"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 214,
+    "question": "Obyektlərin mülci müdafiə planı kim tərəfindən təsdiq olunur?",
+    "options": [
+      "obyektin işçiləri tərəfindən",
+      "obyektin rəis müavini tərəfindən",
+      "obyektin rəhbəri (rəisi, müdiri və ya direktoru) tərəfindən",
+      "obyektin kadrlar şöbəsi tərəfindən",
+      "obyektin qərargah rəisi tərəfindən"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 215,
+    "question": "Mülci müdafiə kim tərəfindən idarə olunur?",
+    "options": [
+      "Mülci müdafiənin şəxsi heyəti tərəfindən",
+      "Mülci müdafiə rəisinin müavini tərəfindən",
+      "Mülci müdafiənin hərbiləşdirilmiş dəstələri tərəfindən",
+      "Mülci müdafiə rəhbəri tərəfindən",
+      "Mülci müdafiənin təsərrüfat rəisi tərəfindən"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 216,
+    "question": "Obyektlərdə rabitənin təşkilinə kim rəhbərlik edir?",
+    "options": [
+      "obyektin mülci müdafiə qərargahının rəisi",
+      "obyektin mühəndisi",
+      "obyektin işçiləri",
+      "obyektin rəis müavini",
+      "təsərrüfat rəisi"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 217,
+    "question": "Təsərrüfat birliklərdə və obyektlərdə mülci müdafiəyə bilavasitə kimlər rəhbərlik edirlər?",
+    "options": [
+      "xidmət dəstələri",
+      "onların rəhbərləri və sahibkarları",
+      "dövlət orqanları",
+      "icra hakimiyyəti nümayəndələri",
+      "mülci müdafiə xidməti"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 218,
+    "question": "Mülci müdafiə rəhbərliyinin idarəetmə üzrə iş prosesi neçə mərhələdən ibarətdir?",
+    "options": ["1", "4", "3", "2", "5"],
+    "answer": ""
+  },
+  {
+    "id": 219,
+    "question": "İcra hakimiyyətləri müharibə dövründə düşmənin hücumu barədə MM -nin xəbərdarlıq siqnalını hansı ərazilərdə əhaliyə çatdırmalıdır?",
+    "options": [
+      "Obyekt ərazisində",
+      "Parklarda",
+      "Ərzaq anbarında",
+      "Şəhər və rayon ərazisində",
+      "Bulvar ərazisində"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 220,
+    "question": "Təyinatına görə idarəetmə məntəqəsinin növləri hansılardır?",
+    "options": [
+      "əsas, ehtiyyat, yardımçı, səyyar",
+      "zirzəmi,yeraltı anbar",
+      "əsas, zal, dəhliz",
+      "tibb məntəqəsi, əlavə",
+      "köməkçi, əlavə, dəhliz"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 221,
+    "question": "MM təşkilatının aparat rəhbəri kimdir?",
+    "options": [
+      "müəssisənin rəhbəridir",
+      "mülci müdafiə təşkilatının rəis müavinidir",
+      "fövqəladə hallarda müəssisənin baş mühəndisidir",
+      "mülci müdafiə nazirinin müavinidir",
+      "Fövqəladə Hallar Nazirliyinin əməkdaşıdır"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 222,
+    "question": "Respublika təsərrüfatının fəaliyyətinin dayanıqlılığının əsas tərkib hissəsi nədən asılıdır?",
+    "options": [
+      "hər bir obyekt və sənaye kompleksinin inşasından",
+      "zədələyici amillərin təsirinə qarşı hər bir obyekt və sənaye kompleksinin mənəvi dayanıqlılığından",
+      "kompleks tədbirlər keçirməkdən",
+      "zədələyici amillərin təsirinni izləməkdən",
+      "zədələyici amillərin təsirinə qarşı hər bir obyekt və sənaye kompleksinin fiziki dayanıqlılığından"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 223,
+    "question": "Mümkün dagılma ərazisi neçə zonaya bölünür?",
+    "options": ["2", "3", "5", "4", "6"],
+    "answer": ""
+  },
+  {
+    "id": 224,
+    "question": "Obyektin dayanıqlığının artırılması üçün səfərbərlik ehtiyatı hansıdır?",
+    "options": [
+      "Fərdi mühafizə vasitələri ehtiyatı",
+      "Üzülməyən azuqə, neft məhsulları, xammal",
+      "İş rejiminin tənzimlənməsi",
+      "Fəhlələrin mühafizəsi üçün sığınacaqların hazırlığa gətirilməsi",
+      "Unikol aparatları və dəzgahlar"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 225,
+    "question": "Zədələnmə ocaqları hansı formada olur?",
+    "options": [
+      "Piramida, üç bucaq formalı, seqment",
+      "Dairəvi, zolaq, qeyri-müəyyən",
+      "Kvadrat, düzbucaqlı, müəyyən formada",
+      "Prizma, konus, silindr formal",
+      "Dörd bucaq, sektor, silindr"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 226,
+    "question": "Yerdəyişmə, çökmə, əyilmə, aşma hansı qrup zədələnməyə aiddir?",
+    "options": [
+      "ikinci qrup zədələnməyə",
+      "dördüncü qrup zədələnməyə",
+      "üçüncü qrup zədələnməyə",
+      "zədələnməyə aid deyil",
+      "brinci qrup zədələnməyə"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 227,
+    "question": "İşini davam etdirən obyektdə neçə iş növbəsi təyin edilir?",
+    "options": ["6", "8", "2", "4", "3"],
+    "answer": ""
+  },
+  {
+    "id": 228,
+    "question": "Obyektin dayanıqlığı hansı tədbirlərdən asılı olur?",
+    "options": [
+      "Fəhlə və qulluqçuların mühafizə edilmə imkanından",
+      "Səfərbər edilən xammaldan",
+      "Fəhlə və qulluqçuların iş bacarığından",
+      "Avadanlığın sazlığından",
+      "İdarəetmə sisteminin avtomatlaşdırılması səviyyəsindən"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 229,
+    "question": "İqtisadiyyatın dayanıqlığı nədir?",
+    "options": [
+      "Obyektlərin işinin pul dövriyyəsinin dayanıqlığı",
+      "Nəqliyyatın dayanıqlığı",
+      "Respublika təssərüfatının dayanıqlığı",
+      "Sahələrin işinin dayanıqlığı",
+      "Fəhlə və qulluqçuların bacarığı"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 230,
+    "question": "Zədələnmə ocağında yerinə yetirilən işlər neçə hissədən ibarətdir?",
+    "options": ["5", "2", "3", "4", "6"],
+    "answer": ""
+  },
+  {
+    "id": 231,
+    "question": "Şəhərin ayrı-ayrı mikrorayonlara bölünməsi hansı rolu oynayır?",
+    "options": [
+      "fövqəladə hallar zamanı qaz təchizatının saxlanılması üçün vacibdir",
+      "əhalinin monitorinqini aparmaq",
+      "yanğınların yayılması ehtimalını azaltmaq və daha səmərəli xilasetmə əməliyyatlarına töhfə vermək üçün vacibdir",
+      "fövqəladə hallar zamanı içməli su təchizatının saxlanılması üçün vacibdir",
+      "ən çox məskunlaşan əraziləri müəyyən etmək vacibdir"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 232,
+    "question": "Zədələnmə ocaqlarında yerinə yetirilən işlər neçə mərhələdən ibarətdir?",
+    "options": ["4", "6", "5", "2", "3"],
+    "answer": ""
+  },
+  {
+    "id": 233,
+    "question": "Fövqəladə hadisə nəticələrinin aradan qaldırılması üzrə işlər neçə mərhələ üzrə yerinə yetirilir?",
+    "options": ["3", "4", "5", "6", "2"],
+    "answer": ""
+  },
+  {
+    "id": 234,
+    "question": "Digər təxirəsalınmaz işlərin məqsədi nədir?",
+    "options": [
+      "Xilasedicilərin təhlükəsizliyi üçün",
+      "Qaçış yollarının çəkilməsi",
+      "Əhalinin daşınması üçün",
+      "qəza-xilasetmə işlərinin aparılmasına şərait yaratmaq",
+      "Tibbi yardımın göstərilməsi üçün şərait yaratmaq"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 235,
+    "question": "Ali təhsil müəssisələrində Mülci müdafiə fənni proqram üzrə neçə saat tədris olunur?",
+    "options": ["45", "30", "46", "50", "60"],
+    "answer": ""
+  },
+  {
+    "id": 236,
+    "question": "Əhalinin mülci müdafiəyə hazırlanmasının hansı üsulları mümkün deyil?",
+    "options": ["mühazirə", "izahat", "göstəriş", "nümayiş", "laboratoriya"],
+    "answer": ""
+  },
+  {
+    "id": 237,
+    "question": "Öyrənilən üsulların və hərəkətlərin bir neçə dəfə təkrar edilməsi hansı üsulla aparılır?",
+    "options": [
+      "Nümayiş",
+      "İzahat",
+      "Göstəriş",
+      "Çalışma, məşq",
+      "Müstəqil iş"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 238,
+    "question": "İş saatlarında hansı hazırlıq həyata keçirilir?",
+    "options": [
+      "taktiki-xüsusi hazırlıq",
+      "Müstəqil hazırlıq",
+      "Xüsusi hazırlıq",
+      "Nümayiş",
+      "Ümumi hazırlıq"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 239,
+    "question": "Obyektlərdə rəhbər heyətin əməli məşqləri ildə neçə dəfə keçirilir?",
+    "options": [
+      "ildə 2 dəfə",
+      "ildə 5 dəfə",
+      "ildə 3 dəfə",
+      "ildə 1 dəfə",
+      "ildə 4 dəfə"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 240,
+    "question": "Obyektlərdə kompleks MM təlimləri neçə ildən bir keçirilir?",
+    "options": [
+      "2 ildən bir",
+      "1 ildən bir",
+      "3 ildən bir",
+      "4 ildən bir",
+      "5 ildən bir"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 241,
+    "question": "Prinsiplərdən hansı MM tədrisinə aid deyil?",
+    "options": [
+      "Elmililik",
+      "Təlimin müntəzəmliliyi, ardıcıllığı",
+      "Şüurluluq",
+      "Təlimin fəallılığı və əyanililik",
+      "Dəqiqlik və məqsədyönlülük"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 242,
+    "question": "Obyektin mülci müdafie məşqi neçə ildən bir keçirilir?",
+    "options": [
+      "5 ildən bir",
+      "3 ildən bir",
+      "2 ildən bir",
+      "1 ildən bir",
+      "4 ildən bir"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 243,
+    "question": "Dezinfeksiya əməliyyatı nəyi nəzərdə tutur?",
+    "options": [
+      "Bizi əhatə edən yoluxucu xəstəlik törədən mikrobların məhv edilməsini",
+      "Bizi əhatə edən, təhlükə törədən heyvanların qorunub saxlanması",
+      "Təhlükə törədən heyvanların məhv edilməsini",
+      "Yoluxucu xəstəlik törədən gəmircilərin məhv edilməsini",
+      "Yoluxucu xəstəlik törədən həşaratların məhv edilməsini"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 244,
+    "question": "Deratizasiya nədir?",
+    "options": [
+      "yolxucu xəstəlikləri yayan gəmiricilərin məhv edilməsi",
+      "radioaktiv maddələrdən insanların zəhərlənməməsi üçün ərazidən təmizlənməsi",
+      "yolxucu xəstəlikləri yayan insanların məhv edilməsi",
+      "ZM-lə insanların və heyvanların zəhərlənməsinin qarşısını almaq üçün zərərsizləşdirmə üsulları",
+      "heyvanların bakterioloji vasitələrdən mühafizəsi üçün aparılan üsuldur"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 245,
+    "question": "Deqazasiya hansı üsullarla aparılır?",
+    "options": [
+      "dezinfeksiya üsulla",
+      "mexaniki, fiziki və kimyəvi",
+      "mexaniki və toksikoloji",
+      "deratizasiya üsulla",
+      "fiziki və bakterioloji"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 246,
+    "question": "AI-1 ilk yardım dəstində (apteçka) neçə Sistamin tableti var?",
+    "options": ["7", "12", "17", "5", "15"],
+    "answer": ""
+  },
+  {
+    "id": 247,
+    "question": "Taun xəstəliyinin törədiciləri suda hansı müddətdə təhlükəli olaraq qalır?",
+    "options": ["10 gün", "30 gün", "50 gün", "20 gün", "25 gün"],
+    "answer": ""
+  },
+  {
+    "id": 248,
+    "question": "Taun xəstəliyinin törədiciləri süddə hansı müddətdə təhlükəli olaraq qalır?",
+    "options": ["70 gün", "60 gün", "100 gün", "90 gün", "50 gün"],
+    "answer": ""
+  },
+  {
+    "id": 249,
+    "question": "Yağ, piy, pendir və digər yeyinti məhsulları necə dezaktivasiya edilməlidir?",
+    "options": [
+      "Orta qatından 1-2 mm qalınlığından kəsməklə",
+      "Üst qatlarından 2-3 mm qalınlığından kəsməklə",
+      "Bütün səthlərdən 3-4 sm kəsməklə",
+      "Alt qatından 3-4 sm qalınlığından kəsməklə",
+      "Üst qatından 4-5 mm qalınlığından kəsməklə"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 250,
+    "question": "Deqazasiya maddələrinin zəhərlənmiş obyektlərin üzərindəki zəhərləyici maddələrlə kimyəvi əlaqələrə qoşulması üsulu hansıdır?",
+    "options": [
+      "mexaniki üsul",
+      "fiziki-kimyəvi üsul",
+      "kimyəvi üsul",
+      "fiziki üsul",
+      "dezinseksiya üsul"
+    ],
+    "answer": ""
   }
 ]

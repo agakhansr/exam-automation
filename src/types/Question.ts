@@ -12,4 +12,5 @@ export interface ExamState {
   score: number;
   questions: Question[];
   isExamCompleted: boolean;
+  isSetupCompleted: boolean;
 }

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Question, ExamState } from '../types/Question';
 import QuestionCard from '../components/QuestionCard';
+import ExamSetup from '../components/ExamSetup';
 import questionsData from '../data/questions.json';
 
 const Exam: React.FC = () => {
@@ -10,27 +11,44 @@ const Exam: React.FC = () => {
     showResult: false,
     score: 0,
     questions: [],
-    isExamCompleted: false
+    isExamCompleted: false,
+    isSetupCompleted: false
   });
 
   const [isLoading, setIsLoading] = useState(true);
+  const [totalQuestions, setTotalQuestions] = useState<number>(0);
 
   useEffect(() => {
-    // Load and randomize questions
-    const loadQuestions = () => {
+    // Load total questions count
+    const loadQuestionsInfo = () => {
       const allQuestions: Question[] = questionsData;
-      const shuffled = [...allQuestions].sort(() => Math.random() - 0.5);
-      const selectedQuestions = shuffled.slice(0, Math.min(50, allQuestions.length));
-      
-      setExamState(prev => ({
-        ...prev,
-        questions: selectedQuestions
-      }));
+      setTotalQuestions(allQuestions.length);
       setIsLoading(false);
     };
 
-    loadQuestions();
+    loadQuestionsInfo();
   }, []);
+
+  const handleStartExam = (startQuestion: number, endQuestion: number) => {
+    const allQuestions: Question[] = questionsData;
+    
+    // Filter questions by the selected interval (using id field)
+    const intervalQuestions = allQuestions.filter(
+      q => q.id >= startQuestion && q.id <= endQuestion
+    );
+    
+    // Shuffle the interval questions
+    const shuffled = [...intervalQuestions].sort(() => Math.random() - 0.5);
+    
+    // Select up to 50 questions, or all if less than 50
+    const selectedQuestions = shuffled.slice(0, Math.min(50, shuffled.length));
+    
+    setExamState(prev => ({
+      ...prev,
+      questions: selectedQuestions,
+      isSetupCompleted: true
+    }));
+  };
 
   const handleAnswerSelect = (answer: string) => {
     setExamState(prev => ({
@@ -60,18 +78,26 @@ const Exam: React.FC = () => {
   };
 
   const resetExam = () => {
-    const allQuestions: Question[] = questionsData;
-    const shuffled = [...allQuestions].sort(() => Math.random() - 0.5);
-    const selectedQuestions = shuffled.slice(0, Math.min(50, allQuestions.length));
-    
     setExamState({
       currentQuestionIndex: 0,
       selectedAnswer: null,
       showResult: false,
       score: 0,
-      questions: selectedQuestions,
-      isExamCompleted: false
+      questions: [],
+      isExamCompleted: false,
+      isSetupCompleted: false
     });
+  };
+
+  const retakeWithSameQuestions = () => {
+    setExamState(prev => ({
+      ...prev,
+      currentQuestionIndex: 0,
+      selectedAnswer: null,
+      showResult: false,
+      score: 0,
+      isExamCompleted: false
+    }));
   };
 
   if (isLoading) {
@@ -87,6 +113,16 @@ const Exam: React.FC = () => {
           </div>
         </div>
       </div>
+    );
+  }
+
+  // Show setup screen if exam hasn't been configured yet
+  if (!examState.isSetupCompleted) {
+    return (
+      <ExamSetup 
+        totalQuestions={totalQuestions}
+        onStartExam={handleStartExam}
+      />
     );
   }
 
@@ -118,12 +154,20 @@ const Exam: React.FC = () => {
             </div>
           </div>
           
-          <button
-            onClick={resetExam}
-            className="retry-button"
-          >
-            Take Another Exam
-          </button>
+          <div className="completion-buttons">
+            <button
+              onClick={retakeWithSameQuestions}
+              className="retry-button"
+            >
+              Retake Same Questions
+            </button>
+            <button
+              onClick={resetExam}
+              className="back-to-setup-button"
+            >
+              Configure New Exam
+            </button>
+          </div>
         </div>
       </div>
     );

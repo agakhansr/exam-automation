@@ -1,6 +1,6 @@
-import React from 'react';
-import Exam from './pages/Exam';
-import './App.css';
+import React from "react";
+import "./App.css";
+import Exam from "./pages/Exam";
 
 function App() {
   return (

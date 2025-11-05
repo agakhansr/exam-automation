@@ -1,5 +1,5 @@
-import React from 'react';
-import { Question } from '../types/Question';
+import React from "react";
+import { Question } from "../types/Question";
 
 interface QuestionCardProps {
   question: Question;
@@ -18,24 +18,24 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
   onAnswerSelect,
   onNext,
   currentQuestionNumber,
-  totalQuestions
+  totalQuestions,
 }) => {
   const getOptionStyle = (option: string) => {
     if (!showResult) {
-      return selectedAnswer === option 
-        ? 'option-button selected' 
-        : 'option-button';
+      return selectedAnswer === option
+        ? "option-button selected"
+        : "option-button";
     }
 
     if (option === question.answer) {
-      return 'option-button correct disabled';
+      return "option-button correct disabled";
     }
-    
+
     if (selectedAnswer === option && option !== question.answer) {
-      return 'option-button incorrect disabled';
+      return "option-button incorrect disabled";
     }
-    
-    return 'option-button disabled';
+
+    return "option-button disabled";
   };
 
   return (
@@ -58,21 +58,29 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
             disabled={showResult}
             className={getOptionStyle(option)}
           >
-            <span className="option-label">{String.fromCharCode(65 + index)}.</span> {option}
+            <span className="option-label">
+              {String.fromCharCode(65 + index)}.
+            </span>{" "}
+            {option}
           </button>
         ))}
       </div>
-      
- {showResult && (
-        <button
-          onClick={onNext}
-          className="next-button"
-        >
-          {currentQuestionNumber === totalQuestions ? 'Finish Exam' : 'Next Question'}
+
+      {showResult && (
+        <button onClick={onNext} className="next-button">
+          {currentQuestionNumber === totalQuestions
+            ? "Finish Exam"
+            : "Next Question"}
         </button>
       )}
       {showResult && (
-        <div className={`result-section ${selectedAnswer === question.answer ? 'result-correct' : 'result-incorrect'}`}>
+        <div
+          className={`result-section ${
+            selectedAnswer === question.answer
+              ? "result-correct"
+              : "result-incorrect"
+          }`}
+        >
           {selectedAnswer === question.answer ? (
             <div>
               <span className="result-icon">✅</span>
@@ -85,17 +93,19 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
                 <span className="result-text">Incorrect!</span>
               </div>
               <p className="correct-answer">
-                The correct answer is: <strong>
-                    {String.fromCharCode(65 + question.options.indexOf(question.answer))}
-                    {" "}
-                    {question.answer}</strong>
+                The correct answer is:{" "}
+                <strong>
+                  {String.fromCharCode(
+                    65 + question.options.indexOf(question.answer)
+                  )}{" "}
+                  {question.answer}
+                </strong>
               </p>
             </div>
           )}
         </div>
       )}
-
-     
+      <span className="question-id">Sual {question.id}</span>
     </div>
   );
 };
