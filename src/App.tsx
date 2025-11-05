@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App flex items-center justify-center bg-gray-100">
       <Exam />
     </div>
   );

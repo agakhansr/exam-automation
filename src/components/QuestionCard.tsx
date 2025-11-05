@@ -62,7 +62,15 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
           </button>
         ))}
       </div>
-
+      
+ {showResult && (
+        <button
+          onClick={onNext}
+          className="next-button"
+        >
+          {currentQuestionNumber === totalQuestions ? 'Finish Exam' : 'Next Question'}
+        </button>
+      )}
       {showResult && (
         <div className={`result-section ${selectedAnswer === question.answer ? 'result-correct' : 'result-incorrect'}`}>
           {selectedAnswer === question.answer ? (
@@ -87,14 +95,7 @@ const QuestionCard: React.FC<QuestionCardProps> = ({
         </div>
       )}
 
-      {showResult && (
-        <button
-          onClick={onNext}
-          className="next-button"
-        >
-          {currentQuestionNumber === totalQuestions ? 'Finish Exam' : 'Next Question'}
-        </button>
-      )}
+     
     </div>
   );
 };
