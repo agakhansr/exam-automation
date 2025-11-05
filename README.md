@@ -1,46 +1,142 @@
-# Getting Started with Create React App
+# 🧠 Exam Automation Tool
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive exam automation system built with **React** and **TypeScript**.  
+It allows users to take randomized exams from a question bank (JSON file), get instant feedback for each answer, and track their score throughout the session.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+- 🎲 **Randomized Questions:** Randomly selects 50 questions out of 500+ from a JSON dataset.
+- ✅ **Instant Feedback:** After each answer, it immediately shows whether your selection was correct or wrong.
+- 🔍 **Highlight True Answer:** If you answer incorrectly, the correct answer is highlighted automatically.
+- ⏭ **Navigation System:** “Next” button to move to the next question.
+- 🧾 **Score Tracking:** Displays the total number of correct answers at the end.
+- 🧩 **JSON Data Source:** Uses an external `.json` file containing all questions and their true answers.
+- 💾 (Optional) LocalStorage support for progress saving.
+- ⏱️ (Optional) Timer and progress bar.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🏗️ Tech Stack
 
-### `npm test`
+| Technology | Purpose |
+|-------------|----------|
+| **React** | Frontend library |
+| **TypeScript** | Type-safe logic and interfaces |
+| **Vite** or **CRA / Next.js** | Project setup options |
+| **TailwindCSS (optional)** | Fast, clean UI styling |
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📁 Project Structure
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+exam-automation/
+├── src/
+│ ├── components/
+│ │ └── QuestionCard.tsx
+│ ├── data/
+│ │ └── questions.json
+│ ├── pages/
+│ │ └── Exam.tsx
+│ ├── App.tsx
+│ ├── index.tsx
+│ └── types/
+│ └── Question.ts
+└── package.json
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+pgsql
+Copy code
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 💾 Example JSON Format
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Place your question bank inside `src/data/questions.json`:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[
+  {
+    "id": 1,
+    "question": "Which gas is essential for photosynthesis?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 2,
+    "question": "What is the chemical symbol of water?",
+    "options": ["O2", "H2O", "CO2", "HO"],
+    "answer": "H2O"
+  }
+]
+You can add up to 500 or more questions.
+During each session, 50 questions will be selected randomly.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+🧠 Core Exam Logic
+When a user starts the exam:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+The app loads all questions from the JSON file.
 
-## Learn More
+Randomly selects 50 unique questions.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Displays one question at a time.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+When an answer is chosen:
+
+If correct → shows ✅ Correct!
+
+If incorrect → highlights the right answer in 🟩 green and user’s wrong choice in 🟥 red.
+
+After confirming the answer, the Next button appears.
+
+After the 50th question, the user sees their total score.
+
+⚙️ Installation
+1️⃣ Clone the repository
+
+git clone https://github.com/your-username/exam-automation.git
+cd exam-automation
+
+2️⃣ Install dependencies
+
+npm install
+# or
+yarn install
+
+3️⃣ Run the project
+
+npm run dev
+ 
+🎓 Exam Session Flow
+Step	Description
+1️⃣ Start Exam	Loads all questions and randomly picks 50
+2️⃣ Question 1	User answers — shows correct/incorrect
+3️⃣ Next	Moves to next question
+🔁 Repeat	Until all 50 questions are completed
+✅ Result	Shows total correct count
+
+🔮 Future Enhancements
+🕒 Countdown timer for each question or total exam time
+
+🧾 Export results as CSV/JSON
+
+🗂 Admin panel for uploading new question sets
+
+💾 Save progress & resume later
+
+🌍 Multi-language support
+
+🧑‍💻 Author
+Built by Aga Khan with ❤️
+Designed for automated, interactive, and educational testing experiences.
+
+📜 License
+This project is licensed under the MIT License — feel free to modify and distribute.
+
+yaml
+Copy code
+
+---
+
+
+
+# exam-automation
