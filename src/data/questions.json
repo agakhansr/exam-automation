@@ -2562,5 +2562,1133 @@
       "dezinseksiya üsul"
     ],
     "answer": "kimyəvi üsul"
+  },
+  {
+    "id": 251,
+    "question": "Apteçkanın ağ rəngli panelində neçə həbb yerləşir?",
+    "options": ["5", "12", "15", "10", "7"],
+    "answer": "15"
+  },
+  {
+    "id": 252,
+    "question": "AI-1 ilk yardım dəstində neçə Taren tableti var?",
+    "options": ["6", "5", "4", "7", "3"],
+    "answer": "6"
+  },
+  {
+    "id": 253,
+    "question": "Maye halında olan bitki yağları necə dezaktivasiya edilməlidir?",
+    "options": [
+      "Soyutmaqla",
+      "Süzülməklə-çökdürülməklə",
+      "Buxarlandırmaqla",
+      "Qaynatmaqla",
+      "Durultmaqla"
+    ],
+    "answer": "Süzülməklə-çökdürülməklə"
+  },
+  {
+    "id": 254,
+    "question": "İlk tibbi yardım ilk növbədə kimlərə göstərilir?",
+    "options": [
+      "kontuziya olmuş insanlara",
+      "yorğun halında olan insanlara",
+      "təşfişə düşmüş insanlara",
+      "arteryal qanaxması olan zədələnmişlərə",
+      "şokda olmuş insanlara"
+    ],
+    "answer": "arteryal qanaxması olan zədələnmişlərə"
+  },
+  {
+    "id": 255,
+    "question": "Dezinfeksiya fiziki üsulla necə həyata keçirilir?",
+    "options": [
+      "Fiziki-mexaniki təsirlə",
+      "Oksidləşdirmə ilə",
+      "Kimyəvi təsirlə",
+      "Turşularla təsir etməklə",
+      "Mexaniki aşılanmaqla"
+    ],
+    "answer": "Fiziki-mexaniki təsirlə"
+  },
+  {
+    "id": 256,
+    "question": "Dezinfeksiya kimyəvi üsulla necə həyata keçirilir?",
+    "options": [
+      "Neft məhsullarından istifadə etməklə",
+      "Mexaniki üsulla aşılamaqla",
+      "Oksidləşmiş maddələrdən istifadə etməklə",
+      "Fiziki-mexaniki təsir etməklə",
+      "Kimyəvi maddələrdən istifadə etməklə"
+    ],
+    "answer": "Kimyəvi maddələrdən istifadə etməklə"
+  },
+  {
+    "id": 257,
+    "question": "Deratizasiya əməliyyatı nəyi nəzərdə tutur?",
+    "options": [
+      "Təhlükə törədən gəmiricilərin məhv edilməsi",
+      "Təhlükə törədən insanların təhlükəsizliyini",
+      "Təhlükə törədən heyvanların məhv edilməsi",
+      "Təhlükə törədən bakteriyaların məhv edilməsi",
+      "Təhlükə törədən virusların məhv edilməsi"
+    ],
+    "answer": "Təhlükə törədən gəmiricilərin məhv edilməsi"
+  },
+  {
+    "id": 258,
+    "question": "Apteçkada şpris tyubik nə ilə doldurulur?",
+    "options": [
+      "Yanığa qarşı",
+      "3% promedol",
+      "2% promedol",
+      "Ağrıkəsici",
+      "1% promedol"
+    ],
+    "answer": "2% promedol"
+  },
+  {
+    "id": 259,
+    "question": "Mülki müdafiə sahəsində dövlətin vəzifələri nədən ibarətdir?",
+    "options": [
+      "Daxili qoşunlara göstəriş vermək",
+      "İdarə və təşkilatların vəziyyətiərini müəyyən etmək",
+      "Mülki müdafiə sisteminə rəhbərlik etmək, strukturunu, tərkibini, qarşılıqlı əlaqəni, maliyyə və maddi-texniki təminat qaydasını müəyyən etmək",
+      "Fəhlə və qulluqçulara maliyyə yardımı etmək",
+      "Xilasediciləri cəlb etmək"
+    ],
+    "answer": "Mülki müdafiə sisteminə rəhbərlik etmək, strukturunu, tərkibini, qarşılıqlı əlaqəni, maliyyə və maddi-texniki təminat qaydasını müəyyən etmək"
+  },
+  {
+    "id": 260,
+    "question": "Dərhal xəbərdarlıq prinsipi nə deməkdir?",
+    "options": [
+      "Baş verə biləcək və ya baş vermiş fövqəladə hadisələr haqqında idarə və təşkilatlara dərhal məlumat verilməməsi",
+      "Baş verə biləcək və ya baş vermiş fövqəladə hadisələr haqqında dövlət hakimiyyət orqanlarına dərhal məlumat verilməsi",
+      "Baş vermiş fövqəladə hadisələr haqqında şəhər əhalisinə dərhal məlumat verilməməsi",
+      "Baş verə biləcək və ya baş vermiş fövqəladə hadisələr haqqında Azərbaycan Respublikasının əhalisinə dərhal məlumat verilməsi",
+      "Baş verə biləcək fövqəladə hadisələr haqqında obyektlərdə fəhlə və qulluqçulara dərhal məlumat verilməsi"
+    ],
+    "answer": "Baş verə biləcək və ya baş vermiş fövqəladə hadisələr haqqında dövlət hakimiyyət orqanlarına dərhal məlumat verilməsi"
+  },
+  {
+    "id": 261,
+    "question": "Daimi hazırlıq prinsipi nə deməkdir?",
+    "options": [
+      "Ümumqoşun hissələrinin fövqəladə hadisələr zamanı dərhal və səmərəli fəaliyyətə başlamağa hazır vəziyyətdə olması",
+      "Əhalinin fövqəladə hadisələr zamanı dərhal və səmərəli fəaliyyətə başlamağa hazır vəziyyətdə olması",
+      "Xilasedicilərin fövqəladə hadisələr zamanı dərhal və səmərəli fəaliyyətə başlamağa hazır vəziyyətdə olmaması",
+      "Daxili qoşunların fövqəladə hadisələr zamanı dərhal və səmərəli fəaliyyətə başlamağa hazır vəziyyətdə olması",
+      "Mülki müdafiə sisteminin fövqəladə hadisələr zamanı dərhal və səmərəli fəaliyyətə başlamağa hazır vəziyyətdə olması"
+    ],
+    "answer": "Mülki müdafiə sisteminin fövqəladə hadisələr zamanı dərhal və səmərəli fəaliyyətə başlamağa hazır vəziyyətdə olması"
+  },
+  {
+    "id": 262,
+    "question": "Fərqli və kompleks yanaşma prinsipi nə deməkdir?",
+    "options": [
+      "Bölgələrin xüsusiyyətləri nəzərə alınmadan əlaqələndirilmiş şəkildə həyata keçirilməsi",
+      "Tək bir şəhərin xüsusiyyətləri nəzərə alınmaqla əlaqələndirilmiş şəkildə həyata keçirilməsi",
+      "Mülki müdafiə tədbirlərinin obyektlərin, şəhər və bölgələrin hərbi-strateji, iqtisadi və digər xüsusiyyətləri nəzərə alınmaqla əlaqələndirilmiş şəkildə həyata keçirilməsi",
+      "Obyektlərin xüsusiyyətləri nəzərə alınmaqla əlaqələndirilməmiş şəkildə həyata keçirilməsi",
+      "Ümumiyyətlə bütün xüsusiyyətlər nəzərə alınmadan əlaqələndirilməmiş şəkildə həyata keçirilməsi"
+    ],
+    "answer": "Mülki müdafiə tədbirlərinin obyektlərin, şəhər və bölgələrin hərbi-strateji, iqtisadi və digər xüsusiyyətləri nəzərə alınmaqla əlaqələndirilmiş şəkildə həyata keçirilməsi"
+  },
+  {
+    "id": 263,
+    "question": "Mülki müdafiə sistemi nədir?",
+    "options": [
+      "mülki müdafiənin vəzifələrinin yerinə yetirilməsi lazım olmayan qüvvə və vasitələrin, xüsusi fondların, rabitə, xəbərdarlıq sistemlərinin təyinatıdır",
+      "xüsusi fondların, rabitə, xəbərdarlıq və informasiya təminatı sistemlərinin dağınıq olması",
+      "müvafiq icra hakimiyyəti orqanlarının, qüvvə və vasitələrin iş qabiliyyətini tənzimləyən sistemdir",
+      "mülki müdafiənin vəzifələrinin yerinə yetirilməsi həvalə edilmiş qüvvələrinin bir başa öz vəzifələrini yerinə yetirməsi",
+      "mülki müdafiənin vəzifələrinin yerinə yetirilməsi həvalə edilmiş müvafiq icra hakimiyyəti orqanlarının, qüvvə və vasitələrin, xüsusi fondların, rabitə, xəbərdarlıq və informasiya təminatı sistemlərinin məcmusudur"
+    ],
+    "answer": "mülki müdafiənin vəzifələrinin yerinə yetirilməsi həvalə edilmiş müvafiq icra hakimiyyəti orqanlarının, qüvvə və vasitələrin, xüsusi fondların, rabitə, xəbərdarlıq və informasiya təminatı sistemlərinin məcmusudur"
+  },
+  {
+    "id": 264,
+    "question": "Mülki müdafiə fənnindən nəyi öyrənirik?",
+    "options": [
+      "Dinc və müharibə dövründə əhalinin və ərazinin təhlükəsizliyinin təmin edilməsini",
+      "Çürümə mərhələsini",
+      "Baş verən hadisənin izlənməsini",
+      "Bəzi fövqəladə hallarda üçüncü mərhələnin tamamlanmasını",
+      "Obyektlərə və ətraf mühitə müsbət təsir göstərən amilləri"
+    ],
+    "answer": "Dinc və müharibə dövründə əhalinin və ərazinin təhlükəsizliyinin təmin edilməsini"
+  },
+  {
+    "id": 265,
+    "question": "Mülki müdafiənin neçə təşkili prinsipləri vardır?",
+    "options": ["3", "7", "6", "5", "4"],
+    "answer": "6"
+  },
+  {
+    "id": 266,
+    "question": "Mülki müdafiənin məqsədi nədən ibarətdir?",
+    "options": [
+      "Əhali ilə məşqlər keçmək",
+      "Obyektlərdə fəhlə və qulluqçularla təlim keçmək",
+      "Profilaktik tədbirlər həyata keçirmək, ziyan və itkilərin həcmini maksimum azaltmaq, hadisələrin və onların nəticələrini aradan qaldırmaqdan",
+      "Qüvvə və vasitələri toplamaq",
+      "Şirkətlərin rəhbərləri ilə əlaqə saxlamaq"
+    ],
+    "answer": "Profilaktik tədbirlər həyata keçirmək, ziyan və itkilərin həcmini maksimum azaltmaq, hadisələrin və onların nəticələrini aradan qaldırmaqdan"
+  },
+  {
+    "id": 267,
+    "question": "Mülki müdafiənin təmin edilməsi hansı qərara əsasən müəyyən edilir?",
+    "options": [
+      "Azərbaycan Respublikası Nazirlər Kabinetinin 25 sentyabr 1998-ci il tarixli, 393 nömrəli Qərarı",
+      "Azərbaycan Respublikası Nazirlər Kabinetinin 25 sentyabr 1998-ci il tarixli, 293 nömrəli Qərarı",
+      "Azərbaycan Respublikası Nazirlər Kabinetinin 25 sentyabr 1998-ci il tarixli, 139 nömrəli Qərarı",
+      "Azərbaycan Respublikası Nazirlər Kabinetinin 25 sentyabr 1998-ci il tarixli, 193 nömrəli Qərarı",
+      "Azərbaycan Respublikası Nazirlər Kabinetinin 25 sentyabr 1998-ci il tarixli, 239 nömrəli Qərarı"
+    ],
+    "answer": "Azərbaycan Respublikası Nazirlər Kabinetinin 25 sentyabr 1998-ci il tarixli, 193 nömrəli Qərarı"
+  },
+  {
+    "id": 268,
+    "question": "Mülki müdafiə tələblərini pozan şəxsləri nə gözləyir?",
+    "options": [
+      "Azərbaycan Respublikasının qanunvericiliyi ilə töhmət vermək",
+      "Azərbaycan Respublikasının qanunvericiliyi ilə şiddətli töhmət vermək",
+      "Azərbaycan Respublikasının qanunvericiliyi ilə məzəmmət etmək",
+      "Azərbaycan Respublikasının qanunvericiliyi ilə mükafat vermək",
+      "Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunmuş məsuliyyətə cəlb etmək"
+    ],
+    "answer": "Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən olunmuş məsuliyyətə cəlb etmək"
+  },
+  {
+    "id": 269,
+    "question": "Aşağıdakılardan hansı mülki müdafiənin prinsipi deyil?",
+    "options": [
+      "ərazi prinsipi",
+      "dərhal xəbərdarlıq prinsipi",
+      "əhalinin təşkili prinsipi",
+      "daimi hazırlıq prinsipi",
+      "fərqli və kompleks yanaşma prinsipi"
+    ],
+    "answer": "əhalinin təşkili prinsipi"
+  },
+  {
+    "id": 270,
+    "question": "Şəhərlərdə kəskin oksigen aclığının baş verməsi zamanı hansı fövqəladə vəziyyət baş verər?",
+    "options": [
+      "ekoloji fövqəladə vəziyyət",
+      "şəhər FH",
+      "geoloji fövqəladə vəziyyət",
+      "təbii fövqəladə hal",
+      "sosial fövqəladə hal"
+    ],
+    "answer": "ekoloji fövqəladə vəziyyət"
+  },
+  {
+    "id": 271,
+    "question": "Hərbi xarakterli münaqişənin yaranmasında əsas səbəb nədir?",
+    "options": [
+      "Siyasətdə ikili münasibətlərin təsiri ilə ədalətsiz olmaq",
+      "Yeni silah növünün sınaqdan çıxarılması",
+      "Ərazi hərisliyi, qəsbkarlıq, aclıq",
+      "Daxili böhran, siyasi hegemonluq və ona imkanın olması",
+      "Güclünün gücsüzə təcavüzü"
+    ],
+    "answer": "Daxili böhran, siyasi hegemonluq və ona imkanın olması"
+  },
+  {
+    "id": 272,
+    "question": "Nəticələrin miqyasına görə FH-lar necə təsnif olunur?",
+    "options": [
+      "Kiçik miqyaslı, yerli, kənd daxili, iri miqyaslı FH",
+      "Lokal, obyekt miqyaslı, yerli, regional, milli və qlobal FH",
+      "Milli, şəhər daxili FH",
+      "Lokal, sosial mədəni, qlobal, siyasi xarakterli FH",
+      "Yerli və qlobal, regional, obyekt daxili və xarici FH"
+    ],
+    "answer": "Lokal, obyekt miqyaslı, yerli, regional, milli və qlobal FH"
+  },
+  {
+    "id": 273,
+    "question": "Texnogen gəza zamanı ən çox zərər çəkən kimlərdir?",
+    "options": [
+      "mühəndislər, mexaniklər",
+      "sanitar mühafizə ərazisində qanunsuz məskunlaşmış əhali",
+      "fəhlələr və texniki işçilər",
+      "məktəblilər və tələbələr",
+      "şəhər əhalisinin bir qismi"
+    ],
+    "answer": "sanitar mühafizə ərazisində qanunsuz məskunlaşmış əhali"
+  },
+  {
+    "id": 274,
+    "question": "Metanın yanması zamanı hansı qaz əmələ gəlir?",
+    "options": ["karbon qazı", "helium", "dəm qazı", "azot", "oksigen"],
+    "answer": "karbon qazı"
+  },
+  {
+    "id": 275,
+    "question": "Yanğını söndürmək üçün yeraltı su kəmərlərinə xüsusi qurğu quraşdırılır. O, necə adlanır?",
+    "options": [
+      "yanğın hovuzu",
+      "ventilyasiya sistemi",
+      "yanğın hidrantı",
+      "yanğın ekranı",
+      "xarici müşahidə kameraları"
+    ],
+    "answer": "yanğın hidrantı"
+  },
+  {
+    "id": 276,
+    "question": "FH-lar ağırlıq dərəcələrinə görə necə xarakterizə olunur?",
+    "options": [
+      "Yüngül, ağır, kənd daxili, respublika miqyaslı",
+      "Yüngül, regional, dəhşətli, ölkə miqyaslı",
+      "Orta ağırlıqlı, şəhər daxili, milli faciə",
+      "Keçilməz, orta ağır, dini zəmində",
+      "Yüngül, orta ağırlıqlı, ağır, çox ağır, fəlakət, böhranlı, əvəzolunmaz"
+    ],
+    "answer": "Yüngül, orta ağırlıqlı, ağır, çox ağır, fəlakət, böhranlı, əvəzolunmaz"
+  },
+  {
+    "id": 277,
+    "question": "Təbii, ekoloji, texnogen, sosial-siyasi və hərbi hansı növ fh aiddir?",
+    "options": [
+      "Kimyəvi xassələrinə görə",
+      "Miqyasına görə",
+      "Mənsubiyyətinə görə",
+      "Fiziki xassələrinə görə",
+      "Baş vermə sahələrinə görə"
+    ],
+    "answer": "Baş vermə sahələrinə görə"
+  },
+  {
+    "id": 278,
+    "question": "Sənaye qəzaları nədir?",
+    "options": [
+      "İnsanların zədələnməməsi ilə nəticələnən hadisədir",
+      "Obyektin işinin yavaş-yavaş dayanması nəticəsində qurğuların sıradan çıxması ilə nəticələnən qəzalar",
+      "Obyektin tikilməsi, qurğuların fəaliyyəti və insanların məhv olması ilə nəticələnən qəzalar",
+      "Obyektin işinin qəflətən dayanması baş vermədən və insanların zədələnməsi ilə nəticələnən qəzalar",
+      "Obyektin işinin qəflətən dayanması nəticəsində binaların, qurğuların və başqa avadanlıqların sıradan çıxması, dağılması və insanların zədələnməsi baş verən"
+    ],
+    "answer": "Obyektin işinin qəflətən dayanması nəticəsində binaların, qurğuların və başqa avadanlıqların sıradan çıxması, dağılması və insanların zədələnməsi baş verən"
+  },
+  {
+    "id": 279,
+    "question": "Avtomobil qəzası hansı fövqəladə haldır?",
+    "options": [
+      "Siyasi Fövqəladə Hal",
+      "Ekoloji fövqəladə vəziyyət",
+      "texnogen fövqəladə hal",
+      "xüsusi fövqəladə vəziyyət",
+      "Sosial fövqəladə vəziyyət"
+    ],
+    "answer": "texnogen fövqəladə hal"
+  },
+  {
+    "id": 280,
+    "question": "Zəlzələ və vulkan püskürməsindən sonra hansı hadisələr baş verir?",
+    "options": [
+      "Səmada yanğınların yaranması",
+      "Şəlalələr, süni göllər, çayların məcarədən çıxması",
+      "Göylərdə ildırım çaxması",
+      "Dərin çatlarda çayların yaranması",
+      "Dağlar, təpələr, süni boşluqlar yaranır"
+    ],
+    "answer": "Şəlalələr, süni göllər, çayların məcarədən çıxması"
+  },
+  {
+    "id": 281,
+    "question": "Sosial-mədəni xarakterli hadisələrə hansılar aiddir?",
+    "options": [
+      "İqtisadi böhranların sosial həyata təsirinin kəskinləşməsi və s.",
+      "Peşə, dini, mülkiyyət, ərazi, qohumluq, yaş həddi əlamətləri",
+      "Sosial yardımların gecikdirilməsi və ya verilməməsi",
+      "İqtisadi qanunların düzgün tədbiq edilməməsi",
+      "Əhalinin banklarda qalan əmanətin verilməməsi"
+    ],
+    "answer": "Peşə, dini, mülkiyyət, ərazi, qohumluq, yaş həddi əlamətləri"
+  },
+  {
+    "id": 282,
+    "question": "Ümumi istifadədə olan yollarda qəza olduqda hansı fövqəladə haldır?",
+    "options": [
+      "texnogen fövqəladə hal",
+      "Siyasi Fövqəladə Hal",
+      "Sosial fövqəladə vəziyyət",
+      "Ekoloji fövqəladə vəziyyət",
+      "xüsusi fövqəladə vəziyyət"
+    ],
+    "answer": "texnogen fövqəladə hal"
+  },
+  {
+    "id": 283,
+    "question": "Aşağıdakı hadisələrdən hansı sürüşmələrə səbəb ola bilər?",
+    "options": [
+      "Tayfun",
+      "Tornado",
+      "Qasırğa",
+      "leysan yağışları",
+      "Qar uçqunu"
+    ],
+    "answer": "leysan yağışları"
+  },
+  {
+    "id": 284,
+    "question": "2022-ci ildən Ukraynada hansı fövqəladə hadisələr baş verir?",
+    "options": [
+      "cinayətkarlıq, geoloji, hidroloji",
+      "hərbi, texnogen, ekoloji",
+      "münaqişə, sosial, təbii",
+      "dövlət böhranı, meteoroloji, geofiziki",
+      "sosial, bioloji"
+    ],
+    "answer": "hərbi, texnogen, ekoloji"
+  },
+  {
+    "id": 285,
+    "question": "Baş vermə sahələrinə görə FH-lar hansılardırr?",
+    "options": [
+      "Təbii, texnogen, ekoloji, sosial və hərbi-siyasi xarakterli",
+      "Nəticələrin miqyasına, idarəetmə mənsubiyyətinə görə",
+      "Obyekt, yerli, lokal",
+      "Regional, milli, qlobal",
+      "Meşə təsərrüfatında, nəqiyyatda sənayedə"
+    ],
+    "answer": "Təbii, texnogen, ekoloji, sosial və hərbi-siyasi xarakterli"
+  },
+  {
+    "id": 286,
+    "question": "Uçqun zəlzələləri nədən əmələ gəlir?",
+    "options": [
+      "Boğucu qazlar oyuğunda",
+      "Terminal sular yatağında",
+      "Yeraltı mədən boşluqlarından",
+      "Yeraltı karst boşluqlarından",
+      "Uçub tökülən mədən boşluğunda"
+    ],
+    "answer": "Yeraltı karst boşluqlarından"
+  },
+  {
+    "id": 287,
+    "question": "Hərbi mənşəli FH-lar hansılardır?",
+    "options": [
+      "Zərbə dalğası, kütləvi yanğınlar, həmçinin qlobal quraqlığın təsiri ilə əlaqədar FH-lar",
+      "kimyəvi silahın, müxtəlif partlayışların və sənaye qəzalarının nəticəsilə FH-lar",
+      "Baktereoloji, nüvə, kimyəvi və adi qırğın silahların tətbiqi ilə əlaqədar FH-lar",
+      "Nüvə, Tektonik və törəmə zəlzələ ilə əlaqədar FH-lar",
+      "Bakterioloji, Zəlzələ, vulkan püskürməsi ilə əlaqədar FH-lar"
+    ],
+    "answer": "Baktereoloji, nüvə, kimyəvi və adi qırğın silahların tətbiqi ilə əlaqədar FH-lar"
+  },
+  {
+    "id": 288,
+    "question": "Yandırıcı silahların insanlara təsiri nədən asılıdır?",
+    "options": [
+      "Orqanizmin ümumi zəhərlənməyə məruz qalması",
+      "Şok vəziyyətə salmaq",
+      "Ağciyər zədələnməsi və ağız boşluğunun iltihabı",
+      "Yüksək yandırma və istilik törətmə",
+      "Tənəffüs yollarında yanıqların əmələ gəlməsi"
+    ],
+    "answer": "Yüksək yandırma və istilik törətmə"
+  },
+  {
+    "id": 289,
+    "question": "Texnogen xarakterli FH-ar nəyə deyilir?",
+    "options": [
+      "Nəqliyyatda, məişətdə və sənayedə baş verən FH",
+      "avtomat silahın tətbiqindən baş verən FH",
+      "Bi-Zet ZM yayılması zamanı qazların istifadəsindən baş verən FH",
+      "pirogel, napalm və qırmızı fosforun tədbiqindən yaranan FH",
+      "bioloji silahın tətbiqi nəticəsində əmələ gələn FH"
+    ],
+    "answer": "Nəqliyyatda, məişətdə və sənayedə baş verən FH"
+  },
+  {
+    "id": 290,
+    "question": "FH-lar xarakterinə görə necə çür olur?",
+    "options": [
+      "Sülh dövrü və ekoloji dövrün FH",
+      "Sülh dövründə və müharibə dövründə olan",
+      "Texnogen, müharibə dövrünün FH-a",
+      "Sülh dövrü, sosial dövr",
+      "Sülh dövrü, zəlzələ dövrü"
+    ],
+    "answer": "Sülh dövründə və müharibə dövründə olan"
+  },
+  {
+    "id": 291,
+    "question": "Ərazidə nüvə zədələnmə ocağı yaranarsa işıq şüalanması necə təsir edir?",
+    "options": [
+      "Adi yanğınlar və kimyəvi zəhərlənmə",
+      "Tək-tək və əhatəli yanğınlar",
+      "Yeraltı yanğınlarla birgə izafi təzyiq yüksəlir",
+      "Yanğınlarla birgə sürüşmələr",
+      "Tək-tək yanğınlar və dağıntılar baş vermir"
+    ],
+    "answer": "Tək-tək və əhatəli yanğınlar"
+  },
+  {
+    "id": 292,
+    "question": "İşıq şüalanmasına aid xüsusiyyət hansıdır?",
+    "options": [
+      "İnsan bədəndin yanıqlar yaratmır, qeyri-şəffaf mühitlərdə yayılır",
+      "Divardan, taxtan, torpaqdan keçə bilir",
+      "Qeyri-şəffaf materiallardan keçə bilmir, meteoroloji şəraitdən asılıdər",
+      "Yaşayış məntəqələribndə yanğınlar yaradır, şəffaf mühitdən keçə bilir",
+      "Metroloji şəraitdən asılı deyil"
+    ],
+    "answer": "Qeyri-şəffaf materiallardan keçə bilmir, meteoroloji şəraitdən asılıdər"
+  },
+  {
+    "id": 293,
+    "question": "İşıq şüalanması zamanı ərazinin yanğın zonaları necə olur?",
+    "options": [
+      "Ərazi yanğınları, müxtəlif yanğınlar",
+      "Tək-bir yanğınlar, yeraltı yanğınlar",
+      "Tam yanğınlar, davamlı yanğınlar",
+      "Ucqunlarda həcmi yanğınlar, ərazidə qapalı yanğınlar",
+      "Ucqunlarda közərmə və tüstüləmə, əhatəli yanğınlar, tək-tək yanğınlar"
+    ],
+    "answer": "Ucqunlarda közərmə və tüstüləmə, əhatəli yanğınlar, tək-tək yanğınlar"
+  },
+  {
+    "id": 294,
+    "question": "Materialın növündən və xarakterindən asılı olaraq γ-şüaları və neytronların zəifləməsi necə adlanır?",
+    "options": [
+      "Yüngül azaltma qatı",
+      "Yarım azaltma qatı",
+      "Orta azaltma qatı",
+      "Qismən azaltma qatı",
+      "Tam azaltma qatı"
+    ],
+    "answer": "Yarım azaltma qatı"
+  },
+  {
+    "id": 295,
+    "question": "İşıq şüalanmasının gözlərə təsiri necədir?",
+    "options": [
+      "Göz dibinin suluqlaması, göz qapağının qızarması ilə bəbəyin məhv olması",
+      "müvəqqəti korluq (gündüz 8dəq, axşam 35dəq) göz qapağının yanması və göz ağının əriməsi",
+      "göz qapağının, göz dibinin çəpliyi ilə görmə qabiliyyətinin artması",
+      "müvəqqəti korluq (gündüz 5dəq, axşam 30dəq) göz dibinin yanması, göz qapağının və ağının yanması",
+      "müvəqqəti korluq (gündüz 0,5dəq, axşam 20dəq) göz dibinin yanması ilə tam korluq"
+    ],
+    "answer": "müvəqqəti korluq (gündüz 5dəq, axşam 30dəq) göz dibinin yanması, göz qapağının və ağının yanması"
+  },
+  {
+    "id": 296,
+    "question": "Nüvə zədələnmə ocağı nədir?",
+    "options": [
+      "Bitki təlafatı olsun, yer kimyəvi zəhərlənməyə məruz qalsın",
+      "Nüvə partlayışının zədələyici amillərinin təsiri nəticəsində küllü miqdarda insan, heyvan və bitki təlafatı olan, bina və qurğular dağılan, yanğınlar baş verən və yer radiaktiv maddələrlə zəhərlənən ərazi hesab edilir",
+      "Orada zərbə dalğasının təsirindən güclü dağıntılar baş versin, ətraf ərazi GTZM-ilə çirklənsin",
+      "Orada bioloji yoluxma zamanı külli miqdarda heyvan tələfatı baş versin, binalar salamat qalsın",
+      "Orada kimyəvi silah tətbiq olunduğu sahədir ki, insanlar tələf olur, ətraf zəhərlənir"
+    ],
+    "answer": "Nüvə partlayışının zədələyici amillərinin təsiri nəticəsində küllü miqdarda insan, heyvan və bitki təlafatı olan, bina və qurğular dağılan, yanğınlar baş verən və yer radiaktiv maddələrlə zəhərlənən ərazi hesab edilir"
+  },
+  {
+    "id": 297,
+    "question": "Elektromaqnit impulsu canlı orqanizmə hansı yolla təsir göstərir?",
+    "options": [
+      "Biokimyəvi metotdan istifadə zamanı",
+      "Avtomatik idarəetmə sistemi ilə birbaşa əlaqədə olduqda",
+      "DP-64 cihazından istifadə etdikdə",
+      "Dozimetrik cihazlardan istifadə olunduqda",
+      "QKKC cihazlardan istifadə olunarkən"
+    ],
+    "answer": "Avtomatik idarəetmə sistemi ilə birbaşa əlaqədə olduqda"
+  },
+  {
+    "id": 298,
+    "question": "İşıq şüalanması nədir?",
+    "options": [
+      "Nüvə partlayışı zamanı meydana çıxan od kürəsinin saçdığı γ-şüalarıdır",
+      "Nüvə partlayışı zamanı meydana çıxan od kürəsinin saçdığı lazer və rentgen şualarının selidir",
+      "Nüvə partlayışı zamanı meydana çıxan od kürəsindən ətrafa yayılan adi bənövşəyi işıq şüası selidir",
+      "Nüvə partlayışı zamanı meydana çıxan gözəgörünməz şüalar dalğasıdır",
+      "Nüvə partlayışı zamanı meydana çıxan od kürəsinin saçdığı gözə görünən, ultrabənövşəyi və infraqırmızı şüalanma selidir"
+    ],
+    "answer": "Nüvə partlayışı zamanı meydana çıxan od kürəsinin saçdığı gözə görünən, ultrabənövşəyi və infraqırmızı şüalanma selidir"
+  },
+  {
+    "id": 299,
+    "question": "Radioaktivlik nədir?",
+    "options": [
+      "Bəzi maddələrin nüfuz edərək sabitləşməsidir",
+      "Bir sıra kimyəvi elementlərin atomlarının nüvələrinin öz-özünə parçalanması və bu zaman şüa buraxması qabiliyyətidir",
+      "Bir sıra bakterioloji silahın parçalanması və şüa buraxması qabiliyyətidir",
+      "GTZM reaksiyası zamanı ayrılan yeni maddələrin şüa buraxma qabiliyyətidir",
+      "Kimyəvi zəhərli maddələrin parçalanması zamanı ayrılan enerjidən istifadə qabiliyyətidir"
+    ],
+    "answer": "Bir sıra kimyəvi elementlərin atomlarının nüvələrinin öz-özünə parçalanması və bu zaman şüa buraxması qabiliyyətidir"
+  },
+  {
+    "id": 300,
+    "question": "Zəif dağıntılar zonasında küçələrdə işıq şüalanması necə təsir edir?",
+    "options": [
+      "Küçələrdə tək-tək uçqunlar yaranır, tək-tək yanğınlar törəyir",
+      "Əhatəli yanğınlar və kimyəvi zəhərlənmə",
+      "Yeraltı yanğınlarla birgə izafi təzyiq yüksəlir",
+      "Davamlı yanğınlarla birgə sürüşmələr",
+      "Müxtəlif yerlərdə yanğınlar və dağıntılar"
+    ],
+    "answer": "Küçələrdə tək-tək uçqunlar yaranır, tək-tək yanğınlar törəyir"
+  },
+  {
+    "id": 301,
+    "question": "Nüfuzedici radiasiyanın tərkibi nədir?",
+    "options": [
+      "α-β şüalanma və pozitron seli",
+      "β-γ şüalanma və neon seli",
+      "proton şüalanma seli",
+      "γ-şüalanma və neytron seli",
+      "β-şüası və elektron seli"
+    ],
+    "answer": "γ-şüalanma və neytron seli"
+  },
+  {
+    "id": 302,
+    "question": "İşıq şüalanmasının zədələyici təsiri nədən asılı olur?",
+    "options": [
+      "Yerin radioaktiv zəhərlənməsindən, səthin hər 2m2-nə düşən işıq enerjisinin miqdarından",
+      "Işıq impulsundan, səthin hər sm2-nə düşən işıq enerjisinin miqdarından",
+      "Nüfuzedici radiasiyadan, yerin bakterioloji yoluxmasından",
+      "Zərbə dalğasından, səthin hər 4sm2-nə düşən işıq enerjisinin miqdarından",
+      "Güclü təsirli zəhərləyici maddələrdən, işıq impulsundan"
+    ],
+    "answer": "Işıq impulsundan, səthin hər sm2-nə düşən işıq enerjisinin miqdarından"
+  },
+  {
+    "id": 303,
+    "question": "İnsanların dəri nahiyyəsinə 2-4 kal/sm² işıq impulsu təsir etdikdə neçənci dərəcəli yanıq baş verər?",
+    "options": [
+      "İnsanlara təsiri cüzidir",
+      "Birinci dərəcəli yanıq",
+      "Üçüncü dərəcəli yanıq",
+      "İnsanlara təsir etmir",
+      "İkinci dərəcəli yanıq"
+    ],
+    "answer": "Birinci dərəcəli yanıq"
+  },
+  {
+    "id": 304,
+    "question": "Nüvə silahının partlayışı zamanı hansı göstəricilərə əsasən iqtisad obyektlərində dağıntılar baş verir?",
+    "options": [
+      "Məsafənin uzaq olması və yağış yağması, soyuq olması",
+      "Sursatın gücü, partlayışın növü və mərkəzdən olan məsafə, yerin relyefindən",
+      "Partlayışının zəif olmasından və küləyin mülayim əsməsindən",
+      "Sursatın zəifliyi, yerin dərinliyi, küləyin istiqamətindən",
+      "Hava şəraitindən və yükün növündən"
+    ],
+    "answer": "Sursatın gücü, partlayışın növü və mərkəzdən olan məsafə, yerin relyefindən"
+  },
+  {
+    "id": 305,
+    "question": "Radiobiologiyada udulan dozanın sistemdən kənar hansı ölçü vahidi daha geniş işlədilir?",
+    "options": ["Klon", "Bekkerel", "Qrey", "Renten", "Rad"],
+    "answer": "Rad"
+  },
+  {
+    "id": 306,
+    "question": "Zərbə dalğasına məruz qaldıqda, bir neçə məhv zonası görünür. İzafi təzyiq 10-20 kPa olarsa dağılma zonası necə adlanır?",
+    "options": [
+      "tam dağılma zonası",
+      "Güclü dağılma zonası",
+      "Orta dağılma zonası",
+      "zəif dağılma zonası",
+      "Seçici dağılma zonası"
+    ],
+    "answer": "zəif dağılma zonası"
+  },
+  {
+    "id": 307,
+    "question": "Radiasiyadan qorunmağın əsas yolları hansılardır?",
+    "options": [
+      "kombinezon və qalxan",
+      "rabitə yaratmaq",
+      "xəbərdarlıq etmək",
+      "vaxtı, mühafizə quruluşu və radiasiya kəşfiyyatı alətləri",
+      "vaxt, məsafə və fərdi mühafizə vasitələri"
+    ],
+    "answer": "vaxt, məsafə və fərdi mühafizə vasitələri"
+  },
+  {
+    "id": 308,
+    "question": "Nüfuzedici radiasiya nədən ibarətdir?",
+    "options": [
+      "Nüvə partlayışı anında partlayış yerindən ətrafa yayılan gözə görünməyən γ-şüaları və neytron selidir",
+      "Nüvə partlayışı anında ətrafa yayılan günəş şüaları selidir",
+      "Nüvə partlayışı anında partlayış yerindən ətrafa yayılan gözə görünən γ-şüaları və proton selidir",
+      "Nüvə partlayışı anında ətrafa yayılan neon selidir",
+      "Nüvə partlayışı anında ətrafa yayılan gözə görünməyən və pozitron selidir"
+    ],
+    "answer": "Nüvə partlayışı anında partlayış yerindən ətrafa yayılan gözə görünməyən γ-şüaları və neytron selidir"
+  },
+  {
+    "id": 309,
+    "question": "Müxtəlif materiallar üçün nüfuzedici radiasiya hansı qalınlıqlardan keçərkən öz intensivliyini azaldır?",
+    "options": [
+      "ağac-30 sm, torpaq-14 sm, beton-10 sm, polad-2,7 sm, qurğuşun-1sm; su-23sm",
+      "ağac-55 sm, torpaq-35 sm, beton-15 sm, polad-18sm, qurğuşun-13sm; su-25sm",
+      "ağac-50 sm, torpaq-15 sm, beton-12 sm, polad-10sm, qurğuşun-8sm; su-14sm",
+      "ağac-20 sm, torpaq-25 sm, beton-9 sm, polad-5 sm, qurğuşun-3sm; su-12sm",
+      "ağac-10 sm, torpaq-4 sm, beton-11 sm, polad-7 sm, qurğuşun-5sm; su-7sm"
+    ],
+    "answer": "ağac-30 sm, torpaq-14 sm, beton-10 sm, polad-2,7 sm, qurğuşun-1sm; su-23sm"
+  },
+  {
+    "id": 310,
+    "question": "Reaksiya nəticəsində mühitə təsir edən γ (qamma)-şüaları və n (neytron) seli hansı qanuna əsaslanaraq radiasiyanın intensivliyi azalır?",
+    "options": [
+      "Yarım azaltma",
+      "Yüngül azaltma",
+      "Tam azaltma",
+      "Qismən azaltma",
+      "Orta azaltma"
+    ],
+    "answer": "Yarım azaltma"
+  },
+  {
+    "id": 311,
+    "question": "Tam dağılma zonasının xarakterik xüsusiyyəti nədir?",
+    "options": [
+      "Tam məhv zonası cəbhəsində artıq təzyiq ΔΡf= 30-40 kPa olduqda baş verir",
+      "Tam məhv zonası ΔΡf = 30kPa və ya daha çox (ΔΡf≥30kPa) qarşısında həddindən artıq təzyiq olduqda baş verir",
+      "Tam məhv zonası ΔΡf = 20k-30Pa (ΔΡf≥20kPa) ön hissəsində artıq təzyiq olduqda baş verir",
+      "Tam dağıntı zonası atmosfer təzyiqinin ΔΡf = 750kPa və ya daha çox olduğu və hər yerdə davamlı yanğınların olduğu yerlərdə baş verir",
+      "Tam məhv zonası ΔΡf= 50kPa və ya daha çox (ΔΡf≥50kPa) qarşısında həddindən artıq təzyiq olduqda baş verir"
+    ],
+    "answer": "Tam məhv zonası ΔΡf= 50kPa və ya daha çox (ΔΡf≥50kPa) qarşısında həddindən artıq təzyiq olduqda baş verir"
+  },
+  {
+    "id": 312,
+    "question": "Nüvə partlayışında güclü dağıntı zonası nə ilə xarakterizə olunur?",
+    "options": [
+      "dağıntılar arasında tüstülənir",
+      "50 kPa-dan artıq təzyiq",
+      "başdan-başa yanğınlar və uçqunlar",
+      "bina və tikililərin partlayışları və deformasiyaları",
+      "orta məhv zonası ilə eyni parametrlərlə xarakterizə olunur"
+    ],
+    "answer": "başdan-başa yanğınlar və uçqunlar"
+  },
+  {
+    "id": 313,
+    "question": "Zərbə dalğasından məhv zonası hansı formadadır?",
+    "options": ["oval", "ellips", "kvadrat", "trapesiya", "dairə"],
+    "answer": "dairə"
+  },
+  {
+    "id": 314,
+    "question": "Nüvə zədələnmə ocağında, zamandan asılı olaraq, radiaktiv zəhərlənməyə ən çox hansılar məruz qalır?",
+    "options": [
+      "İnsanlar, heyvanlar, quşlar və balıqlar",
+      "Hava, torpaq, su və od (həyat ünsürləri)",
+      "Çaylar, çöllər, dənizlər və okeanlar",
+      "Binalar, şəhərlər, dağlar və bağlar",
+      "Ağaclar, torpaq, su və bostanlar"
+    ],
+    "answer": "İnsanlar, heyvanlar, quşlar və balıqlar"
+  },
+  {
+    "id": 315,
+    "question": "Sülh dövründə bir ildə AES-dən 30 km zonalarda yaşayan əhali üçün şüalanma dözası nə qədər qəbul edərlər?",
+    "options": [
+      "5 rentgen",
+      "0,05 rentgen",
+      "0,5 rentgen",
+      "50 rentgen",
+      "0,005 rentgen"
+    ],
+    "answer": "0,5 rentgen"
+  },
+  {
+    "id": 316,
+    "question": "Neytron bombası partlayışının təsirindən mühafizə olunmayan adamlar partlayış mərkəzindən neçə metr məsafədə bir anda məhv ola bilər?",
+    "options": [
+      "600 m-dək",
+      "330 m-dək",
+      "700 m-dək",
+      "800 m-dək",
+      "500 m-dək"
+    ],
+    "answer": "800 m-dək"
+  },
+  {
+    "id": 317,
+    "question": "Bir milyon tonluq (q=1Mt) nüvə silahı partladıqda tam dağılma zonası neçə km məsafəni əhatə edir?",
+    "options": ["4 km", "3 km", "1 km", "5 km", "2 km"],
+    "answer": "4 km"
+  },
+  {
+    "id": 318,
+    "question": "Partlayış zamanı radioaktiv məhsullarının adamlara göstərdiyi təsir nədən asılı olur?",
+    "options": [
+      "radiasiyanın səviyyəsindən",
+      "Kimyəvi ZM",
+      "Neytron-proton selindən",
+      "Zəlzələdən",
+      "Bakterioloji vasitələrdən"
+    ],
+    "answer": "radiasiyanın səviyyəsindən"
+  },
+  {
+    "id": 319,
+    "question": "Kütləvi qırğın silahlarının növləri hansı variantda düzgün verilib?",
+    "options": [
+      "geofiziki, geoloji, kimyəvi",
+      "nüvə, ekoloji, texnogen",
+      "metreoloji, hidroloji, bakterialoji",
+      "nüvə, kimyəvi, bakterialoji",
+      "ekoloji, kimyəvi, təbii"
+    ],
+    "answer": ""
+  },
+  {
+    "id": 320,
+    "question": "Q zonasının hüdudundan kənarda radiasiyanın dozası partlayışdan bir saat sonra neçə R/s olur?",
+    "options": ["50 R/s", "60 R/s", "65 R/s", "800 R/s", "70 R/s"],
+    "answer": "800 R/s"
+  },
+  {
+    "id": 321,
+    "question": "A zonasının hüdudundan kənarda radiasiyanın dozası partlayışdan bir saat sonra neçə R/s olur?",
+    "options": ["8 R/s", "15 R/s", "12 R/s", "5 R/s", "10 R/s"],
+    "answer": "8 R/s"
+  },
+  {
+    "id": 322,
+    "question": "B zonasının hüdudundan kənarda radiasiyanın dozası partlayışdan bir saat sonra neçə R/s olur?",
+    "options": ["90 R/s", "80 R/s", "85 R/s", "60 R/s", "70 R/s"],
+    "answer": "80 R/s"
+  },
+  {
+    "id": 323,
+    "question": "Polad materiallar üçün nüfuzedici radiasiyanın təsirini 2 dəfə azaldan qalınlıq nə qədərdir?",
+    "options": ["40 sm", "20 sm", "2,7 sm", "5 sm", "10 mm"],
+    "answer": "2,7 sm"
+  },
+  {
+    "id": 324,
+    "question": "Bir ildə AES-də işləməyən fəhlələr şüalanma dözası nə qədər qəbul edərlər?",
+    "options": [
+      "5 rentgen",
+      "0,005 rentgen",
+      "0,05 rentgen",
+      "50 rentgen",
+      "0,5 rentgen"
+    ],
+    "answer": "0,5 rentgen"
+  },
+  {
+    "id": 325,
+    "question": "İnsanların yoluxması üçün bakterioloji daşıyıcı vasitələr hansılardır?",
+    "options": [
+      "Təyyarə mərmiləri, top mərmisi, raket, konteyner",
+      "Əl qumbarası, Makarov tapancası",
+      "Sualtı qayıq, sputnik gəmisi, kosmik aparat",
+      "Kalaşnikov avtomatı, həcmli bombalar",
+      "Vakuum bombası, neytron və proton silahları"
+    ],
+    "answer": "Təyyarə mərmiləri, top mərmisi, raket, konteyner"
+  },
+  {
+    "id": 326,
+    "question": "Yoluxucu xəstəliyin əlamətləri aşkara çıxan kimi hara xəbər vermək lazımdır?",
+    "options": [
+      "rabitə xidmətinə",
+      "tibb müəssisəsinə",
+      "yanğınsöndürmə xidmətinə",
+      "bitkiləri mühafizə xidmətinə",
+      "mülki müdafiə xidmətinə"
+    ],
+    "answer": "tibb müəssisəsinə"
+  },
+  {
+    "id": 327,
+    "question": "Bioloji zədələnmə ocağı nədir?",
+    "options": [
+      "Bioloji silahın tətbiqi nəticəsində külli miqdarda insan, heyvan və bitki təlafatı baş versin",
+      "Adi qırğın vasitələrindən istifadə zamanı kimyəvi zəhərlənməyə məruz qalan ərazidir",
+      "Güclü yanğınlar və partlayışlar nəticəsində radioaktiv maddələrlə zəhərlənən ərazidir",
+      "Nüvə silahının tətbiqi nəticəsində kimyəvi zəhərlənmə baş verən ərazidir",
+      "Kimyəvi silahın tətbiqi zamanı dağıntılar olan, yanğınlar baş verən ərazidir"
+    ],
+    "answer": "Bioloji silahın tətbiqi nəticəsində külli miqdarda insan, heyvan və bitki təlafatı baş versin"
+  },
+  {
+    "id": 328,
+    "question": "Kimyəvi zədələnmə ocağında Si-ES qazı necə təsir göstərir?",
+    "options": [
+      "Ərazidə canlılarda dəri-zöhrəvi yaralar əmələ gətirir",
+      "Ərazidə canlılara qıcıqlandırıcı təsir göstərir",
+      "Ərazidə canlıların sinir sisteminin iflicini gücləndirir",
+      "Ərazidə canlılar arasında rikketsinin yayılması güclənir",
+      "Ərazidə canlılarda boğucu təsir güclənir"
+    ],
+    "answer": "Ərazidə canlılara qıcıqlandırıcı təsir göstərir"
+  },
+  {
+    "id": 329,
+    "question": "Dərini zədələyən zəhərli maddələr hansılardır?",
+    "options": [
+      "V qazlar, sianid turşusu",
+      "Meskain, Bi-ZET",
+      "texniki iprit, azotlu iprit, saf ipirt, lüizit",
+      "Fosgen, difosgen",
+      "Xlorsian, LSD"
+    ],
+    "answer": "texniki iprit, azotlu iprit, saf ipirt, lüizit"
+  },
+  {
+    "id": 330,
+    "question": "Bioloji zərərin fokuslanması hansı amillərdən asılı deyil?",
+    "options": [
+      "gizli inkişaf dövrü",
+      "yoluxucu xəstəliklərin patogenlərinin yayılma yolu",
+      "hava şəraiti",
+      "xəstə adamdan sağlam adama keçməklə",
+      "həll etmək qabiliyyətindən"
+    ],
+    "answer": "həll etmək qabiliyyətindən"
+  },
+  {
+    "id": 331,
+    "question": "Kimyəvi silahdan istifadə edərkən əsasən nəyə təsir edir?",
+    "options": [
+      "şəxsi heyətin döyüş, əhalinin isə əmək qabiliyyətinin zəifləməsinə",
+      "neytron silahının partlamasına uyğundur",
+      "təsiri yoxdur",
+      "təsir ancaq bir dəfə olur",
+      "bakterioloji silaha bənzəyir"
+    ],
+    "answer": "şəxsi heyətin döyüş, əhalinin isə əmək qabiliyyətinin zəifləməsinə"
+  },
+  {
+    "id": 332,
+    "question": "Kimyəvi zədələnmə ocağında iprit, lüizit və azotlu iprit necə təsir göstərir?",
+    "options": [
+      "Ərazidə canlıların sinir sistemini iflic edir",
+      "Elə zəhərli birləşmələrdir ki, onlar hətta ən cüzi miqdarda bədənin dəri örtüyünü zədələyə bilir",
+      "Ərazidə canlılar arasında göbələk xəstəliyi yayılır",
+      "Ərazidə canlılar arasında psixo-mimotiq təsirli xəstəliklər yayılır",
+      "Ərazidə canlılar arasında tülyarmeriya xəstəliyi yayılır"
+    ],
+    "answer": "Elə zəhərli birləşmələrdir ki, onlar hətta ən cüzi miqdarda bədənin dəri örtüyünü zədələyə bilir"
+  },
+  {
+    "id": 333,
+    "question": "Ümumzəhərləyici maddələr hansılardır?",
+    "options": [
+      "Zarin, iprit",
+      "Zoman, fosgen",
+      "Vx-qaz, zarin",
+      "Sianid turşusu, xlorsian",
+      "Iprit, Lüizit"
+    ],
+    "answer": "Sianid turşusu, xlorsian"
+  },
+  {
+    "id": 334,
+    "question": "Kimyəvi silah nədir?",
+    "options": [
+      "Kütləvi qirğın silahidir və bakterioloji maddələrin tətbiqi ilə yaranan və az təsir edən silah növüdür",
+      "Kütləvi qırğın silahlarından biridir, radiaktiv təsir edən silah növüdür",
+      "Adi qırğın silahlarından biridir, zədələyici təsirə malikdir, uzun müddət təsir edir",
+      "Güclü təsirli maddələri ətrafa yayan vasitələr, zəhərləyici təsiri olmayan maddələrdir",
+      "Kütləvi qırğın silahlarından biri olub, zəhərləyici maddələr və onları tətbiq etmək üçün istifadə olunan vasitələrə deyilir"
+    ],
+    "answer": "Kütləvi qırğın silahlarından biri olub, zəhərləyici maddələr və onları tətbiq etmək üçün istifadə olunan vasitələrə deyilir"
+  },
+  {
+    "id": 335,
+    "question": "Kimyəvi zədələnmə ocağı nəyə deyilir?",
+    "options": [
+      "Bioloji silahın tətbiqi zamanı qurğular dağılsın, insan bitki və heyvan tələfatı olsun ərazi radioktiv və kimyəvi zəhərlənməyə məruz qalması",
+      "Kimyəvi silah tətbiq olunsun və bioloji təsir baş versin, insan təlafatı olsun",
+      "Adi silahların tətbiqi zamanı güclü dağıntılar və maddi sərvətlər məhv olsun insan, bitki və heyvan tələfatı olsun",
+      "Nüvə silahın tətbiqi zamanı dağıntılar, partlayışlar baş versin, qurğular dağılsın həmcinin insan, bitki və heyvan tələfatı olsun",
+      "Kimyəvi silahın tətbiqi zamanı zəhərli maddələr və ya güclü təsirli zəhərli maddələrinin təsiri nəticəsində əhalinin, heyvanların və bitkilərin zədələnməsi baş verir"
+    ],
+    "answer": "Kimyəvi silahın tətbiqi zamanı zəhərli maddələr və ya güclü təsirli zəhərli maddələrinin təsiri nəticəsində əhalinin, heyvanların və bitkilərin zədələnməsi baş verir"
+  },
+  {
+    "id": 336,
+    "question": "Karantin nədir?",
+    "options": [
+      "Bakterial yoluxma ocağını təcrid etmək, xəstəliklərin yayılmasının qarşısını almaq və yoluxmanı aradan qaldırmaq məqsədilə yerinə yetirilən epidemiya əleyhinə rejimli profilaktika tədbirləri sistemidir",
+      "Kimyəvi zədələnmə ocağından zəhərli maddələrinin ətrafa yayılmasının qarşısını almaq üçün rejimli tədbirlər sistemidir",
+      "Radioaktiv vasitələrin zərərsizləşdirilməsi-deqazasiya, dezinfeksiya tədbirləridir",
+      "Kimyəvi-bakterioloji zəhərlənməyə nəzarət etmək üçün məntəqələrdir",
+      "Kimyəvi təsirə qarşı qabaqlayıcı tədbirdir"
+    ],
+    "answer": "Bakterial yoluxma ocağını təcrid etmək, xəstəliklərin yayılmasının qarşısını almaq və yoluxmanı aradan qaldırmaq məqsədilə yerinə yetirilən epidemiya əleyhinə rejimli profilaktika tədbirləri sistemidir"
+  },
+  {
+    "id": 337,
+    "question": "Observasiya nədir?",
+    "options": [
+      "Kimyəvi və bioloji zəhərlənmə zonalarında həyata keçirilən tədbirlər sistemidir",
+      "Radioaktiv zədələnmə ocağında aparılan nəzarət növüdür",
+      "Yoluxan xəstəliklərin və kimyəvi zəhərlənmələrin yayılmasının qarşısını almaq məqsədilə təcridetmə və müalicə profilaktiki tədbirləri sistemidir",
+      "Kimyəvi zədələnmə ocağında aparılan kəşfiyyat növüdür",
+      "Yoluxucu xəstəliklərin yayılmasının qarşısını almaq məqsədi ilə məhdudlaşdırma-təcridetmə müalicə profilaktika tədbirləri sistemidir"
+    ],
+    "answer": "Yoluxucu xəstəliklərin yayılmasının qarşısını almaq məqsədi ilə məhdudlaşdırma-təcridetmə müalicə profilaktika tədbirləri sistemidir"
+  },
+  {
+    "id": 338,
+    "question": "Antidotlar nədir?",
+    "options": [
+      "Bakterioloji təsir edən ZM-in qarşısını alır",
+      "Dəridə yanıqlara müsbət təsir edən məhluldur",
+      "Radioaktiv maddələrin təsirini zəiflədən həblərdir",
+      "Dəri səthinə düşən ZM-ri zərərsizləşdirir",
+      "Zəhərli maddələrin təsirinin qarşısını alan və ya zəiflədən həblərdir"
+    ],
+    "answer": "Zəhərli maddələrin təsirinin qarşısını alan və ya zəiflədən həblərdir"
+  },
+  {
+    "id": 339,
+    "question": "Bioloji xarakterli FH necə baş verə bilər?",
+    "options": [
+      "Virusların, müxtəlif xəstəliklərin yayılması, maddələrin dağılması və yanğın ilə",
+      "Əraziyə kimyəvi maddələrin dağılması, müxtəlif xəstəliklərin yayılması, tif ilə",
+      "Ərazidə epidemiyaların, virusların, müxtəlif xəstəliklərin yayılması ilə",
+      "Əraziyə epidemiyaların, virusların, kimyəvi maddələrin dağılması, vərəm ilə",
+      "Müxtəlif xəstəliklərin yayılması, maddələrin dağılması, adamların tələf olması ilə"
+    ],
+    "answer": "Ərazidə epidemiyaların, virusların, müxtəlif xəstəliklərin yayılması ilə"
+  },
+  {
+    "id": 340,
+    "question": "Xlorasetofenon, brombenzilsianid, xlorpikrin hansı ZM-ə aiddir?",
+    "options": [
+      "Psixokimyəvi ZM",
+      "Boğucu təsirli ZM",
+      "Gözyaşardıcı ZM",
+      "Sinir iflicedici ZM",
+      "Dəridə yaraçıxaran ZM"
+    ],
+    "answer": "Gözyaşardıcı ZM"
+  },
+  {
+    "id": 341,
+    "question": "Sinir iflicedici ZM kimyəvi strukturuna hansı maddələr aiddir?",
+    "options": [
+      "Xlorlu birləşmədir",
+      "fosforlu üzvi birləşmə (zarin, zoman, v qazı)",
+      "Fosgen ZM",
+      "Xlorisan ZM",
+      "Adamsit ZM"
+    ],
+    "answer": "fosforlu üzvi birləşmə (zarin, zoman, v qazı)"
+  },
+  {
+    "id": 342,
+    "question": "Kimyəvi zədələnmə ocağının yaranmasına bi-zet necə təsir göstərir?",
+    "options": [
+      "Ərazidə canlılar arasında qripp xəstəliyi güclənir",
+      "Ərazidə canlılara psixo-kimyəvi təsir güclənir",
+      "Ərazidə canlılar arasında boğulmalar güclənir",
+      "Ərazidə canlılarda dəri-zöhrəvi yaralar əmələ gətirir",
+      "Ərazidə canlılar arasında sinir sisteminin iflici güclənir"
+    ],
+    "answer": "Ərazidə canlılara psixo-kimyəvi təsir güclənir"
+  },
+  {
+    "id": 343,
+    "question": "Buxarları gözlərin selikli qişalarını, ağ ciyərləri güclü, yuxarı tənəffüs yollarını azacıq qıcıqlandıran hansı ZM-dir?",
+    "options": ["Sianid turşusu", "Xlorpikrin", "Fosgen", "Amonyak", "Zarin"],
+    "answer": "Xlorpikrin"
+  },
+  {
+    "id": 344,
+    "question": "Bakterioloji silahın təsirindən kənd təsərrüfatı bitkilərində hansı xəstəliklər yayıla bilər?",
+    "options": [
+      "Psixokimyəvi, Boğucu təsirli ZM",
+      "Konyuktiv, ku-lexoradka, ağciyər iltihabı",
+      "Siniriflicedici təsirli, sibir göbələyi",
+      "Paslanma törəməsi, vəba, ağ ciyər ödemi",
+      "Fitoftoroza (kartofeldə), paslanma törəməsi, kanada lixoradkası (qarağac ağacında)"
+    ],
+    "answer": "Fitoftoroza (kartofeldə), paslanma törəməsi, kanada lixoradkası (qarağac ağacında)"
+  },
+  {
+    "id": 345,
+    "question": "Azərbaycan Respublikası Vahid Dövlət Sisteminin təyinatı nədən ibarətdir?",
+    "options": [
+      "Yerin relyefindən istifadə edərək qəza nəticələrinin aradan qaldırılmasından",
+      "Qalın divarlarla insanların mühafizəsinin təmin edilməsindən",
+      "Müxtəlif xarakterli FH-ın qarşısının alınması, əhalinin təhlükəsizliyinin təmin edilməsi və xalq təsərrüfatında ziyanın azaldılması",
+      "Texnikadan istifadə olunmaqla zirzəmilərdən insanların xilas edilməsindən",
+      "Əhalini xəbərdar etmədən sığınacaqlardan, daldalanacaqlardan çıxartmaq"
+    ],
+    "answer": "Müxtəlif xarakterli FH-ın qarşısının alınması, əhalinin təhlükəsizliyinin təmin edilməsi və xalq təsərrüfatında ziyanın azaldılması"
+  },
+  {
+    "id": 346,
+    "question": "FH Dövlət sistemində üçüncü fəaliyyət rejimi hansıdır?",
+    "options": [
+      "Gündəlik rejim",
+      "FH-da əhalinin xəbərdar edilməsi",
+      "FH zamanı əhalinin köçürülməsi",
+      "FH-ın proqnozlaşdırılması",
+      "Fövqəladə hal rejimi"
+    ],
+    "answer": "Fövqəladə hal rejimi"
+  },
+  {
+    "id": 347,
+    "question": "Fövqəladə Hallarda Dövlət sisteminin ikinci fəaliyyət rejimi hansıdır?",
+    "options": [
+      "Gündəlik rejim",
+      "FH rejimi",
+      "Sadələşdirilmiş fəaliyyət",
+      "Birdəfəlik fəaliyyət",
+      "Yüksək hazırlıq"
+    ],
+    "answer": "Yüksək hazırlıq"
+  },
+  {
+    "id": 348,
+    "question": "Fövqəladə Hallarda Dövlət sisteminin birinci fəaliyyət rejimi hansıdır?",
+    "options": [
+      "Birdəfəlik fəaliyyət",
+      "Gücləndirilmiş rejim",
+      "Sadələşdirilmiş fəaliyyət",
+      "FH rejimi",
+      "Gündəlik rejim"
+    ],
+    "answer": "Gündəlik rejim"
+  },
+  {
+    "id": 349,
+    "question": "Bildiyiniz kimi, fövqəladə halların qarşısının alınması üzrə komissiyalar fəaliyyət göstərir. Fövqəladə Hallar Komissiyasının şəxsi heyətinin sayını kim təsdiq edir?",
+    "options": [
+      "Azərbaycan Respublikasının Müdafiə naziri",
+      "Azərbaycan Respublikasının Səhiyyə naziri",
+      "Azərbaycan Respublikasının Maliyyə naziri",
+      "Azərbaycan Respublikasının Nazirlər Kabineti",
+      "Azərbaycan Respublikasının Daxili işlər naziri"
+    ],
+    "answer": "Azərbaycan Respublikasının Nazirlər Kabineti"
+  },
+  {
+    "id": 350,
+    "question": "Mülki müdafiə sahəsində dövlətin vəzifəsi hansıdır?",
+    "options": [
+      "Şəhərlərin qruplarını və təsərrüfat obyektlərinin əmək haqqını vermək",
+      "Mülki müdafiə üzrə zonaları təyyin edib təqaüdləri vaxtında vermək",
+      "Zədələnmiş insanlara ilk tibbi yardımı təşkil etmək",
+      "Böyük şəhər və kəndlərdə X və TİG-ni təşkil etmək",
+      "Mülki müdafiə zonalarını, şəhərlərin qruplarını və təsərrüfat obyektlərinin dərəcələrini müəyyən etmək"
+    ],
+    "answer": "Mülki müdafiə zonalarını, şəhərlərin qruplarını və təsərrüfat obyektlərinin dərəcələrini müəyyən etmək"
   }
 ]
