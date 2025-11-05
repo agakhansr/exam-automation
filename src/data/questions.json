@@ -2159,7 +2159,7 @@
     "id": 211,
     "question": "DP-64 cihazı indikator-siqnalizatoru neçə R/s-a çatanda bu barədə səs və işıq siqnalları verilməsini təmin edir?",
     "options": ["0,5 R/s", "0,4 R/s", "0,2 R/s", "0,6 R/s", "0,1 R/s"],
-    "answer": ""
+    "answer": "0,2 R/s"
   },
   {
     "id": 212,
@@ -2171,7 +2171,7 @@
       "Saxlama cihazı",
       "fotoluminoforlar"
     ],
-    "answer": ""
+    "answer": "İndikator"
   },
   {
     "id": 213,
@@ -2183,7 +2183,7 @@
       "Radiasiya təhlükəsi, kimyəvi həyacan",
       "Hamının diqqətinə"
     ],
-    "answer": ""
+    "answer": "Təbii fəlakət həyacanı"
   },
   {
     "id": 214,
@@ -2195,7 +2195,7 @@
       "obyektin kadrlar şöbəsi tərəfindən",
       "obyektin qərargah rəisi tərəfindən"
     ],
-    "answer": ""
+    "answer": "obyektin rəhbəri (rəisi, müdiri və ya direktoru) tərəfindən"
   },
   {
     "id": 215,
@@ -2207,7 +2207,7 @@
       "Mülci müdafiə rəhbəri tərəfindən",
       "Mülci müdafiənin təsərrüfat rəisi tərəfindən"
     ],
-    "answer": ""
+    "answer": "Mülci müdafiə rəhbəri tərəfindən"
   },
   {
     "id": 216,
@@ -2219,7 +2219,7 @@
       "obyektin rəis müavini",
       "təsərrüfat rəisi"
     ],
-    "answer": ""
+    "answer": "obyektin mülci müdafiə qərargahının rəisi"
   },
   {
     "id": 217,
@@ -2231,13 +2231,13 @@
       "icra hakimiyyəti nümayəndələri",
       "mülci müdafiə xidməti"
     ],
-    "answer": ""
+    "answer": "onların rəhbərləri və sahibkarları"
   },
   {
     "id": 218,
     "question": "Mülci müdafiə rəhbərliyinin idarəetmə üzrə iş prosesi neçə mərhələdən ibarətdir?",
     "options": ["1", "4", "3", "2", "5"],
-    "answer": ""
+    "answer": "4"
   },
   {
     "id": 219,
@@ -2249,7 +2249,7 @@
       "Şəhər və rayon ərazisində",
       "Bulvar ərazisində"
     ],
-    "answer": ""
+    "answer": "Şəhər və rayon ərazisində"
   },
   {
     "id": 220,
@@ -2261,7 +2261,7 @@
       "tibb məntəqəsi, əlavə",
       "köməkçi, əlavə, dəhliz"
     ],
-    "answer": ""
+    "answer": "əsas, ehtiyyat, yardımçı, səyyar"
   },
   {
     "id": 221,
@@ -2273,7 +2273,7 @@
       "mülci müdafiə nazirinin müavinidir",
       "Fövqəladə Hallar Nazirliyinin əməkdaşıdır"
     ],
-    "answer": ""
+    "answer": "mülci müdafiə təşkilatının rəis müavinidir"
   },
   {
     "id": 222,
@@ -2285,13 +2285,13 @@
       "zədələyici amillərin təsirinni izləməkdən",
       "zədələyici amillərin təsirinə qarşı hər bir obyekt və sənaye kompleksinin fiziki dayanıqlılığından"
     ],
-    "answer": ""
+    "answer": "zədələyici amillərin təsirinə qarşı hər bir obyekt və sənaye kompleksinin fiziki dayanıqlılığından"
   },
   {
     "id": 223,
     "question": "Mümkün dagılma ərazisi neçə zonaya bölünür?",
     "options": ["2", "3", "5", "4", "6"],
-    "answer": ""
+    "answer": "2"
   },
   {
     "id": 224,
@@ -2303,7 +2303,7 @@
       "Fəhlələrin mühafizəsi üçün sığınacaqların hazırlığa gətirilməsi",
       "Unikol aparatları və dəzgahlar"
     ],
-    "answer": ""
+    "answer": "Üzülməyən azuqə, neft məhsulları, xammal"
   },
   {
     "id": 225,
@@ -2315,7 +2315,7 @@
       "Prizma, konus, silindr formal",
       "Dörd bucaq, sektor, silindr"
     ],
-    "answer": ""
+    "answer": "Dairəvi, zolaq, qeyri-müəyyən"
   },
   {
     "id": 226,
@@ -2327,13 +2327,13 @@
       "zədələnməyə aid deyil",
       "brinci qrup zədələnməyə"
     ],
-    "answer": ""
+    "answer": "brinci qrup zədələnməyə"
   },
   {
     "id": 227,
     "question": "İşini davam etdirən obyektdə neçə iş növbəsi təyin edilir?",
     "options": ["6", "8", "2", "4", "3"],
-    "answer": ""
+    "answer": "4"
   },
   {
     "id": 228,
@@ -2345,7 +2345,7 @@
       "Avadanlığın sazlığından",
       "İdarəetmə sisteminin avtomatlaşdırılması səviyyəsindən"
     ],
-    "answer": ""
+    "answer": "Fəhlə və qulluqçuların mühafizə edilmə imkanından"
   },
   {
     "id": 229,
@@ -2357,13 +2357,13 @@
       "Sahələrin işinin dayanıqlığı",
       "Fəhlə və qulluqçuların bacarığı"
     ],
-    "answer": ""
+    "answer": "Obyektlərin işinin pul dövriyyəsinin dayanıqlığı"
   },
   {
     "id": 230,
     "question": "Zədələnmə ocağında yerinə yetirilən işlər neçə hissədən ibarətdir?",
     "options": ["5", "2", "3", "4", "6"],
-    "answer": ""
+    "answer": "2"
   },
   {
     "id": 231,
@@ -2375,19 +2375,19 @@
       "fövqəladə hallar zamanı içməli su təchizatının saxlanılması üçün vacibdir",
       "ən çox məskunlaşan əraziləri müəyyən etmək vacibdir"
     ],
-    "answer": ""
+    "answer": "yanğınların yayılması ehtimalını azaltmaq və daha səmərəli xilasetmə əməliyyatlarına töhfə vermək üçün vacibdir"
   },
   {
     "id": 232,
     "question": "Zədələnmə ocaqlarında yerinə yetirilən işlər neçə mərhələdən ibarətdir?",
     "options": ["4", "6", "5", "2", "3"],
-    "answer": ""
+    "answer": "2"
   },
   {
     "id": 233,
     "question": "Fövqəladə hadisə nəticələrinin aradan qaldırılması üzrə işlər neçə mərhələ üzrə yerinə yetirilir?",
     "options": ["3", "4", "5", "6", "2"],
-    "answer": ""
+    "answer": "3"
   },
   {
     "id": 234,
@@ -2399,19 +2399,19 @@
       "qəza-xilasetmə işlərinin aparılmasına şərait yaratmaq",
       "Tibbi yardımın göstərilməsi üçün şərait yaratmaq"
     ],
-    "answer": ""
+    "answer": "qəza-xilasetmə işlərinin aparılmasına şərait yaratmaq"
   },
   {
     "id": 235,
     "question": "Ali təhsil müəssisələrində Mülci müdafiə fənni proqram üzrə neçə saat tədris olunur?",
     "options": ["45", "30", "46", "50", "60"],
-    "answer": ""
+    "answer": "45"
   },
   {
     "id": 236,
     "question": "Əhalinin mülci müdafiəyə hazırlanmasının hansı üsulları mümkün deyil?",
     "options": ["mühazirə", "izahat", "göstəriş", "nümayiş", "laboratoriya"],
-    "answer": ""
+    "answer": "laboratoriya"
   },
   {
     "id": 237,
@@ -2423,7 +2423,7 @@
       "Çalışma, məşq",
       "Müstəqil iş"
     ],
-    "answer": ""
+    "answer": "Çalışma, məşq"
   },
   {
     "id": 238,
@@ -2435,7 +2435,7 @@
       "Nümayiş",
       "Ümumi hazırlıq"
     ],
-    "answer": ""
+    "answer": "Xüsusi hazırlıq"
   },
   {
     "id": 239,
@@ -2447,7 +2447,7 @@
       "ildə 1 dəfə",
       "ildə 4 dəfə"
     ],
-    "answer": ""
+    "answer": "ildə 1 dəfə"
   },
   {
     "id": 240,
@@ -2459,7 +2459,7 @@
       "4 ildən bir",
       "5 ildən bir"
     ],
-    "answer": ""
+    "answer": "3 ildən bir"
   },
   {
     "id": 241,
@@ -2471,7 +2471,7 @@
       "Təlimin fəallılığı və əyanililik",
       "Dəqiqlik və məqsədyönlülük"
     ],
-    "answer": ""
+    "answer": "Dəqiqlik və məqsədyönlülük"
   },
   {
     "id": 242,
@@ -2483,7 +2483,7 @@
       "1 ildən bir",
       "4 ildən bir"
     ],
-    "answer": ""
+    "answer": "3 ildən bir"
   },
   {
     "id": 243,
@@ -2495,7 +2495,7 @@
       "Yoluxucu xəstəlik törədən gəmircilərin məhv edilməsini",
       "Yoluxucu xəstəlik törədən həşaratların məhv edilməsini"
     ],
-    "answer": ""
+    "answer": "Bizi əhatə edən yoluxucu xəstəlik törədən mikrobların məhv edilməsini"
   },
   {
     "id": 244,
@@ -2507,7 +2507,7 @@
       "ZM-lə insanların və heyvanların zəhərlənməsinin qarşısını almaq üçün zərərsizləşdirmə üsulları",
       "heyvanların bakterioloji vasitələrdən mühafizəsi üçün aparılan üsuldur"
     ],
-    "answer": ""
+    "answer": "yolxucu xəstəlikləri yayan gəmiricilərin məhv edilməsi"
   },
   {
     "id": 245,
@@ -2519,25 +2519,25 @@
       "deratizasiya üsulla",
       "fiziki və bakterioloji"
     ],
-    "answer": ""
+    "answer": "mexaniki, fiziki və kimyəvi"
   },
   {
     "id": 246,
     "question": "AI-1 ilk yardım dəstində (apteçka) neçə Sistamin tableti var?",
     "options": ["7", "12", "17", "5", "15"],
-    "answer": ""
+    "answer": "12"
   },
   {
     "id": 247,
     "question": "Taun xəstəliyinin törədiciləri suda hansı müddətdə təhlükəli olaraq qalır?",
     "options": ["10 gün", "30 gün", "50 gün", "20 gün", "25 gün"],
-    "answer": ""
+    "answer": "30 gün"
   },
   {
     "id": 248,
     "question": "Taun xəstəliyinin törədiciləri süddə hansı müddətdə təhlükəli olaraq qalır?",
     "options": ["70 gün", "60 gün", "100 gün", "90 gün", "50 gün"],
-    "answer": ""
+    "answer": "90 gün"
   },
   {
     "id": 249,
@@ -2549,7 +2549,7 @@
       "Alt qatından 3-4 sm qalınlığından kəsməklə",
       "Üst qatından 4-5 mm qalınlığından kəsməklə"
     ],
-    "answer": ""
+    "answer": "Üst qatlarından 2-3 mm qalınlığından kəsməklə"
   },
   {
     "id": 250,
@@ -2561,6 +2561,6 @@
       "fiziki üsul",
       "dezinseksiya üsul"
     ],
-    "answer": ""
+    "answer": "kimyəvi üsul"
   }
 ]
